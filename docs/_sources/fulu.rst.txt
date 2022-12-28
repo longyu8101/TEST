@@ -7,3 +7,7 @@
     xmjd/fuluA
     xmjd/fuluB 
     xmjd/fuluC
+    xmjd/fuluD
+    xmjd/fuluE
+    xmjd/fuluF
+    xmjd/fuluG    
