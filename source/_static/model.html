@@ -1,0 +1,101 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>My first three.js app</title>
+    <style>
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="module"></div>
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "http://www.respectator.com:9000/simple/model/three/build/three.module.js",
+          "three/addons/": "http://www.respectator.com:9000/simple/model/three/examples/jsm/"
+        }
+      }
+    </script>
+    <script type="module">
+      import * as THREE from "three";
+      // 导入控制器
+      import { OrbitControls } from "three/addons/controls/OrbitControls.js";
+      // import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
+      // 导入gltf载入库
+      import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
+      // import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
+
+      // 尺寸设置
+      const width = window.innerWidth * 0.4;
+      const height = window.innerHeight * 0.6;
+
+      // 初始化场景
+      const scene = new THREE.Scene();
+
+      // 初始化相机
+      const camera = new THREE.PerspectiveCamera(80, width / height, 0.1, 2000);
+      camera.position.set(-10, 30, 50); // 相机位置
+      camera.aspect = width / height; // 更新摄像头宽高比例
+      camera.updateProjectionMatrix(); // 更新摄像头投影矩阵
+
+      scene.add(camera);
+
+      // 初始化渲染器
+      const renderer = new THREE.WebGLRenderer({
+        // 设置抗锯齿
+        antialias: true,
+        //   对数深度缓冲区
+        logarithmicDepthBuffer: true, // 防止渲染闪烁
+      });
+      renderer.outputEncoding = THREE.sRGBEncoding;
+      renderer.setClearColor("rgba(255,255,255,0.87)", 1.0); // 渲染白色背景
+
+      // 渲染器宽高
+      renderer.setSize(width, height);
+
+      // 监听屏幕大小修改配置
+      window.addEventListener("resize", () => {
+        camera.aspect = width / height;
+        camera.updateProjectionMatrix();
+        renderer.setSize(width, height);
+      });
+
+      // 渲染器添加到页面
+      // document.body.appendChild(renderer.domElement);
+      const module = document.getElementsByClassName("module")[0];
+      module.appendChild(renderer.domElement);
+
+      // 初始化控制器
+      const controls = new OrbitControls(camera, renderer.domElement);
+
+      // 渲染函数
+      function render() {
+        renderer.render(scene, camera);
+        requestAnimationFrame(render);
+      }
+      render();
+
+      // 添加平行光
+      const light = new THREE.DirectionalLight(0xffffff, 1);
+      light.position.set(50, 100, 50);
+      scene.add(light);
+
+      // 添加环境光
+      const envLight = new THREE.SpotLight(0xffffff, 1);
+      envLight.position.set(-50, 100, -50);
+      scene.add(envLight);
+
+      // 添加桥梁模型
+      const loader = new GLTFLoader();
+      loader.load(
+        "http://www.respectator.com:9000/simple/model/wujiang.glb",
+        (gltf) => {
+          gltf.scene.position.set(0, 10, -5);
+          scene.add(gltf.scene);
+        }
+      );
+    </script>
+  </body>
+</html>

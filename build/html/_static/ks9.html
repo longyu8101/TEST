@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+ <html lang="zh">
+ 
+     <head>
+         <meta charset="UTF-8" />
+         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+         <title>点击查看大图</title>
+         <link rel="stylesheet" type="text/css" href="./_static/viewer.min.css" />
+         <style type="text/css">
+             * {
+                 margin: 0;
+                 padding: 0;
+             }
+             img{
+                 border: 0 solid #fbfdfd;
+             }
+             #test{
+                color: dimgray;
+                text-align: center;
+             }
+         </style>
+     </head>
+ 
+     <body>
+         <div>
+             <img id="image9" src="./_static/pic9.png" alt="Picture">
+             <p id="test">图9 桥梁检测平台-内业工程师界面</p>
+         </div>
+         <script src="./_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+         <script type="text/javascript">
+             var viewer = new Viewer(document.getElementById('image9'));
+         </script>
+     </body>
+ 
+ </html>
