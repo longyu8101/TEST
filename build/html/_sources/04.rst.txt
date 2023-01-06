@@ -31,7 +31,7 @@
 
 .. raw:: html
 
- <p><a href="#id4.2.3"> 4.2.3</a> <span id="id4.2.3">氯盐引起钢筋锈蚀劣化耐久性检测方法应付和<a href="https://longyu8101.github.io/TEST/xmjd/fuluC.html">附录C</a>的有关规定。</span></p>
+ <p><a href="#id4.2.3"> 4.2.3</a> <span id="id4.2.3">氯盐引起钢筋锈蚀劣化耐久性检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluC.html">附录C</a>的有关规定。</span></p>
 
  <h2><a href="#id4.3"> 4.3</a> <span id="id4.3">混凝土碳化引起钢筋锈蚀劣化耐久性检测</span></h2>
 
