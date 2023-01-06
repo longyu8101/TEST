@@ -52,7 +52,7 @@
 
 .. raw:: html
 
- <p><a href="#id4.3.3"> 4.3.3</a> <span id="id4.3.3">混凝土碳化硬起钢筋锈蚀劣化耐久性检测方法应按附录C的有关规定执行。</span></p>
+ <p><a href="#id4.3.3"> 4.3.3</a> <span id="id4.3.3">混凝土碳化硬起钢筋锈蚀劣化耐久性检测方法应按 <a href="https://longyu8101.github.io/TEST/xmjd/fuluC.html">附录C</a>的有关规定执行。</span></p>
 
  <h2><a href="#id4.4"> 4.4</a> <span id="id4.4">混凝土冻融劣化耐久性检测</span></h2>
 
