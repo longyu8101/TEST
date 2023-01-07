@@ -1,8 +1,7 @@
-附录
-====================
-
 .. toctree::
-    :maxdepth: 2
+    :caption: 附录
+    :maxdepth: 3
+    :hidden:
 
     xmjd/fuluA
     xmjd/fuluB 

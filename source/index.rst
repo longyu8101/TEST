@@ -43,14 +43,17 @@ JTS 304-2019
     11
     12
 
-
-
-
 .. toctree::
     :caption: 附录
     :maxdepth: 3
     :hidden:
     
-    fulu
+    xmjd/fuluA
+    xmjd/fuluB 
+    xmjd/fuluC
+    xmjd/fuluD
+    xmjd/fuluE
+    xmjd/fuluF
+    xmjd/fuluG 
 
 

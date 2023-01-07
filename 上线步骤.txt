@@ -2,5 +2,5 @@
 touch docs/.nojekyll
 cp -r build/html/* docs/
 git add *
-git commit -m "update1215"
+git commit -m "update0106"
 git push -u origin master
