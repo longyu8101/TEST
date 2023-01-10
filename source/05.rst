@@ -59,22 +59,42 @@ $$V_{1}=\\dfrac{D_{i}-D_{f}}{(1-\\beta)t_{s1}+t_{s2}}\\tag{5.3.1-2}$$
 .. raw:: html
    :file: ./_static/Q531.2.html
 
-.. raw:: html
+.. raw:: html 
 
-    <html lang="en">
-    <head>
-        <style>
-            #B531{ 
-                text-align: center;
-                font-weight: bold;
-             }
-        </style>
-    </head>
-    <body>
-        <p> </p>
-        <div id="B531">表5.3.1 阴极保护防腐蚀措施防腐效率</div>
-        <img id="fig531" src="./_static/tab5.3.1.jpg" alt="Picture">
-    </body>
+   <style>
+      #biaoge,td {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:40px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+     </style>
+
+		<table id="biaoge">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5.3.1">表5.3.1 阴极保护防腐蚀措施防腐效率</b></caption>	
+              
+		    <tr>
+		        <td width="400px" align="center">水位变动区</td>
+		        <td width="400px" align="center">水下区</td>
+		    </tr>
+		   <tr>
+		        <td  align="center">0.2≤< <i>β</i>< 0.9 </td>
+		        <td  align="center"><i>β</i>≥ 0.9 </td>
+		    </tr>
+		</table>
+
+ <p line-height:80PX>  </p>
 
 .. raw:: html
 
@@ -85,21 +105,54 @@ $$t_{e}=t_{s}+\\dfrac{D_{f}-D_{i}}{V}\\tag{5.3.2}$$
 .. raw:: html
    :file: ./_static/Q532.html
 
-.. raw:: html
+.. raw:: html 
 
- <p><a href="#id5.3.3"> 5.3.3</a> <span id="id5.3.3">钢结构耐久性评估分级标准应符合<a href="#B533">表5.3.3</a>的规定。</span></p>
+   <style>
+      #biaoge,td {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:40px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+     </style>
 
-  <html lang="en">
-    <head>
-        <style>
-            #B533{ 
-                text-align: center;
-                font-weight: bold;
-             }
-        </style>
-    </head>
-    <body>
-        <p> </p>
-        <div id="B533">表5.3.3 钢结构耐久性评估分级标准及处理要求</div>
-        <img id="fig533" src="./_static/tab5.3.3.jpg" alt="Picture">
-    </body>
+		<table id="biaoge">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5.3.1">表5.3.1 阴极保护防腐蚀措施防腐效率</b></caption>	
+              
+		    <tr>
+		        <td width="70px" align="center">等级</td>
+                <td width="500px" align="center">分级标准</td>
+		        <td width="400px" align="center">处理要求</td>
+		    </tr>
+		   <tr>
+		        <td  align="center">A</td>
+		        <td  align="left" >具有足够的承载能力,耐久性满足设计使用年限要求</td>
+                <td  align="left" >不必采取措施</td>
+		    </tr>
+            		   <tr>
+		        <td  align="center">B</td>
+		        <td  align="left" >腐蚀尚不显著影响承载能力,耐久性不满足设计使用年限要求</td>
+                <td  align="left"  valign="top">及时采取修复措施</td>
+		    </tr>
+             <tr>
+		        <td  align="center">C</td>
+		        <td  align="left" >腐蚀已显著影响承载能力,耐久性不满足设计使用年限要求</td>
+                <td  align="left" valign="top">立即采取修复、补强措施</td>
+		    </tr>
+            <tr>
+		        <td  align="center">D</td>
+		        <td  align="left" >腐蚀已严重影响承载能力,耐久性不满足设计使用年限要求</td>
+                <td  align="left" valign="top">视情况采取修复、补强措施或报废</td>
+		    </tr>
+		</table>

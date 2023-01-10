@@ -42,54 +42,125 @@
     <li>建筑物的防腐蚀措施达到设计保护年限。</li>
   </ol>
 
+ <p><a href="#id3.0.5"> 3.0.5</a> <span id="id3.0.5">水运工程水工建筑物安全性、适用性和耐久性评估分级处理要求应符合<a href="#B3.0.5-1">表3.0.5-1</a>~<a href="#B3.0.5-3">表3.0.5-3</a>度规定。
+ 
+ <html>
+   <style>
+      table, th, td {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:30px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         
+      }
+   </style>
 
-    <html lang="en">
-    <head>
-        <style>
-            #B3051{ 
-                text-align: center;
-                font-weight: bold;
-             }
-        </style>
-    </head>
-    <body>
-        <p><a href="#id3.0.5"> 3.0.5</a> <span id="id3.0.5">水运工程水工建筑物安全性、适用性和耐久性评估分级及处理要求应符合<a href="#B3051">表3.0.5-1</a>~<a href="#B3053">表3.0.5-3</a>的规定</span></p>
-        <div id="B3051">表3.0.5-1 水运工程水工建筑物安全性评估分级标准及处理要求</div>
-        <img id="fig3051" src="./_static/tab3.0.5-1.jpg" alt="Picture">
-    </body>
+		<table>
 
-.. raw:: html
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.0.5-1">表3.0.5-1 水运工程水工建筑物安全性评估分级标准及处理要求</b></caption>	
+              
+		    <tr>
+		        <td  width="60px" align="center">等级</td>
+		        <td  width="400px" align="center">分级标准</td>
+				<td  width="400px" align="center">处理要求</td>
+		    </tr>
+		    <tr>
+		        <td align="center" >A</td>
+		        <td><p>安全性符合国家有关标准要求,具有足够的承载能力</p></td>
+				<td valign="top"><p >不必采取措施</p></td>
+		    </tr>
+		    <tr>
+		        <td align="center" >B</td>
+		        <td><p >安全性略低于国家有关标准要求,尚不显著显著影响承载能力</p></td>
+				<td valign="top"><p >宜加强检测,视情况采取维护措施</p></td>
+		    </tr>
+			<tr>
+			    <td align="center" >C</td>
+			    <td><p >安全性不符合国家有关标准要求,显著影响承载能力</p></td>
+				<td><p >及时进行修复，补强,视条件和要求恢复到A级或B级标准</p></td>
+			</tr>
+			<tr>
+			    <td align="center" >D</td>
+			    <td><p >安全性严重不符合国家有关标准要求,已严重影响承载能力</p></td>
+				<td><p >立即进行修复，补强,视条件和要求恢复到B级标准或报废</p></td>
+			</tr>
+		</table>
 
-    <html lang="en">
-    <head>
-        <style>
-            #B3052{ 
-                text-align: center;
-                font-weight: bold;
-             }
-        </style>
-    </head>
-    <body>
-        <div id="B3052">表3.0.5-2 水运工程水工建筑物适用性评估分级标准及处理要求</div>
-        <img id="fig3052" src="./_static/tab3.0.5-2.jpg" alt="Picture">
-    </body>
 
-.. raw:: html
 
-    <html lang="en">
-    <head>
-        <style>
-            #B3053{ 
-                text-align: center;
-                font-weight: bold;
-             }
-        </style>
-    </head>
-    <body>
+		<table>
 
-        <div id="B3053">表3.0.5-3 水运工程水工建筑物混凝土结构耐久性评估分级标准及处理要求</div>
-        <img id="fig3053" src="./_static/tab3.0.5-3.jpg" alt="Picture">
-    </body>
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.0.5-2">表3.0.5-2 水运工程水工建筑物适用性评估分级标准及处理要求</b></caption>	
+              
+		    <tr>
+		        <td  width="60px" align="center">等级</td>
+		        <td  width="400px" align="center">分级标准</td>
+				<td  width="400px" align="center">处理要求</td>
+		    </tr>
+		    <tr>
+		        <td align="center">A</td>
+		        <td><p>建筑物整体完好,变形、位移均在设计允许范围内</p></td>
+				<td valign="top"><p>不必采取措施</p></td>
+		    </tr>
+		    <tr>
+		        <td align="center">B</td>
+		        <td><p>建筑物整体完好,变形、位移略超出设计允许范围,但不影响正常使用</p></td>
+				<td><p valign="top">宜加强检测,视情况采取维护措施</p></td>
+		    </tr>
+			<tr>
+			    <td align="center">C</td>
+			    <td><p>建筑物整体破损明显,变形、位移明显超出设计允许范围,影响正常使用</p></td>
+				<td><p>及时进行修复，补强,视条件和要求恢复到A级或B级标准</p></td>
+			</tr>
+			<tr>
+			    <td align="center">D</td>
+			    <td><p >建筑物整体破损严重,变形、位移过大,显著影响安全性和整体使用功能</p></td>
+				<td><p >立即进行修复，补强,视条件和要求恢复到B级标准或报废</p></td>
+			</tr>
+		</table>
+
+
+
+      
+		<table>
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.0.5-3">表3.0.5-3 水运工程水工建筑物混凝土结构耐久性评估分级标准及处理要求</b></caption>	
+              
+		    <tr>
+		        <td  width="60px" align="center">等级</td>
+		        <td  width="400px" align="center">分级标准</td>
+				<td  width="400px" align="center">处理要求</td>
+		    </tr>
+		    <tr>
+		        <td align="center">A</td>
+		        <td><p >材料劣化度符合A级标准规定,耐久性满足设计使用年限要求</p></td>
+				<td valign="top"><p >不必采取措施</p></td>
+		    </tr>
+		    <tr>
+		        <td align="center">B</td>
+		        <td><p >材料劣化度符合B级标准规定,耐久性基本满足设计使用年限要求,结构损伤尚不影响承载能力</p></td>
+				<td valign="top"><p >及时采取修复措施</p></td>
+		    </tr>
+			<tr>
+			    <td align="center">C</td>
+			    <td><p >材料劣化度符合C级标准规定,耐久性不满足设计使用年限要求,结构损伤已影响承载能力</p></td>
+				<td valign="top"><p >立即采取修复、补强措施</p></td>
+			</tr>
+			<tr>
+			    <td align="center">D</td>
+			    <td><p >材料劣化度符合D级标准规定,耐久性不满足设计使用年限要求,结构严重损坏</p></td>
+				<td valign="top"><p >视条件采取修复、补强措施或报废</p></td>
+			</tr>
+		</table>
+
+
+ 
  
 .. raw:: html
 
