@@ -89,7 +89,7 @@ $$V_{1}=\\dfrac{D_{i}-D_{f}}{(1-\\beta)t_{s1}+t_{s2}}\\tag{5.3.1-2}$$
 		        <td width="400px" align="center">水下区</td>
 		    </tr>
 		   <tr>
-		        <td  align="center">0.2≤< <i>β</i>< 0.9 </td>
+		        <td  align="center">0.2≤ <i>β</i>< 0.9 </td>
 		        <td  align="center"><i>β</i>≥ 0.9 </td>
 		    </tr>
 		</table>
@@ -107,6 +107,10 @@ $$t_{e}=t_{s}+\\dfrac{D_{f}-D_{i}}{V}\\tag{5.3.2}$$
 
 .. raw:: html 
 
+ <p><a href="#id5.3.3"> 5.3.3</a> <span id="id5.3.3">钢结构耐久性评估分级标准应符合<a href="#B5.3.3">表5.3.3</a>的规定。</span></p>
+
+.. raw:: html 
+   
    <style>
       #biaoge,td {
          border: 2px solid black;
@@ -128,7 +132,7 @@ $$t_{e}=t_{s}+\\dfrac{D_{f}-D_{i}}{V}\\tag{5.3.2}$$
 
 		<table id="biaoge">
 
-         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5.3.1">表5.3.1 阴极保护防腐蚀措施防腐效率</b></caption>	
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5.3.3">表5.3.3 阴极保护防腐蚀措施防腐效率</b></caption>	
               
 		    <tr>
 		        <td width="70px" align="center">等级</td>
