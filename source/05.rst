@@ -3,16 +3,17 @@
 
 5. 钢结构耐久性检测与评估
 ===============================
-
+5.1 腐蚀介质及工程情况的调查
+-------------------------------------
 .. raw:: html
-
- <h2><a href="#id5.1"> 5.1</a> <span id="id5.1">腐蚀介质及工程情况的调查 </span></h2>
 
  <p><a href="#id5.1.1"> 5.1.1</a> <span id="id5.1.1">腐蚀介质调查内容宜包括潮汐、 温度、湿度、含盐量、pH值、电细率、水污染情况和其他侵蚀介质等,海水环境钢结构腐蚀介质调查内容还应包括海水中氯离子含量。</span></p>
 
  <p><a href="#id5.1.2"> 5.1.2</a> <span id="id5.1.2">工程情况的调查内容除应包括第3.0.2条规定的内容外，还应包括腐蚀情况的检查检测记录。</span></p>
 
- <h2><a href="#id5.2"> 5.2</a> <span id="id5.2">检测 </span></h2>
+5.2 检测
+------------------------
+.. raw:: html
 
  <p><a href="#id5.2.1"> 5.2.1</a> <span id="id5.2.1">淡水环境钢结构外观检测应针对水上区和水下区等不同部位分别检测，海水环境钢结构外观检测应针对大气区、浪溅区、水位变动区和水下区等不同部位分别检测，检测应包括下列内容:</span></p>
 
@@ -26,7 +27,9 @@
 
  <p><a href="#id5.2.3"> 5.2.3</a> <span id="id5.2.3">钢结构的锈蚀检测方法应符合附录E的规定。</span></p>
 
- <h2><a href="#id5.3"> 5.3</a> <span id="id5.3">评估 </span></h2>
+5.3 评估
+------------------------
+.. raw:: html
 
  <p><a href="#id5.3.1"> 5.3.1</a> <span id="id5.3.1">钢结构耐久性评估验算应符合下列规定。</span></p>
 
@@ -80,7 +83,7 @@ $$V_{1}=\\dfrac{D_{i}-D_{f}}{(1-\\beta)t_{s1}+t_{s2}}\\tag{5.3.1-2}$$
       }
      </style>
 
-		<table id="biaoge">
+		<table id="biaoge" style="font-family:times new roman">
 
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5.3.1">表5.3.1 阴极保护防腐蚀措施防腐效率</b></caption>	
               
@@ -130,7 +133,7 @@ $$t_{e}=t_{s}+\\dfrac{D_{f}-D_{i}}{V}\\tag{5.3.2}$$
       }
      </style>
 
-		<table id="biaoge">
+		<table id="biaoge" style="font-family:times new roman">
 
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5.3.3">表5.3.3 阴极保护防腐蚀措施防腐效率</b></caption>	
               

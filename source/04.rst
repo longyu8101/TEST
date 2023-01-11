@@ -2,16 +2,17 @@
 
 4. 混凝土结构耐久性检测与评估
 ==================================
-
+4.1 腐蚀介质及工程情况的调查
+----------------------------------
 .. raw:: html
-
- <h2><a href="#id4.1"> 4.1</a> <span id="id4.1">腐蚀介质及工程情况的调查<span id="id443"></span></h2>
 
  <p><a href="#id4.1.1"> 4.1.1</a> <span id="id4.1.1">腐蚀介质调查内容宜包括潮汐、温度、湿度、pH值、水污染情况和其他侵蚀介质等,海水环境混凝土结构腐蚀介质调查内容还应包括海水中氯离子含量。</span></p>
 
  <p><a href="#id4.1.2"> 4.1.2</a>  <span id="id4.1.2">工程情况的调查内容除应包括第3.0.2条规定的内容外，还应包括耐久性检查检测记录。</span></p>
 
- <h2><a href="#id4.2"> 4.2</a> <span id="id4.2">氯盐引起钢筋锈蚀劣化耐久性检测</span></h2>
+4.2 氯盐引起钢筋锈蚀劣化耐久性检测
+----------------------------------
+.. raw:: html
  
  <p><a href="#id4.2.1"> 4.2.1</a> <span id="id4.2.1">氯盐引起钢筋锈蚀劣化外观检测应包括下列内容：</span></p>
 
@@ -33,7 +34,9 @@
 
  <p><a href="#id4.2.3"> 4.2.3</a> <span id="id4.2.3">氯盐引起钢筋锈蚀劣化耐久性检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluC.html">附录C</a>的有关规定。</span></p>
 
- <h2><a href="#id4.3"> 4.3</a> <span id="id4.3">混凝土碳化引起钢筋锈蚀劣化耐久性检测</span></h2>
+4.3 混凝土碳化引起钢筋锈蚀劣化耐久性检测
+---------------------------------------------
+.. raw:: html
 
  <p><a href="#id4.3.1"> 4.3.1</a> <span id="id4.3.1">钢筋锈蚀劣化外观检测应包括下列内容：</span></p>
 
@@ -54,7 +57,9 @@
 
  <p><a href="#id4.3.3"> 4.3.3</a> <span id="id4.3.3">混凝土碳化硬起钢筋锈蚀劣化耐久性检测方法应按<a href="https://longyu8101.github.io/TEST/xmjd/fuluC.html">附录C</a>的有关规定执行。</span></p>
 
- <h2><a href="#id4.4"> 4.4</a> <span id="id4.4">混凝土冻融劣化耐久性检测</span></h2>
+4.4 混凝土冻融劣化耐久性检测
+----------------------------------
+.. raw:: html
 
  <p><a href="#id4.4.1"> 4.4.1</a> <span id="id4.4.1">冻融劣化外观检测应包括下列内容：</span></p>
 
@@ -74,7 +79,9 @@
 
  <p><a href="#id4.4.3"> 4.4.3</a> <span id="id4.4.3">冻融劣化耐久性检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluD.html">附录D</a>的有关规定。</span></p>
 
- <h2><a href="#id4.5"> 4.5</a> <span id="id4.5">氯盐引起钢筋锈蚀劣化耐久性评估</span></h2>
+4.5 氯盐引起钢筋锈蚀劣化耐久性评估
+----------------------------------
+.. raw:: html
 
  <p><a href="#id4.5.1"> 4.5.1</a> <span id="id4.5.1">氯盐引起钢筋锈蚀劣化耐久性评估应包括混凝土结构外观劣化度评估和结构适应年限预测。</span></p>
  <p><a href="#id4.5.2">4.5.2</a> <span id="id4.5.2">外观劣化度评估应根据外观检测结果按不同构件种类进行,外观劣化度分级标准应符合<a href="#B4.5.2">表4.5.2</a>的规定。</span></p>
@@ -101,7 +108,7 @@
     
      </style>
 
-		<table id="biaoge">
+		<table id="biaoge" style="font-family:times new roman">
 
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.5.2">表4.5.2 外观劣化度分级标准</b></caption>	
               
@@ -246,7 +253,7 @@ $$D=D_{\\mathrm{t}}(\\dfrac{t}{10})^{\\mathrm{m}}\\tag{4.5.4-3}$$
       }
      </style>
 
-		<table id="biaoge">
+		<table id="biaoge" style="font-family:times new roman">
 
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.5.4-1">表4.5.4-1 扩散系数衰减值</b></caption>	
               
@@ -290,7 +297,7 @@ $$D=D_{\\mathrm{t}}(\\dfrac{t}{10})^{\\mathrm{m}}\\tag{4.5.4-3}$$
       }
      </style>
 
-		<table id="biaoge">
+		<table id="biaoge" style="font-family:times new roman">
 
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.5.4-2">表4.5.4-2 引起混凝土中钢筋腐蚀的氯离子含量临界值</b></caption>	
               
@@ -344,7 +351,7 @@ $$D=D_{\\mathrm{t}}(\\dfrac{t}{10})^{\\mathrm{m}}\\tag{4.5.4-3}$$
       }
      </style>
 
-		<table id=biaoge>
+		<table id=biaoge style="font-family:times new roman">
 
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.5.4-3">表4.5.4-3 混凝土表面氯离子含量</b></caption>	
       	
@@ -396,7 +403,7 @@ $$\\lambda_{1}=0.0116i\\tag{4.5.4-6}$$
       }
      </style>
 
-		<table id="biaoge">
+		<table id="biaoge" style="font-family:times new roman">
 
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.5.4-4">表4.5.4-4 保护层开裂前钢筋的腐蚀电流密度(μc㎡)</b></caption>	
       	
@@ -450,7 +457,7 @@ $$t_{\\mathrm{d}}=(1-\\dfrac{1}{\\sqrt{10}}\\dfrac{d}{2\\gamma_{2}})\\tag{4.5.4-
       }
      </style>
 
-		<table id=biaoge>
+		<table id=biaoge style="font-family:times new roman">
 
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.5.4-5">表4.5.4-5 钢筋平均腐蚀速度(mm/a)</b></caption>	
       	
@@ -509,7 +516,9 @@ $$t_{\\mathrm{re}}=t_{\\mathrm{e}}+t_{0}\\tag{4.5.6}$$
 
  <p><a href="#id4.5.7"> 4.5.7</a> <span id="id4.5.7">氯盐引起钢筋混凝土构件腐蚀劣化耐久性评估分级标准及处理要求应符合第3.0.5条的规定。</span></p>
 
- <h2><a href="#id4.6"> 4.6</a> <span id="id4.6">混凝土碳化引起钢筋锈蚀劣化耐久性评估</span></h2>
+4.6 混凝土碳化引起钢筋锈蚀劣化耐久性评估
+------------------------------------------------
+.. raw:: html
 
  <p><a href="#id4.6.1"> 4.6.1</a> <span id="id4.6.1">混凝土碳化引起钢筋锈蚀劣化耐久性评估应包括混凝土结构外观劣化度评估和结构使用年限预测。</span></p>
 
@@ -599,7 +608,9 @@ $$D^{'}=k_{c}\\sqrt{t^{'}}\\tag{4.6.11-2}$$
   
  <p><a href="#id4.6.12"> 4.6.12</a> <span id="id4.6.12">利用实测碳化模型进行混凝土碳化引起钢筋锈蚀劣化的钢筋混凝土结构使用年限预测应符合第4.6.8条的规定。</span></p> 
 
- <h2><a href="#id4.7"> 4.7</a> <span id="id4.7">混凝土冻融劣化度耐久性评估</span></h2>
+4.7 混凝土冻融劣化度耐久性评估
+----------------------------------
+.. raw:: html
 
  <p><a href="#id4.7.1"> 4.7.1</a> <span id="id4.7.1">混凝土冻融劣化耐久性苹果应根据混凝土冻融劣化外观检测结果进行，混凝土冻融劣化度评估分级标准应符合<a href="#B4.7.1">表4.7.1</a>的规定。</span></p>
    
@@ -624,7 +635,7 @@ $$D^{'}=k_{c}\\sqrt{t^{'}}\\tag{4.6.11-2}$$
       }
      </style>
 
-		<table id=biaoge>
+		<table id=biaoge style="font-family:times new roman">
 
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.7.1">表4.7.1 混凝土冻融劣化度评估分级标准</b></caption>	
       	
