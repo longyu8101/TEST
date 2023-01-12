@@ -21,7 +21,8 @@
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/custom.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/custom.css" />
     
   <!-- Pre-loaded scripts that we'll load fully later -->
   <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
@@ -357,6 +358,11 @@ title="Print to PDF"
    6.7 钢结构牺牲阳极阴极保护效果检测与评估
   </a>
  </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#id10">
+   6.8 钢结构外加电流阴极保护效果检测与评估
+  </a>
+ </li>
 </ul>
 
     </nav>
@@ -411,6 +417,11 @@ title="Print to PDF"
    6.7 钢结构牺牲阳极阴极保护效果检测与评估
   </a>
  </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#id10">
+   6.8 钢结构外加电流阴极保护效果检测与评估
+  </a>
+ </li>
 </ul>
 
                         </nav>
@@ -435,22 +446,79 @@ title="Print to PDF"
 <li><p>涂层与构件混凝土间的粘结力。</p></li>
 </ol>
 <p><a href="#id6.2.2"> 6.2.2</a> <span id="id6.2.2">检测方法应符合附录F的有关规定。</span></p>
-<p><a href="#id6.2.3"> 6.2.3</a> <span id="id6.2.3">涂层劣化评估分级标准及处理要求应符合<a href="#B623">表6.2.3</a>的规定。  </span></p>
+<p><a href="#id6.2.3"> 6.2.3</a> <span id="id6.2.3">涂层劣化评估分级标准及处理要求应符合<a href="#B6.2.3">表6.2.3</a>的规定。  </span></p><style>
+   #biaoge,td {
+      border: 2px solid black;
+      border-collapse: collapse;
+      margin-bottom:5px;
 
-<html lang="en">
-   <head>
-       <style>
-           #B623{
-               text-align: center;
-               font-weight: bold;
-            }
-       </style>
-   </head>
-   <body>
-       <p> </p>
-       <div id="B623">表6.2.3 涂层劣化评估分级标准及处理要求</div>
-       <img id="fig623" src="./_static/tab6.2.3.jpg" alt="Picture">
-   </body></section>
+   }
+   th, td {
+      padding-top: 5px;
+      padding-bottom:5px;
+      padding-left:5px;
+      padding-right:5px;
+
+   }
+   #eqzs {
+      border: 0px;
+   }
+  </style>
+
+             <table id="biaoge" style="font-family:times new roman">
+
+      <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.2.3">表6.2.3 涂层劣化评估分级标准及处理要求</b></caption>
+
+                 <tr>
+                     <td width="70px" align="center">等级</td>
+             <td width="700px" align="center">分级标准</td>
+                     <td width="200px" align="center">处理要求</td>
+                 </tr>
+                <tr>
+                     <td  align="center">A</td>
+                     <td  align="left" >同时符合下列条件时：
+             <ol>
+              <li>无粉化变色或轻微粉化变色、无裂纹、起泡和脱落；</li>
+              <li>涂层干膜厚度不小于原设计厚度的90%；</li>
+              <li>涂层粘结力不小于1.5MPa</li>
+             </ol>
+             </td>
+             <td  align="left" valign="top">不必采取措施</td>
+                 </tr>
+                        <tr>
+                     <td  align="center">B</td>
+                     <td  align="left" >符合下列任一条件时：
+             <ol>
+              <li>明显粉化变色，分散的裂纹、起泡和脱落面积不大于0.3%；</li>
+              <li>涂层干膜厚度小于原设计厚度的90%且不小于原设计厚度的75%；</li>
+              <li>涂层粘结力小于1.5MPa且不小于1.0MPa</li>
+             </ol>
+             </td>
+             <td  align="left"  valign="top">及时进行局部修补</td>
+                 </tr>
+          <tr>
+                     <td  align="center">C</td>
+                     <td  align="left" >符合下列任一条件时：
+             <ol>
+              <li>较严重粉化变色，裂纹、起泡和脱落面积大于0.3%且不大于1.0%；</li>
+              <li>涂层干膜厚度小于原设计厚度的75%；</li>
+              <li>涂层粘结力小于1.0MPa</li>
+             </ol>
+             </td>
+             <td  align="left" valign="top">立即进行修补</td>
+                 </tr>
+         <tr>
+                     <td  align="center">D</td>
+                    <td  align="left" >符合下列任一条件时：
+             <ol>
+              <li>严重粉化变色，大范围的裂纹、起泡和脱落面积大于1.0%；</li>
+              <li>涂层干膜厚度小于原设计厚度的75%；</li>
+              <li>刀刮容易剥离</li>
+             </ol>
+             </td>
+             <td  align="left" valign="top">立即进行全面修补</td>
+                 </tr>
+             </table></section>
 <section id="id5">
 <h2>6.3 混凝土表面硅烷浸渍劣化检测与评估<a class="headerlink" href="#id5" title="永久链接至标题">#</a></h2>
 <p><a href="#id6.3.1"> 6.3.1</a> <span id="id6.3.1">混凝土表面硅烷浸渍劣化检测应包括下列内容:</span></p><ol class="arabic simple">
@@ -459,42 +527,107 @@ title="Print to PDF"
 <li><p>氯化物吸收量降低效果。</p></li>
 </ol>
 <p><a href="#id6.3.2"> 6.3.2</a> <span id="id6.3.2">检测方法应符合现行行业标准《水运工程结构耐久性设计标准》(JTS 153)和《水运工程混凝土结构实体检测技术规程》(JTS 239)的有关规定</span></p>
-<p><a href="#id6.3.3"> 6.3.3</a> <span id="id6.3.3">混凝土表面硅烷浸渍劣化评估分级标准及处理要求应符合<a href="#B633">表6.3.3</a>的规定。</span></p>
+<p><a href="#id6.3.3"> 6.3.3</a> <span id="id6.3.3">混凝土表面硅烷浸渍劣化评估分级标准及处理要求应符合<a href="#B6.3.3">表6.3.3</a>的规定。</span></p><style>
+   #biaoge,td {
+      border: 2px solid black;
+      border-collapse: collapse;
+      margin-bottom:5px;
 
- <html lang="en">
-   <head>
-       <style>
-           #B633{
-               text-align: center;
-               font-weight: bold;
-            }
-       </style>
-   </head>
-   <body>
-       <p> </p>
-       <div id="B633">表6.3.3 混凝土表面硅烷浸渍劣化评估分级标准及处理要求</div>
-       <img id="fig633" src="./_static/tab6.3.3.jpg" alt="Picture">
-   </body></section>
+   }
+   th, td {
+      padding-top: 5px;
+      padding-bottom:5px;
+      padding-left:5px;
+      padding-right:5px;
+
+   }
+   #eqzs {
+      border: 0px;
+   }
+  </style>
+
+             <head>
+               <meta charset="utf-8">
+            </head>
+
+             <table id="biaoge" style="font-family:times new roman">
+
+      <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.3.3">表6.3.3 混凝土表面硅烷浸渍劣化评估分级标准及处理要求</b></caption>
+
+                 <tr>
+                     <td width="60px" align="center">等级</td>
+             <td width="750px" align="center">分级标准</td>
+                     <td width="150px" align="center">处理要求</td>
+                 </tr>
+                <tr>
+                     <td  align="center">A</td>
+                     <td  align="left" >同时符合下列条件时：
+             <ol>
+              <li>吸水率不大于0.01mm/<math xmlns='http://www.w3.org/1998/Math/MathML'> <msqrt><mi> min </mi></msqrt> </math></li>
+              <li>普通混凝土浸渍深度不应小于3mm，高性能混凝土浸渍深度不应小于2mm</li>
+             </ol>
+             </td>
+             <td  align="left" valign="top">不必采取措施</td>
+                 </tr>
+             <tr>
+                     <td  align="center">B</td>
+                     <td  align="left" >符合下列任一条件时：
+             <ol>
+               <li>吸水率大于0.01mm/<math xmlns='http://www.w3.org/1998/Math/MathML'> <msqrt><mi> min </mi></msqrt> </math></li>
+              <li>普通混凝土浸渍深度小于3mm，高性能混凝土浸渍深度小于2mm</li>
+             </ol>
+             </td>
+             <td  align="left"  valign="top">及时采取相应措施</td>
+                 </tr>
+     </table></section>
 <section id="id6">
 <h2>6.4 环氧涂层钢筋与不锈钢钢筋劣化检测与评估<a class="headerlink" href="#id6" title="永久链接至标题">#</a></h2>
 <p><a href="#id6.4.1"> 6.4.1</a> <span id="id6.4.1">环氧涂层钢筋与不锈钢钢筋劣化检测应测量钢筋的自然腐蚀电位。</span></p>
 <p><a href="#id6.4.2"> 6.4.2</a> <span id="id6.4.2">检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluC.html">附录C</a>的有关规定。</span></p>
-<p><a href="#id6.4.3"> 6.4.3</a> <span id="id6.4.3">环氧涂层钢筋与不锈钢钢筋劣化评估分级标准及处理要求应符合<a href="#B643">表6.4.3</a>的规定</span></p>
+<p><a href="#id6.4.3"> 6.4.3</a> <span id="id6.4.3">环氧涂层钢筋与不锈钢钢筋劣化评估分级标准及处理要求应符合<a href="#B6.4.3">表6.4.3</a>的规定</span></p><style>
+   #biaoge,td {
+      border: 2px solid black;
+      border-collapse: collapse;
+      margin-bottom:5px;
 
- <html lang="en">
-   <head>
-       <style>
-           #B643{
-               text-align: center;
-               font-weight: bold;
-            }
-       </style>
-   </head>
-   <body>
-       <p> </p>
-       <div id="B643">表6.4.3 环氧涂层钢筋与不锈钢钢筋劣化评估分级标准及处理要求</div>
-       <img id="fig643" src="./_static/tab6.4.3.jpg" alt="Picture">
-   </body></section>
+   }
+   th, td {
+      padding-top: 5px;
+      padding-bottom:5px;
+      padding-left:5px;
+      padding-right:5px;
+
+   }
+   #eqzs {
+      border: 0px;
+   }
+  </style>
+
+             <table id="biaoge" style="font-family:times new roman">
+
+      <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.4.3">表6.4.3 环氧涂层钢筋与不锈钢钢筋劣化评估分级标准及处理要求</b></caption>
+
+                 <tr>
+                     <td width="70px" align="center">等级</td>
+             <td width="600px" align="center">分级标准</td>
+                     <td width="300px" align="center">处理要求</td>
+                 </tr>
+                <tr>
+                     <td  align="center">A</td>
+                     <td  align="left" >腐蚀电位正向大于-200mV </td>
+             <td  align="left" valign="top">不必采取措施</td>
+                 </tr>
+                        <tr>
+                     <td  align="center">B</td>
+                     <td  align="left" >腐蚀电位在-200mV~-300mV之间 </td>
+             <td  align="left"  valign="top">进行全面检测</td>
+                 </tr>
+          <tr>
+                     <td  align="center">C</td>
+                     <td  align="left" >腐蚀电位负向大于-350mV</td>
+             <td  align="left" valign="top">及时采取相应措施</td>
+                 </tr>
+             </table></section>
 <section id="id7">
 <h2>6.5 混凝土结构外加电流阴极保护效果检测与评估<a class="headerlink" href="#id7" title="永久链接至标题">#</a></h2>
 <p><a href="#id6.5.1"> 6.5.1</a> <span id="id6.5.1">混凝土结构外加电流阴极保护效果检测应包括下列内容：</span></p><ol class="arabic simple">
@@ -506,22 +639,50 @@ title="Print to PDF"
 </ol>
 <p><a href="#id6.5.2"> 6.5.2</a> <span id="id6.5.2"> 混凝土外加电流阴极保护瞬时断电电位的测量和电位衰减的测量,每个保护单元应至少随机测试10个点。</span></p>
 <p><a href="#id6.5.3"> 6.5.3</a> <span id="id6.5.3"> 直流电源装置的运行状况检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluF.html">附录F</a>的有关规定。</span></p>
-<p><a href="#id6.5.4"> 6.5.4</a> <span id="id6.5.4"> 混凝土外加电流阴极保护效果评估分级标准及处理要求应符合<a href="#B654">表6.5.4</a>的规定。</span></p>
+<p><a href="#id6.5.4"> 6.5.4</a> <span id="id6.5.4"> 混凝土外加电流阴极保护效果评估分级标准及处理要求应符合<a href="#B6.5.4">表6.5.4</a>的规定。</span></p><style>
+   #biaoge,td {
+      border: 2px solid black;
+      border-collapse: collapse;
+      margin-bottom:5px;
 
- <html lang="en">
-   <head>
-       <style>
-           #B654{
-               text-align: center;
-               font-weight: bold;
-            }
-       </style>
-   </head>
-   <body>
-       <p> </p>
-       <div id="B654">表6.5.4 混凝土外加电流阴极保护效果评估分级标准及处理要求</div>
-       <img id="fig654" src="./_static/tab6.5.4.jpg" alt="Picture">
-   </body></section>
+   }
+   th, td {
+      padding-top: 5px;
+      padding-bottom:5px;
+      padding-left:5px;
+      padding-right:5px;
+
+   }
+   #eqzs {
+      border: 0px;
+   }
+  </style>
+
+             <table id="biaoge" style="font-family:times new roman">
+
+      <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.5.4">表6.5.4 混凝土外加电流阴极保护效果评估分级标准及处理要求</b></caption>
+
+                 <tr>
+                     <td width="70px" align="center">等级</td>
+             <td width="600px" align="center">分级标准</td>
+                     <td width="300px" align="center">处理要求</td>
+                 </tr>
+                <tr>
+                     <td  align="center">A</td>
+                     <td  align="left" >断开电源后0.1s~1s测得的瞬时断电电位在断电后24h内电位衰减不小于100mV </td>
+             <td  align="left" valign="top">不必采取措施</td>
+                 </tr>
+                        <tr>
+                     <td  align="center">B</td>
+                     <td  align="left" >瞬时断电电位在断电后24h内电位衰减小于100mV  </td>
+             <td  align="left"  valign="top">查明原因并及时采取措施</td>
+                 </tr>
+          <tr>
+                     <td  align="center">C</td>
+                     <td  align="left" >普通混凝土中钢筋瞬时断电电位负于-1100mV ，预应力混凝土中钢筋瞬时断电电位负于-900mV</td>
+             <td  align="left" valign="top">查明原因并及时采取措施</td>
+                 </tr>
+             </table></section>
 <section id="id8">
 <h2>6.6 钢结构涂层及金属热喷涂劣化检测与评估<a class="headerlink" href="#id8" title="永久链接至标题">#</a></h2>
 <p><a href="#id6.6.1"> 6.6.1</a> <span id="id6.6.1">钢结构水下区以上部位涂层劣化检测应包括下列内容：</span></p><ol class="arabic simple">
@@ -530,22 +691,80 @@ title="Print to PDF"
 <li><p>涂层与钢结构间的粘结力。</p></li>
 </ol>
 <p><a href="#id6.6.2"> 6.6.2</a> <span id="id6.6.2">检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluF.html">附录F</a>的有关规定。</span></p>
-<p><a href="#id6.6.3"> 6.6.3</a> <span id="id6.6.3">钢结构水下区以上部位涂层劣化评估分级标准及处理要求应符合<a href="#B663">表6.6.3</a>的规定。</span></p>
+<p><a href="#id6.6.3"> 6.6.3</a> <span id="id6.6.3">钢结构水下区以上部位涂层劣化评估分级标准及处理要求应符合<a href="#B6.6.3">表6.6.3</a>的规定。</span></p><style>
+   #biaoge,td {
+      border: 2px solid black;
+      border-collapse: collapse;
+      margin-bottom:5px;
 
-  <html lang="en">
-   <head>
-       <style>
-           #B663{
-               text-align: center;
-               font-weight: bold;
-            }
-       </style>
-   </head>
-   <body>
-       <p> </p>
-       <div id="B663">表6.6.3 钢结构水下区以上部位涂层劣化评估分级标准及处理要求</div>
-       <img id="fig663" src="./_static/tab6.6.3.jpg" alt="Picture">
-   </body></section>
+   }
+   th, td {
+      padding-top: 5px;
+      padding-bottom:5px;
+      padding-left:5px;
+      padding-right:5px;
+
+   }
+   #eqzs {
+      border: 0px;
+   }
+  </style>
+
+             <table id="biaoge" style="font-family:times new roman">
+
+      <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.6.3">表6.6.3 钢结构水下区以上部位涂层劣化评估分级标准及处理要求</b></caption>
+
+                 <tr>
+                     <td width="60px" align="center">等级</td>
+             <td width="750px" align="center">分级标准</td>
+                     <td width="150px" align="center">处理要求</td>
+                 </tr>
+                <tr>
+                     <td  align="center">A</td>
+                     <td  align="left" >同时符合下列条件时：
+             <ol>
+              <li>无粉化变色或轻微粉化变色、无裂纹、起泡和脱落生锈；</li>
+              <li>涂层干膜厚度不小于原设计厚度的90%；</li>
+              <li>涂层粘结力不小于5.0MPa</li>
+             </ol>
+             </td>
+             <td  align="left" valign="top">不必采取措施</td>
+                 </tr>
+                        <tr>
+                     <td  align="center">B</td>
+                     <td  align="left" >符合下列任一条件时：
+             <ol>
+              <li>明显粉化变色，分散的裂纹、起泡和脱落生锈面积不大于0.3%；</li>
+              <li>涂层干膜厚度小于原设计厚度的90%且不小于原设计厚度的75%；</li>
+              <li>涂层粘结力小于5.0MPa且不小于4.0MPa</li>
+             </ol>
+             </td>
+             <td  align="left"  valign="top">及时进行局部修补</td>
+                 </tr>
+          <tr>
+                     <td  align="center">C</td>
+                     <td  align="left" >符合下列任一条件时：
+             <ol>
+              <li>较严重粉化变色，裂纹、起泡和脱落生锈面积大于0.3%且不大于1.0%；</li>
+              <li>涂层干膜厚度小于原设计厚度的75%；</li>
+              <li>涂层粘结力小于4.0MPa</li>
+             </ol>
+             </td>
+             <td  align="left" valign="top">立即进行修补</td>
+                 </tr>
+         <tr>
+                     <td  align="center">D</td>
+                    <td  align="left" >符合下列任一条件时：
+             <ol>
+              <li>严重粉化变色，大范围的裂纹、起泡和脱落生锈面积大于1.0%；</li>
+              <li>涂层干膜厚度小于原设计厚度的75%；</li>
+              <li>刀刮容易剥离</li>
+             </ol>
+             </td>
+             <td  align="left" valign="top">立即进行全面修补</td>
+                 </tr>
+             </table>
+     <p><font size="2"> 注：对于构件水下部位达到B、C、D级的处理措施应根据设计和使用要求确定。</font></p></section>
 <section id="id9">
 <h2>6.7 钢结构牺牲阳极阴极保护效果检测与评估<a class="headerlink" href="#id9" title="永久链接至标题">#</a></h2>
 <p><a href="#id6.7.1"> 6.7.1</a> <span id="id6.7.1">钢结构牺牲阳极阴极保护检测应包括下列内容:</span></p><ol class="arabic simple">
@@ -555,24 +774,70 @@ title="Print to PDF"
 <li><p>防腐蚀系统运行不正常时被保护钢结构的厚度。</p></li>
 </ol>
 <p><a href="#id6.7.2"> 6.7.2</a> <span id="id6.7.2">检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluF.html">附录F</a>的有关规定。</span></p>
-<p><a href="#id6.7.3"> 6.7.3</a> <span id="id6.7.3">牺牲阳极阴极保护效果评估分级标准及处理要求应符合<a href="#B673">表6.7.3</a>的规定。</span></p>
+<p><a href="#id6.7.3"> 6.7.3</a> <span id="id6.7.3">牺牲阳极阴极保护效果评估分级标准及处理要求应符合<a href="#B6.7.3">表6.7.3</a>的规定。</span></p></section>
+<section id="id10">
+<h2>6.8 钢结构外加电流阴极保护效果检测与评估<a class="headerlink" href="#id10" title="永久链接至标题">#</a></h2>
+  <style>
+     #biaoge,td {
+        border: 2px solid black;
+        border-collapse: collapse;
+        margin-bottom:5px;
 
-  <html lang="en">
-   <head>
-       <style>
-           #B673{
-               text-align: center;
-               font-weight: bold;
-            }
-       </style>
-   </head>
-   <body>
-       <p> </p>
-       <div id="B673">表6.7.3 牺牲阳极阴极保护效果评估分级标准及处理要求</div>
-       <img id="fig673" src="./_static/tab6.7.3.jpg" alt="Picture">
-   </body>
+     }
+     th, td {
+        padding-top: 5px;
+        padding-bottom:5px;
+        padding-left:5px;
+        padding-right:5px;
 
-<h2><a href="#id6.8"> 6.8</a> <span id="id6.8">钢结构外加电流阴极保护效果检测与评估</span></h2>
+     }
+     #eqzs {
+        border: 0px;
+     }
+    </style>
+
+               <table id="biaoge" style="font-family:times new roman">
+
+        <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.7.3">表6.7.3 钢结构水下区以上部位涂层劣化评估分级标准及处理要求</b></caption>
+
+                   <tr>
+                       <td width="70px" align="center">等级</td>
+               <td width="600px" align="center">分级标准</td>
+                       <td width="400px" align="center">处理要求</td>
+                   </tr>
+                  <tr>
+                       <td  align="center">A</td>
+                       <td  align="left" >保护电位在-1.10V~-0.85V之间，阴极的剩余保护年限可满足设计使用年限要求 </td>
+               <td  align="left" valign="top">不必采取措施</td>
+                   </tr>
+           <tr>
+                       <td  align="center" rowspan="2">B</td>
+                       <td  align="left" >保护电位在-1.10V~-0.85V之间，阴极的剩余保护年限不满足设计使用年限要求 </td>
+               <td  align="left" rowspan="2" valign="top">查明原因并及时采取措施</td>
+                   </tr>
+           <tr>
+                       <!-- <td></td> -->
+                       <td  align="left" >保护电位在-0.85V~φ<sub>0</sub>之间</td>
+              <!-- <td></td> -->
+                   </tr>
+            <tr>
+                       <td  align="center">C</td>
+                       <td  align="left" >保护电位为φ<sub>0</sub></td>
+               <td  align="left" valign="top">查明原因并立即采集措施</td>
+                   </tr>
+           <tr>
+                       <td  align="center">D</td>
+                      <td  align="left" >符合下列任一条件时：</td>
+               <td  align="left" valign="top">立即进行全面修补</td>
+                   </tr>
+               </table>
+       <p><font size="2"> 注：1. 保护电位为相对于Cu/饱和CuSO<sub>4</sub>电极测得的电位；<br/>
+        &emsp;&ensp;&nbsp; 2. φ<sub>0</sub>是钢结构的自然腐蚀电位；<br/>
+        &emsp;&ensp;&nbsp; 3. 牺牲阴阳极保护措施的处理要求应综合考虑防腐蚀系统的完整性，当检测确认阳极有脱落、阳极连接件松动或输出电流异常时，应查明原因并及时采取维修措施。
+        </font>
+        </p>
+
+
 <p><a href="#id6.8.1"> 6.8.1</a> <span id="id6.8.1">外加电流阴极保护检测应包括下列内容：</span></p><ol class="arabic simple">
 <li><p>保护电位;</p></li>
 <li><p>直流电源装置的输出电压和输出电流;</p></li>
@@ -582,22 +847,53 @@ title="Print to PDF"
 <li><p>防腐蚀系统运行不正常时被保护钢结构的厚度。</p></li>
 </ol>
 <p><a href="#id6.8.2"> 6.8.2</a> <span id="id6.8.2">检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluF.html">附录F</a>的有关规定。</span></p>
-<p><a href="#id6.8.3"> 6.8.3</a> <span id="id6.8.3"> 外加电流阴极保护效果评估分级标准及处理要求应符合<a href="#B683">表6.8.3</a>的规定。</span></p>
+<p><a href="#id6.8.3"> 6.8.3</a> <span id="id6.8.3"> 外加电流阴极保护效果评估分级标准及处理要求应符合<a href="#B6.8.3">表6.8.3</a>的规定。</span></p><style>
+   #biaoge,td {
+      border: 2px solid black;
+      border-collapse: collapse;
+      margin-bottom:5px;
 
-  <html lang="en">
-   <head>
-       <style>
-           #B683{
-               text-align: center;
-               font-weight: bold;
-            }
-       </style>
-   </head>
-   <body>
-       <p> </p>
-       <div id="B683">表6.8.3 外加电极阴极保护效果评估分级标准及处理要求</div>
-       <img id="fig683" src="./_static/tab6.8.3.jpg" alt="Picture">
-   </body></section>
+   }
+   th, td {
+      padding-top: 5px;
+      padding-bottom:5px;
+      padding-left:5px;
+      padding-right:5px;
+
+   }
+   #eqzs {
+      border: 0px;
+   }
+  </style>
+
+             <table id="biaoge" style="font-family:times new roman">
+
+      <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.8.3">表6.8.3 钢结构水下区以上部位涂层劣化评估分级标准及处理要求</b></caption>
+
+                 <tr>
+                     <td width="70px" align="center">等级</td>
+             <td width="500px" align="center">分级标准</td>
+                     <td width="400px" align="center">处理要求</td>
+                 </tr>
+                <tr>
+                     <td  align="center">A</td>
+                     <td  align="left" >保护电位在-1.10~-0.87V之间</td>
+             <td  align="left" valign="top">不必采取措施</td>
+                 </tr>
+                        <tr>
+                     <td  align="center">B</td>
+                     <td  align="left" >保护电位在-0.87~φ<sub>0</sub>之间</td>
+             <td  align="left"  valign="top">查明原因并及时采取措施</td>
+                 </tr>
+         <tr>
+                     <td  align="center">D</td>
+                    <td  align="left" >保护电位为φ<sub>0</sub>或小于-1.10V</td>
+             <td  align="left" valign="top">查明原因并立即采取措施</td>
+                 </tr>
+             </table>
+     <p><font size="2"> 注：1. 保护电位为相对于Cu/饱和CuSO<sub>4</sub>电极测得的电位；<br/>
+      &emsp;&ensp;&nbsp; 2. φ<sub>0</sub>是钢结构的自然腐蚀电位；<br/>
+      &emsp;&ensp;&nbsp; 3. 外加电流阴极保护措施的处理要求应综合考虑防腐蚀系统的完整性，当检测确认直流电源装置出现异常或工作运行状态下满足设计要求时，应查明原因并及时采取维修措施。</font></p></section>
 </section>
 
 

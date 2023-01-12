@@ -3,10 +3,11 @@
 
 10. 通航建筑物检测与评估
 ===============================
+10.1 一般规定
+-----------------------------
 
 .. raw:: html
-    
- <h2><a href="#id10.1"> 10.1</a> <span id="id10.1">一般规定</span></h2>
+
 
  <p><a href="#id10.1.1"> 10.1.1</a> <span id="id10.1.1">船闸、升船机通航建筑物检测应包括下列内容：</span></p>
 
@@ -29,26 +30,66 @@
 .. raw:: html
 
  <p><a href="#id10.1.3"> 10.1.3</a> <span id="id10.1.3">通航建筑物评估内容包括安全性、适用性和耐久性评估,评估内容的确定应按第3.0.4条的规定执行。</span></p>
- <p><a href="#id10.1.4"> 10.1.4</a> <span id="id10.1.4">通航建筑物的结构构件适用性评估应符合<a href="#B1014">表10.1.4</a>的规定，取最低一级作为该构件适用性评估等级。</span></p>
+ <p><a href="#id10.1.4"> 10.1.4</a> <span id="id10.1.4">通航建筑物的结构构件适用性评估应符合<a href="#B10.1.4">表10.1.4</a>的规定，取最低一级作为该构件适用性评估等级。</span></p>
 
-    <html lang="en">
-    <head>
-        <style>
-            #B1014{ 
-                text-align: center;
-                font-weight: bold;
-             }
-        </style>
-    </head>
-    <body>
-        <p> </p>
-        <div id="B1014">表10.1.4 通航建筑物结构构件适用性评估分级标准</div>
-        <img id="fig1014" src="./_static/tab10.1.4.jpg" alt="Picture">
-    </body>
+   <style>
+      #biaoge,td {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:5px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B10.1.4">表10.1.4 通航建筑物结构构件适用性评估分级标准</b></caption>	
+              
+		    <tr>
+		        <td width="380px" align="center" rowspan="2">项目</td>
+                <td align="center" colspan="4">等级</td>
+		        <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+		    </tr>
+            <tr>
+		        <!-- <td></td> -->
+                <td width="150px" align="center">A</td>
+                <td width="150px" align="center">B</td>
+                <td width="150px" align="center">C</td>
+                <td width="150px" align="center">D</td>
+		    </tr>
+		   <tr>
+		        <td  align="center">钢筋混凝土结构或钢结构最大挠度</td>
+		        <td  align="center" ><i>r</i>≥1.00 </td>
+                <td  align="center" >0.95≤<i>r</i>< 1.00 </td>
+                <td  align="center" >0.90≤<i>r</i>< 0.95 </td>
+		        <td  align="center" ><i>r</i>< 0.90 </td>
+            </tr>
+            <tr>
+		        <td  align="center">钢筋混凝土结构最大裂缝宽度</td>
+		        <td  align="center" ><i>r</i>≥1.00 </td>
+                <td  align="center" >0.80≤<i>r</i>< 1.00 </td>
+                <td  align="center" >0.70≤<i>r</i>< 0.80 </td>
+		        <td  align="center" ><i>r</i>< 0.70 </td>
+		    </tr>
+     	 </table>
+        <p><font size="2"> 注：<i>r</i>表示规范限值与实测值或验算值的比值。</font></p>
 
  <p><a href="#id10.1.5"> 10.1.5</a> <span id="id10.1.5">通航建筑物的适用性评估应以现场调查和检测结果为基本依据。当检测只能取得部分数据或改变建筑物使用条件时,尚应按正常使用极限状态进行验算,并应符合第3.0.8条和现行行业有关标准的规定。</span></p>
  
- <h2><a href="#id10.2"> 10.2</a> <span id="id10.2">船闸检测与评估</span></h2>
+10.2 船闸检测与评估
+-----------------------------
 
 .. raw:: html
 
@@ -95,7 +136,10 @@
  <p><a href="#id10.2.8"> 10.2.8</a> <span id="id10.2.8">船闸水工结构适用性评估应按第10.1.4条、第10.1.5条的规定执行，结构适用性相关复核验算应符合有关现行行业标准的有关规定。</span></p>
  <p><a href="#id10.2.9"> 10.2.9</a> <span id="id10.2.9">船闸水工结构耐久性评估应按第4章~第6章的有关规定执行。</span></p>
 
- <h2><a href="#id10.3"> 10.3</a> <span id="id10.3">升船机检测与评估</span></h2>
+10.3 升船机检测与评估
+-----------------------------
+
+.. raw:: html
 
  <p><a href="#id10.3.1"> 10.3.1</a> <span id="id10.3.1">升船机检测应包括下列内容：</span></p>
 

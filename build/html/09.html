@@ -21,7 +21,8 @@
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/custom.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/custom.css" />
     
   <!-- Pre-loaded scripts that we'll load fully later -->
   <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
@@ -31,6 +32,7 @@
     <script src="_static/underscore.js"></script>
     <script src="_static/doctools.js"></script>
     <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link rel="shortcut icon" href="_static/logo.png"/>
     <link rel="index" title="索引" href="genindex.html" />
     <link rel="search" title="搜索" href="search.html" />
@@ -300,12 +302,41 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#id3">
+   9.1 检测
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#id4">
+   9.2 评估
+  </a>
+ </li>
+</ul>
+
+    </nav>
 </div>
     </div>
     <div class="article row">
@@ -317,6 +348,24 @@ title="Print to PDF"
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#id3">
+   9.1 检测
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#id4">
+   9.2 评估
+  </a>
+ </li>
+</ul>
+
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -326,7 +375,8 @@ title="Print to PDF"
                 
   <section id="id1">
 <span id="id2"></span><h1>9. 港口护岸检测与评估<a class="headerlink" href="#id1" title="永久链接至标题">#</a></h1>
-<h2><a href="#id9.1"> 9.1</a> <span id="id9.1">检测</span></h2>
+<section id="id3">
+<h2>9.1 检测<a class="headerlink" href="#id3" title="永久链接至标题">#</a></h2>
 <p><a href="#id9.1.1"> 9.1.1</a> <span id="id9.1.1">港口护岸结构检测应包括下列内容：</span></p><ol class="arabic simple">
 <li><p>环境条件调查;</p></li>
 <li><p>结构基本情况调查;</p></li>
@@ -359,8 +409,9 @@ title="Print to PDF"
 <li><p>脚结构的变化情况。</p></li>
 </ol>
 <p><a href="#id9.1.7"> 9.1.7</a> <span id="id9.1.7">护岸混凝土结构耐久性检测应按第4章的有关规定执行。</span></p>
-<p><a href="#id9.1.8"> 9.1.8</a> <span id="id9.1.8">港口护岸变形及冲淤变化检测方法应符合现行行业标准《水运工程测量规范》(JTS 131)等的有关规定。</span></p>
-<h2><a href="#id9.2"> 9.2</a> <span id="id9.2">评估</span></h2>
+<p><a href="#id9.1.8"> 9.1.8</a> <span id="id9.1.8">港口护岸变形及冲淤变化检测方法应符合现行行业标准《水运工程测量规范》(JTS 131)等的有关规定。</span></p></section>
+<section id="id4">
+<h2>9.2 评估<a class="headerlink" href="#id4" title="永久链接至标题">#</a></h2>
 <p><a href="#id9.2.1"> 9.2.1</a> <span id="id9.2.1">港口护岸结构评估内容包括安全性、适用性和耐久性评估,评估内容的确定应按第3.0.4条的规定执行。</span></p>
 <p><a href="#id9.2.2"> 9.2.2</a> <span id="id9.2.2">港口护岸评估应符合下列要求。</span></p>
 <p><a href="#id9.2.2.1"> 9.2.2.1</a> <span id="id9.2.2.1">护岸安全性评估的复核验算应包括下列内容：</span></p><ol class="arabic simple">
@@ -368,41 +419,160 @@ title="Print to PDF"
 <li><p>直立式护岸沿堤底和堤身各水平缝的抗滑稳定性、沿堤底和堤身各水平缝及齿缝的抗倾稳定性、沿基床底面的抗滑稳定性、构件承载能力、基床和地基的承载能力和整体稳定性。</p></li>
 </ol>
 <p><a href="#id9.2.2.2"> 9.2.2.2</a> <span id="id9.2.2.2">复核验算的断面应按实际情况选择控制性断面，计算方法应符合现行行业标准《防波堤与护岸设计规范》(JTS154)等的有关规定。</span></p>
-<p><a href="#id9.2.2.3"> 9.2.2.3</a> <span id="id9.2.2.3">护岸安全性评估应符合<a href="#B922">表9.2.2</a>的规定，取最低一级作为护岸的安全性评估等级。</span></p>
+<p><a href="#id9.2.2.3"> 9.2.2.3</a> <span id="id9.2.2.3">护岸安全性评估应符合<a href="#B9.2.2">表9.2.2</a>的规定，取最低一级作为护岸的安全性评估等级。</span></p>
 
-    <html lang="en">
-   <head>
-       <style>
-           #B922{
-               text-align: center;
-               font-weight: bold;
-            }
-       </style>
-   </head>
-   <body>
-       <p> </p>
-       <div id="B922">表9.2.2 港口护岸安全性评估分级标准</div>
-       <img id="fig922" src="./_static/tab9.2.2.jpg" alt="Picture">
-   </body>
+<style>
+     #biaoge,td {
+        border: 2px solid black;
+        border-collapse: collapse;
+        margin-bottom:5px;
 
-<p><a href="#id9.2.3"> 9.2.3</a> <span id="id9.2.3">港口护岸的适用性应根据检测结果按<a href="#B923">表9.2.3</a>的规定进行评估。</span></p>
+     }
+     th, td {
+        padding-top: 5px;
+        padding-bottom:5px;
+        padding-left:5px;
+        padding-right:5px;
 
-     <html lang="en">
-   <head>
-       <style>
-           #B923{
-               text-align: center;
-               font-weight: bold;
-            }
-       </style>
-   </head>
-   <body>
-       <p> </p>
-       <div id="B923">表9.2.3 港口护岸适用性评估分级标准</div>
-       <img id="fig923" src="./_static/tab9.2.3.jpg" alt="Picture">
-   </body>
+     }
+     #eqzs {
+        border: 0px;
+     }
+    </style>
 
- <p><a href="#id9.2.4"> 9.2.4</a> <span id="id9.2.4">港口护岸混凝土结构耐久性评估应按第4章的有关规定执行。</span></p></section>
+               <table id="biaoge" style="font-family:times new roman">
+
+        <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B9.2.2">表9.2.2 港口护岸安全性评估分级标准</b></caption>
+
+                   <tr>
+                       <td align="center" colspan="3" rowspan="2">项目</td>
+               <!-- <td></td> -->
+               <!-- <td></td> -->
+               <td align="center" colspan="4">等级</td>
+                       <!-- <td></td> -->
+               <!-- <td></td> -->
+               <!-- <td></td> -->
+                   </tr>
+
+           <tr>
+                       <!-- <td></td> -->
+               <!-- <td></td> -->
+               <!-- <td></td> -->
+               <td align="center" width="120px">A</td>
+               <td align="center">B</td>
+               <td  align="center">C</td>
+               <td align="center" width="120px">D</td>
+                   </tr>
+
+
+                  <tr>
+               <td width="40px"  align="center" rowspan="3"> 斜坡式</td>
+                     <td align="center" colspan="2">栅栏般的承载能力</td>
+                       <!-- <td></td> -->
+              <td width="150px"  align="center" rowspan="2"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+              <td width="150px"  align="center" rowspan="2">0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+              <td width="150px"  align="center" rowspan="2">0.85≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90</td>
+                        <td width="150px"  align="center" rowspan="2"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.85 </td>
+        </tr>
+
+        <tr>
+
+                     <td  align="center" colspan="2">胸墙的承载能力</td>
+
+                  </tr>
+
+
+        <tr>
+
+                     <td  align="center" colspan="2">整体稳定性</td>
+                       <!-- <td></td> -->
+              <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+              <td  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+              <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+                        <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+                  </tr>
+
+
+              <tr>
+               <td  width="40px" align="center" rowspan="3"> 直立式</td>
+                     <td  align="center" colspan="2">抗倾斜、抗滑和整体稳定性</td>
+                       <!-- <td></td> -->
+               <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+                         <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+        </tr>
+
+        <tr>
+               <!-- <td></td> -->
+
+           <td  width="40px" align="center" rowspan="3"> 承载能力</td>
+                     <td  width="40px" align="center" rowspan="1" >上部结构</td>
+              <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+              <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+              <td  align="center" >0.85≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90</td>
+                        <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.85 </td>
+                  </tr>
+
+       <tr>
+               <!-- <td></td> -->
+               <!-- <td></td> -->
+
+                       <td width="80px" align="center" rowspan="1">沉箱、扶壁、方块、圆筒、基床和地基</td>
+                        <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+              <td  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+              <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+                        <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+                  </tr>
+        </table>
+
+     <p><font size="2"> 注：1. <i>R</i><sub>d</sub><i>S</i><sub>d</sub>分别为结构构件的抗力和作用效应组合设计值；<br/>
+     &emsp;&ensp;&nbsp; 2. <i>γ</i><sub>0</sub>为结构重要性系数，取值根据结构安全等级选取为；<br/>
+     &emsp;&ensp;&nbsp;&emsp;&ensp;一级：<i>γ</i><sub>0</sub>=1.1，<br/>
+     &emsp;&ensp;&nbsp;&emsp;&ensp;二级：<i>γ</i><sub>0</sub>=1.0，<br/>
+     &emsp;&ensp;&nbsp;&emsp;&ensp;三级：除整体稳定性验算取<i>γ</i><sub>0</sub>=1.0外，其它验算项目均取<i>γ</i><sub>0</sub>=0.9；<br/>
+     &emsp;&ensp;&nbsp; 3. 整体稳定性评定为B级的结构应及时采取措施。</font></p><p><a href="#id9.2.3"> 9.2.3</a> <span id="id9.2.3">港口护岸的适用性应根据检测结果按<a href="#B9.2.3">表9.2.3</a>的规定进行评估。</span></p>
+
+  <style>
+     #biaoge,td {
+        border: 2px solid black;
+        border-collapse: collapse;
+        margin-bottom:5px;
+
+     }
+     th, td {
+        padding-top: 5px;
+        padding-bottom:5px;
+        padding-left:5px;
+        padding-right:5px;
+
+     }
+     #eqzs {
+        border: 0px;
+     }
+    </style>
+
+               <table id="biaoge" style="font-family:times new roman">
+
+        <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B9.2.3">表9.2.3 港口护岸适用性评估分级标准</b></caption>
+
+               <tr>
+               <td width="60px" align="center">等级</td>
+               <td width="200px" align="center">A</td>
+               <td width="220px" align="center">B</td>
+               <td width="190px" align="center">C</td>
+               <td width="190px" align="center">D</td>
+                   </tr>
+                  <tr>
+                       <td  align="center">分级标准</td>
+                       <td  align="center" >护岸断面无变化或变化不大，对使用没影响</td>
+               <td  align="center" >护岸断面略有变化或变化不大，对使用略有影响</td>
+               <td  align="center" >护岸断面变化较大，对使用影响较大</td>
+                       <td  align="center" >护岸断面变化很大，对使用影响很大 </td>
+           </tr>
+        </table><p><span class="math notranslate nohighlight">\(\ \)</span></p>
+<p><a href="#id9.2.4"> 9.2.4</a> <span id="id9.2.4">港口护岸混凝土结构耐久性评估应按第4章的有关规定执行。</span></p></section>
+</section>
 
 
               </div>

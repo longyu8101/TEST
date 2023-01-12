@@ -8,7 +8,7 @@
 
  <p><a href="#id4.1.1"> 4.1.1</a> <span id="id4.1.1">腐蚀介质调查内容宜包括潮汐、温度、湿度、pH值、水污染情况和其他侵蚀介质等,海水环境混凝土结构腐蚀介质调查内容还应包括海水中氯离子含量。</span></p>
 
- <p><a href="#id4.1.2"> 4.1.2</a>  <span id="id4.1.2">工程情况的调查内容除应包括第3.0.2条规定的内容外，还应包括耐久性检查检测记录。</span></p>
+ <p><a href="#id4.1.2"> 4.1.2</a>  <span id="id4.1.2">工程情况的调查内容除应包括第<a href="https://longyu8101.github.io/TEST/03.html#id3.0.2">3.0.2</a>条规定的内容外，还应包括耐久性检查检测记录。</span></p>
 
 4.2 氯盐引起钢筋锈蚀劣化耐久性检测
 ----------------------------------
@@ -92,7 +92,7 @@
       #biaogea,td {
          border: 2px solid black;
          border-collapse: collapse;
-         margin-bottom:40px;
+         margin-bottom:1px;
         
       }
       th, td {
@@ -203,9 +203,8 @@
 			
 		</table>
 
- <p line-height:80PX>  </p>
+:math:`\ `
  
-
 .. raw:: html
 
  <p><a href="#id4.5.3"> 4.5.3</a> <span id="id4.5.3">外观劣化度评估等级为C级或D级的构件应进行安全性和适用性评估。</span></p>
@@ -238,7 +237,7 @@ $$D=D_{\\mathrm{t}}(\\dfrac{t}{10})^{\\mathrm{m}}\\tag{4.5.4-3}$$
       #biaoge,td {
          border: 2px solid black;
          border-collapse: collapse;
-         margin-bottom:40px;
+         margin-bottom:1px;
         
       }
       th, td {
@@ -270,7 +269,7 @@ $$D=D_{\\mathrm{t}}(\\dfrac{t}{10})^{\\mathrm{m}}\\tag{4.5.4-3}$$
 		        <td  align="center">0.20+4(<i>F/5+K/7</i>)</td>
 		    </tr>
 		</table>
-      <p>注:F、K分别为粉煤灰和粒化高炉矿渣粉掺量占凝胶材料总量的百分比。</p>
+      <p><font size="2">注:F、K分别为粉煤灰和粒化高炉矿渣粉掺量占凝胶材料总量的百分比。</font></p>
      <ol start='2'>
     <li>氯盐引起混凝土中钢筋发生腐蚀的氯离子含量临界值根据建筑物所处实际环境条件和工程调查资料确定,在无上述可靠资料的情况下按<a href="#B4.5.4-2">表4.5.4-2</a>选取。</li>
     </ol>
@@ -282,7 +281,7 @@ $$D=D_{\\mathrm{t}}(\\dfrac{t}{10})^{\\mathrm{m}}\\tag{4.5.4-3}$$
       #biaoge,td {
          border: 2px solid black;
          border-collapse: collapse;
-         margin-bottom:5px;
+         margin-bottom:1px;
         
       }
       th, td {
@@ -323,8 +322,10 @@ $$D=D_{\\mathrm{t}}(\\dfrac{t}{10})^{\\mathrm{m}}\\tag{4.5.4-3}$$
               <td  align="center"  width="130px">0.55</td> 
 			 </tr>
 		</table>
-      <p> <a>注:①<i>W/B</i>为混凝土的水胶比;
-                     ②表中氯离子含量临界值按占凝胶材料质量的百分比计;</p>
+   <p> <font size="2">注：1. <i>W/B</i>为混凝土的水胶比;<br/>
+    &emsp;&ensp;&nbsp; 2. 表中氯离子含量临界值按占凝胶材料质量的百分比计; 
+             </ol></font></p>
+      
      
    <ol start='3'>
      <li>混凝土表面氯离子含量当结构使用年限达10年及以上时按实测值选,当街使用年限小于10年时按<a href="#B4.5.4-3">表4.5.4-3</a>选取。</li>
@@ -336,7 +337,7 @@ $$D=D_{\\mathrm{t}}(\\dfrac{t}{10})^{\\mathrm{m}}\\tag{4.5.4-3}$$
       #biaoge,td {
          border: 2px solid black;
          border-collapse: collapse;
-         margin-bottom:5px;
+         margin-bottom:1px;
         
       }
       th, td {
@@ -366,7 +367,7 @@ $$D=D_{\\mathrm{t}}(\\dfrac{t}{10})^{\\mathrm{m}}\\tag{4.5.4-3}$$
               <td  align="center" >3.0</td>
           </tr>
 		</table>
-      <p> <a>注:表中氯离子含量按占凝胶材料质量的百分比计。</p>
+      <p><font size="2">注:表中氯离子含量按占凝胶材料质量的百分比计。</font></p>
 
 
 .. raw:: html
@@ -388,7 +389,7 @@ $$\\lambda_{1}=0.0116i\\tag{4.5.4-6}$$
       #biaoge,td {
          border: 2px solid black;
          border-collapse: collapse;
-         margin-bottom:5px;
+         margin-bottom:1px;
         
       }
       th, td {
@@ -426,7 +427,9 @@ $$\\lambda_{1}=0.0116i\\tag{4.5.4-6}$$
               <td  align="center" >0.25</td>
           </tr>
 		</table>
- <p line-height:80PX>  </p>
+
+:math:`\ `
+
 .. raw:: html
 
  <p><a href="#id4.5.4.3"> 4.5.4.3</a> <span id="id4.5.4.3">功能明显退化阶段所经历的时间可按<a href="#ideq4.5.4-7">式(4.5.4-7)</a><span id="ideq4.5.4-7">计算:</span></p>
@@ -442,7 +445,7 @@ $$t_{\\mathrm{d}}=(1-\\dfrac{1}{\\sqrt{10}}\\dfrac{d}{2\\gamma_{2}})\\tag{4.5.4-
       #biaoge,td {
          border: 2px solid black;
          border-collapse: collapse;
-         margin-bottom:5px;
+         margin-bottom:1px;
         
       }
       th, td {
@@ -472,7 +475,8 @@ $$t_{\\mathrm{d}}=(1-\\dfrac{1}{\\sqrt{10}}\\dfrac{d}{2\\gamma_{2}})\\tag{4.5.4-
               <td  align="center" >0.05</td>
           </tr>
 		</table>
-      <p> <a>注:浪溅区钢筋混凝土构件的钢筋平均腐蚀速度取0.05mm/a。</p>
+      <p> <font size="2">注:浪溅区钢筋混凝土构件的钢筋平均腐蚀速度取0.05mm/a。</font></p>
+
 
 .. raw:: html
 
@@ -620,7 +624,7 @@ $$D^{'}=k_{c}\\sqrt{t^{'}}\\tag{4.6.11-2}$$
       #biaoge,td {
          border: 2px solid black;
          border-collapse: collapse;
-         margin-bottom:5px;
+         margin-bottom:1px;
         
       }
       th, td {
@@ -660,11 +664,15 @@ $$D^{'}=k_{c}\\sqrt{t^{'}}\\tag{4.6.11-2}$$
 		        <td  align="left" >边缘及棱角全部破坏,大面积钢筋外露,表面破坏面积达40%以上,局部穿洞或呈洞穴状，表面疏松</td>
           </tr>
 		</table>
- <p line-height:80PX>  </p>
+
+:math:`\ `
+
+.. raw:: html
+   
  <p><a href="#id4.7.2"> 4.7.2</a> <span id="id4.7.2">冻融劣化度为A级或B级的混凝土构件宜通过现场取样进行混凝土抗冻融试验确定其剩余抗冻融循环次数。</span></p>
 
  <p><a href="#id4.7.3"> 4.7.3</a> <span id="id4.7.3">冻融劣化度为B级或C级的钢筋混凝土结构应进行钢筋锈蚀耐久性检测与评估。</span></p>
 
  <p><a href="#id4.7.4"> 4.7.4</a> <span id="id4.7.4">冻融劣化度为C级或D级的钢筋混凝土结构应进行安全性和适用性评估。</span></p>
 
- <p><a href="#id4.7.5"> 4.7.5</a> <span id="id4.7.5">混凝土构件冻融劣化耐久性评估分级标准及处理要求应符合第3.0.5条的规定。</span></p>
+ <p><a href="#id4.7.5"> 4.7.5</a> <span id="id4.7.5">混凝土构件冻融劣化耐久性评估分级标准及处理要求应符合第<a href="https://longyu8101.github.io/TEST/03.html#id3.0.5">3.0.5</a>条的规定。</span></p>

@@ -32,23 +32,74 @@
  </ol>
 
  <p><a href="#id7.1.3"> 7.1.3</a> <span id="id7.1.3">检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluC.html">附录C</a>~<a href="https://longyu8101.github.io/TEST/xmjd/fuluE.html">附录E</a>和现行行业有关标准的规定。</span></p>
- <p><a href="#id7.1.4"> 7.1.4</a> <span id="id7.1.4">码头评估内容包括安全性、适用性和耐久性评估,评估内容应符合第3.0.4条的规定。</span></p>
- <p><a href="#id7.1.5"> 7.1.5</a> <span id="id7.1.5">码头的结构构件适用性评估应符合<a href="#B715">表7.1.5</a>的规定，取最低一级作为该构件适用性评估等级。</span></p>
+ <p><a href="#id7.1.4"> 7.1.4</a> <span id="id7.1.4">码头评估内容包括安全性、适用性和耐久性评估,评估内容应符合第<a href="https://longyu8101.github.io/TEST/03.html#id3.0.4">3.0.4</a>条的规定。</span></p>
+ <p><a href="#id7.1.5"> 7.1.5</a> <span id="id7.1.5">码头的结构构件适用性评估应符合<a href="#B7.1.5">表7.1.5</a>的规定，取最低一级作为该构件适用性评估等级。</span></p>
 
- <html lang="en">
-    <head>
-        <style>
-            #B715{ 
-                text-align: center;
-                font-weight: bold;
-             }
-        </style>
-    </head>
-    <body>
-        <p> </p>
-        <div id="B715">表7.1.5 码头结构构件适用性评估分级标准</div>
-        <img id="fig715" src="./_static/tab7.1.5.jpg" alt="Picture">
-    </body>
+    <style>
+      #biaoge,td {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:5px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.1.5">表7.1.5  码头结构构件适用性评估分级标准</b></caption>	
+              
+		    <tr>
+		        <td align="center" rowspan="2">项目</td>
+                <td align="center" colspan="4">等级</td>
+		        <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+		    </tr>
+            <tr>
+		        <!-- <td></td> -->
+                <td width="100px" align="center">A</td>
+                <td width="130px" align="center">B</td>
+                <td width="130px" align="center">C</td>
+                <td width="100px" align="center">D</td>
+		    </tr>
+		   <tr>
+		        <td  align="center">钢筋混凝土结构或钢结构最大挠度</td>
+		        <td  align="center" ><i>r</i>≥1.00 </td>
+                <td  align="center" >0.95≤<i>r</i>< 1.00 </td>
+                <td  align="center" >0.90≤<i>r</i>< 0.95 </td>
+		        <td  align="center" ><i>r</i>< 0.90 </td>
+            </tr>
+            <tr>
+		        <td  align="center">钢筋混凝土结构最大裂缝宽度</td>
+		        <td  align="center" ><i>r</i>≥1.00 </td>
+                <td  align="center" >0.80≤<i>r</i>< 1.00 </td>
+                <td  align="center" >0.70≤<i>r</i>< 0.80 </td>
+		        <td  align="center" ><i>r</i>< 0.70 </td>
+		    </tr>
+            <tr>
+		        <td  align="center">预应力混凝土拉应力限制</td>
+		        <td  align="center" ><i>r</i>≥1.00 </td>
+                <td  align="center" >0.95≤<i>r</i>< 1.00 </td>
+                <td  align="center" >0.90≤<i>r</i>< 0.95 </td>
+		        <td  align="center" ><i>r</i>< 0.90 </td>
+		    </tr>
+		</table>
+        <p><font size="2"> 注：<i>r</i>表示规范限值与实测值或验算值的比值。
+         </font>
+         </p>
+
+
+.. raw:: html
 
  <p><a href="#id7.1.6"> 7.1.6</a> <span id="id7.1.6">码头的适用性评估应以现场调查和检测结果为基本依据，当检测只能取得部分数据或改变建筑物使用条件时,尚应按正常使用极限状态进行验算,并应符合第3.0.8条和现行行业有关标准的规定。</span></p>
  <p><a href="#id7.1.7"> 7.1.7</a> <span id="id7.1.7">码头耐久性评估应按第4章~第6章的规定执行。</span></p>
@@ -88,22 +139,105 @@
  </ol>
 
  <p><a href="#id7.2.4.2"> 7.2.4.2</a> <span id="id7.2.4.2">复核验算应符合现行行业标准《码头结构设计规范》(JTS 167)等的有关规定。</span></p>
- <p><a href="#id7.2.4.3"> 7.2.4.3</a> <span id="id7.2.4.3">码头安全性评估应符合<a href="#B724">表7.2.4</a>的规定，取最低一级作为该评估单元的安全性评估等级。</span></p>
+ <p><a href="#id7.2.4.3"> 7.2.4.3</a> <span id="id7.2.4.3">码头安全性评估应符合<a href="#B7.2.4">表7.2.4</a>的规定，取最低一级作为该评估单元的安全性评估等级。</span></p>
 
-  <html lang="en">
-    <head>
-        <style>
-            #B724{ 
-                text-align: center;
-                font-weight: bold;
-             }
-        </style>
-    </head>
-    <body>
-        <p> </p>
-        <div id="B724">表7.2.4 重力式码头安全性评估分级标准</div>
-        <img id="fig724" src="./_static/tab7.2.4.jpg" alt="Picture">
-    </body>
+    <style>
+      #biaoge,td {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:5px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.2.4">表7.2.4 重力式码头安全性评估分级标准</b></caption>	
+              
+		    <tr>
+		        <td align="center" colspan="2" rowspan="2">项目</td>
+                <!-- <td></td> -->
+                <td align="center" colspan="4">等级</td>
+		        <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+		    </tr>
+            <tr>
+		        <!-- <td></td> -->
+                <!-- <td></td> -->
+                <td  align="center" width="120px" >A</td>
+                <td  align="center" width="150px" >B</td>
+                <td  align="center" width="150px" >C</td>
+                <td  align="center" width="120px" >D</td>
+		    </tr>
+		   <tr>
+           		<td align="center" colspan="2">抗倾稳定性</td>
+		        <!-- <td></td> -->
+                <td  align="center" rowspan="4"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+                <td  align="center" rowspan="4">0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+                <td  align="center" rowspan="4">0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		        <td  align="center" rowspan="4"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+            </tr>
+            <tr>
+            	<td align="center" colspan="2">抗滑稳定性</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+		        <!-- <td></td> -->
+		    </tr>
+            <tr>
+            	<td align="center" colspan="2">整体稳定性</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+		        <!-- <td></td> -->
+		    </tr>
+            	<td align="center" colspan="2">基床和地基承载能力</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+		        <!-- <td></td> -->
+		    </tr>
+            <tr>
+            	<td  align="center" rowspan="2"> 结构构件的承载能力</td>
+		        <td  align="center" >卸荷板、沉箱、扶壁、空心方块、圆筒、梁板</td>
+		        <!-- <td></td> -->
+                <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+                <td  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+                <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		        <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+		    </tr>
+	            <tr>
+           		 <!-- <td></td> -->
+		        <td  align="center" >天然地基的轨道梁、胸墙、胸墙垫板、胸墙块体</td>
+                <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+                <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+                <td  align="center" >0.85≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90</td>
+		        <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.85 </td>
+            </tr>
+       </table>
+         <p><font size="2"> 注：1. <i>R</i><sub>d</sub><i>S</i><sub>d</sub>分别为结构构件的抗力和作用效应组合设计值；<br/>
+         &emsp;&ensp;&nbsp; 2. <i>γ</i><sub>0</sub>为结构重要性系数，取值根据结构安全等级选取为；<br/>
+         &emsp;&ensp;&nbsp;&emsp;&ensp;一级：<i>γ</i><sub>0</sub>=1.1，<br/>
+         &emsp;&ensp;&nbsp;&emsp;&ensp;二级：<i>γ</i><sub>0</sub>=1.0，<br/>
+         &emsp;&ensp;&nbsp;&emsp;&ensp;三级：除整体稳定性验算取<i>γ</i><sub>0</sub>=1.0外，其它验算项目均取<i>γ</i><sub>0</sub>=0.9；<br/>
+         &emsp;&ensp;&nbsp; 3. 整体稳定性评定为B级的结构应及时采取措施。
+         </font>
+         </p>
+
 
 7.3 板桩码头检测与评估
 -------------------------------------
@@ -144,22 +278,102 @@
  </ol>
 
  <p><a href="#id7.3.4.2"> 7.3.4.2</a> <span id="id7.3.4.2">复核验算应符合现行行业标准《码头结构设计规范》(JTS 167)等的有关规定。</span></p>
- <p><a href="#id7.3.4.3"> 7.3.4.3</a> <span id="id7.3.4.3">码头安全性评估应符合<a href="#B734">表7.3.4</a>的规定，取最低一级作为该评估单元的安全性评估等级。</span></p>
+ <p><a href="#id7.3.4.3"> 7.3.4.3</a> <span id="id7.3.4.3">码头安全性评估应符合<a href="#B7.3.4">表7.3.4</a>的规定，取最低一级作为该评估单元的安全性评估等级。</span></p>
 
-  <html lang="en">
-    <head>
-        <style>
-            #B734{ 
-                text-align: center;
-                font-weight: bold;
-             }
-        </style>
-    </head>
-    <body>
-        <p> </p>
-        <div id="B734">表7.3.4 板桩码头安全性评估分级标准</div>
-        <img id="fig734" src="./_static/tab7.3.4.jpg" alt="Picture">
-    </body>
+    <style>
+      #biaoge,td {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:5px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.3.4">表7.3.4 板桩码头安全性评估分级标准</b></caption>	
+              
+		    <tr>
+		        <td align="center" rowspan="2">项目</td>
+                <!-- <td></td> -->
+                <td align="center" colspan="4">等级</td>
+		        <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+		    </tr>
+            <tr>
+		        <!-- <td></td> -->
+                <!-- <td></td> -->
+                <td  align="center" width="110px" >A</td>
+                <td  align="center" width="150px" >B</td>
+                <td  align="center" width="150px" >C</td>
+                <td  align="center" width="110px" >D</td>
+		    </tr>
+		   <tr>
+           		<td align="center" >码头整体稳定性</td>
+		        <td  align="center" rowspan="4"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+                <td  align="center" rowspan="4">0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+                <td  align="center" rowspan="4">0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		        <td  align="center" rowspan="4"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+            </tr>
+            <tr>
+            	<td align="center" >前墙和锚碇结构的稳定性</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+		        <!-- <td></td> -->
+		    </tr>
+            <tr>
+            	<td align="center" >前墙和锚碇结构的承载能力</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+		        <!-- <td></td> -->
+		    </tr>
+            	<td align="center" >拉杆的承载能力</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+		        <!-- <td></td> -->
+		    </tr>
+            <tr>
+            	<td  align="center" > 导梁、帽梁、胸墙和轨道梁的承载能力</td>
+                <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+                <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+                <td  align="center" >0.85≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90</td>
+		        <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.85 </td>
+		    </tr>
+	            <tr>
+           		 <!-- <td></td> -->
+		        <td  align="center" >天然地基的轨道梁、胸墙、胸墙垫板、胸墙块体</td>
+                <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+                <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+                <td  align="center" >0.85≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90</td>
+		        <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.85 </td>
+            </tr>
+       </table>
+         <p><font size="2"> 注：1. <i>R</i><sub>d</sub><i>S</i><sub>d</sub>分别为结构构件的抗力和作用效应组合设计值；<br/>
+         &emsp;&ensp;&nbsp; 2. <i>γ</i><sub>0</sub>为结构重要性系数，取值根据结构安全等级选取为；<br/>
+         &emsp;&ensp;&nbsp;&emsp;&ensp;一级：<i>γ</i><sub>0</sub>=1.1，<br/>
+         &emsp;&ensp;&nbsp;&emsp;&ensp;二级：<i>γ</i><sub>0</sub>=1.0，<br/>
+         &emsp;&ensp;&nbsp;&emsp;&ensp;三级：除整体稳定性验算取<i>γ</i><sub>0</sub>=1.0外，其它验算项目均取<i>γ</i><sub>0</sub>=0.9；<br/>
+         &emsp;&ensp;&nbsp; 3. 整体稳定性评定为B级的结构应及时采取措施。
+         </font>
+         </p>
+
 
 7.4 高桩码头检测与评估
 -------------------------------------
@@ -196,22 +410,114 @@
  </ol>
 
  <p><a href="#id7.4.3.2"> 7.4.3.2</a> <span id="id7.4.3.2">复核验算应符合现行行业标准《码头结构设计规范》(JTS 167)等的有关规定。</span></p>
- <p><a href="#id7.4.3.3"> 7.4.3.3</a> <span id="id7.4.3.3">码头安全性评估应符合<a href="#B743">表7.4.3</a>的规定，取最低一级作为该评估单元的安全性评估等级。</span></p>
+ <p><a href="#id7.4.3.3"> 7.4.3.3</a> <span id="id7.4.3.3">码头安全性评估应符合<a href="#B7.4.3">表7.4.3</a>的规定，取最低一级作为该评估单元的安全性评估等级。</span></p>
 
-   <html lang="en">
-    <head>
-        <style>
-            #B743{ 
-                text-align: center;
-                font-weight: bold;
-             }
-        </style>
-    </head>
-    <body>
-        <p> </p>
-        <div id="B743">表7.4.3 高桩码头安全性评估分级标准</div>
-        <img id="fig743" src="./_static/tab7.4.3.jpg" alt="Picture">
-    </body>
+   <style>
+      #biaoge,td {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:5px;
+
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+
+      }
+      #eqzs {
+         border: 0px;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.4.3">表7.4.3 防波堤安全性评估分级标准</b></caption>	
+
+		    <tr>
+		        <td align="center" colspan="2" rowspan="2">项目</td>
+                <!-- <td></td> -->
+                <td align="center" colspan="4">等级</td>
+		        <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+		    </tr>
+
+            <tr>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <td align="center">A</td>
+                <td align="center">B</td>
+                <td  align="center">C</td>
+                <td align="center">D</td>
+		    </tr>
+
+
+		   <tr>
+           	<td width="100px"  align="center" rowspan="2"> 上部结构构件的承载能力</td>
+		      <td align="center" width="80px" >主要构件</td>
+               <td width="120px"  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td width="150px"  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td width="150px"  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		       <td width="120px"  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+         </tr>
+
+	   <tr>
+            	<!-- <td></td> -->
+		      <td align="center" >一般构件</td>
+               <td align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td align="center" >0.85≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90</td>
+		       <td align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.85 </td>
+         </tr>
+
+
+         <tr>
+
+		      <td  align="center" colspan="2">桩基承载能力</td>
+		        <!-- <td></td> -->
+               <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		       <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+		   </tr>
+
+
+	       <tr>
+           	  <td  width="40px" align="center" rowspan="2"> 接岸结构的承载能力和稳定性</td>
+		      <td  align="center" >重力式<br/>结构</td>
+		      <td  align="center" colspan="4">按第7.2节的有关规定执行
+              <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->
+         </tr>    
+
+	       <tr>
+           	  <!-- <td></td> -->
+		      <td  align="center" >板桩结构</td>
+		      <td  align="center" colspan="4">按第7.3节的有关规定执行
+              <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->
+         </tr>
+
+         <tr>
+              <td  align="center" colspan="2">岸坡整体稳定性
+              <!-- <td></td> -->
+               <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		       <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+		   </tr>
+     	 </table>
+
+      <p><font size="2"> 注：1. <i>R</i><sub>d</sub><i>S</i><sub>d</sub>分别为结构构件的抗力和作用效应组合设计值；<br/>
+      &emsp;&ensp;&nbsp; 2. <i>γ</i><sub>0</sub>为结构重要性系数，取值根据结构安全等级选取为；<br/>
+      &emsp;&ensp;&nbsp;&emsp;&ensp;一级：<i>γ</i><sub>0</sub>=1.1，<br/>
+      &emsp;&ensp;&nbsp;&emsp;&ensp;二级：<i>γ</i><sub>0</sub>=1.0，<br/>
+      &emsp;&ensp;&nbsp;&emsp;&ensp;三级：除整体稳定性验算取<i>γ</i><sub>0</sub>=1.0外，其它验算项目均取<i>γ</i><sub>0</sub>=0.9；<br/>
+      &emsp;&ensp;&nbsp; 3. 整体稳定性评定为B级的结构应及时采取措施。</font></p>
 
 7.5 斜坡码头、浮码头检测与评估
 -------------------------------------
@@ -247,19 +553,84 @@
  <li>斜坡道、引桥桥墩、坡顶挡土墙、桥台以及岸坡等的稳定性。</li>
  </ol>
  <p><a href="#id7.5.5.2"> 7.5.5.2</a> <span id="id7.5.5.2">复核验算方法应符合现行行业标准《码头结构设计规范》(JTS 167)等的有关规定。
- <p><a href="#id7.5.5.3"> 7.5.5.3</a> <span id="id7.5.5.3">码头的安全性评估应符合<a href="#B755">表7.5.5</a>的规定，取最低的一级作为该评估单元的安全性评估等级。</span></p>
+ <p><a href="#id7.5.5.3"> 7.5.5.3</a> <span id="id7.5.5.3">码头的安全性评估应符合<a href="#B7.5.5">表7.5.5</a>的规定，取最低的一级作为该评估单元的安全性评估等级。</span></p>
 
-   <html lang="en">
-    <head>
-        <style>
-            #B755{ 
-                text-align: center;
-                font-weight: bold;
-             }
-        </style>
-    </head>
-    <body>
-        <p> </p>
-        <div id="B755">表7.5.5 斜坡码头、浮码头安全性评估分级标准</div>
-        <img id="fig755" src="./_static/tab7.5.5.jpg" alt="Picture">
-    </body>
+  
+   <style>
+      #biaoge,td {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:5px;
+
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+
+      }
+      #eqzs {
+         border: 0px;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.5.5">表7.5.5 斜坡码头、浮码头安全性评估分级标准</b></caption>	
+
+		    <tr>
+		        <td align="center" colspan="2" rowspan="2">项目</td>
+                <!-- <td></td> -->
+                <td align="center" colspan="4">等级</td>
+		        <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+		    </tr>
+
+            <tr>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <td align="center">A</td>
+                <td align="center">B</td>
+                <td  align="center">C</td>
+                <td align="center">D</td>
+		    </tr>
+
+
+		   <tr>
+           	<td width="100px"  align="center" rowspan="2"> 趸船系留设施的承载能力；斜坡码头、浮码头结构构件的承载能力；钢引桥的承载能力</td>
+		      <td align="center" width="80px" >主要构件</td>
+               <td width="120px"  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td width="150px"  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td width="150px"  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		       <td width="120px"  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+         </tr>
+
+	   <tr>
+            	<!-- <td></td> -->
+		      <td align="center" >一般构件</td>
+               <td align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td align="center" >0.85≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90</td>
+		       <td align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.85 </td>
+         </tr>
+
+
+         <tr>
+
+		      <td  align="center" colspan="2">岸坡整体稳定性</td>
+		        <!-- <td></td> -->
+               <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		       <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+		   </tr>
+     	 </table>
+
+      <p><font size="2"> 注：1. <i>R</i><sub>d</sub><i>S</i><sub>d</sub>分别为结构构件的抗力和作用效应组合设计值；<br/>
+      &emsp;&ensp;&nbsp; 2. <i>γ</i><sub>0</sub>为结构重要性系数，取值根据结构安全等级选取为；<br/>
+      &emsp;&ensp;&nbsp;&emsp;&ensp;一级：<i>γ</i><sub>0</sub>=1.1，<br/>
+      &emsp;&ensp;&nbsp;&emsp;&ensp;二级：<i>γ</i><sub>0</sub>=1.0，<br/>
+      &emsp;&ensp;&nbsp;&emsp;&ensp;三级：除整体稳定性验算取<i>γ</i><sub>0</sub>=1.0外，其它验算项目均取<i>γ</i><sub>0</sub>=0.9；<br/>
+      &emsp;&ensp;&nbsp; 3. 整体稳定性评定为B级的结构应及时采取措施。</font></p>

@@ -61,7 +61,8 @@
 -------------------------------------
 .. raw:: html
 
- <p><a href="#id8.2.1"> 8.2.1</a> <span id="id8.2.1">防波堤安全性、适用性和耐久性评估的确定应按第3.0.4条的规定执行。8.2.2 防波堤安全性评估应按下列规定执行。</span></p>
+ <p><a href="#id8.2.1"> 8.2.1</a> <span id="id8.2.1">防波堤安全性、适用性和耐久性评估的确定应按第3.0.4条的规定执行。
+ <p><a href="#id8.2.2"> 8.2.2</a> <span id="id8.2.2">防波堤安全性评估应按下列规定执行。</span></p>
  <p><a href="#id8.2.2.1"> 8.2.2.1</a> <span id="id8.2.2.1">安全性评估的复核验算应包括下列内容：</span></p>
 
 (1) 斜坡式防波堤护面栅栏板的承载能力、胸墙的承载能力和整体稳定性。
@@ -70,38 +71,200 @@
 .. raw:: html
 
  <p><a href="#id8.2.2.2"> 8.2.2.2</a> <span id="id8.2.2.2"> 复核验算的断面应按实际情况选择控制性断面，计算方法应符合现行行业标准《防波堤与护岸设计规范》(JTS 154)等的有关规定。</span></p>
- <p><a href="#id8.2.2.3"> 8.2.2.3</a> <span id="id8.2.2.3"> 防波堤安全性评估应符合<a href="#B822">表8.2.2</a>的规定，取最低一级作为该评估单元的安全性评估等级。</span></p>
+ <p><a href="#id8.2.2.3"> 8.2.2.3</a> <span id="id8.2.2.3"> 防波堤安全性评估应符合<a href="#B8.2.2">表8.2.2</a>的规定，取最低一级作为该评估单元的安全性评估等级。</span></p>
  
-   <html lang="en">
-    <head>
-        <style>
-            #B822{ 
-                text-align: center;
-                font-weight: bold;
-             }
-        </style>
-    </head>
-    <body>
-        <p> </p>
-        <div id="B822">表8.2.2 防波堤安全性评估分级标准</div>
-        <img id="fig822" src="./_static/tab8.2.2.jpg" alt="Picture">
-    </body>
+ <style>
+      #biaoge,td {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:5px;
+
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+
+      }
+      #eqzs {
+         border: 0px;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B8.2.2">表8.2.2 防波堤安全性评估分级标准</b></caption>	
+
+		    <tr>
+		        <td align="center" colspan="3" rowspan="2">项目</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <td align="center" colspan="4">等级</td>
+		        <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+		    </tr>
+
+            <tr>
+		        <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <td align="center">A</td>
+                <td align="center">B</td>
+                <td  align="center">C</td>
+                <td align="center">D</td>
+		    </tr>
+
+
+		   <tr>
+           	<td width="40px"  align="center" rowspan="3"> 斜坡式</td>
+		      <td align="center" colspan="2">栅栏般的承载能力</td>
+		        <!-- <td></td> -->
+               <td width="150px"  align="center" rowspan="2"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td width="150px"  align="center" rowspan="2">0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td width="150px"  align="center" rowspan="2">0.85≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90</td>
+		         <td width="150px"  align="center" rowspan="2"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.85 </td>
+         </tr>
+
+         <tr>
+
+		      <td  align="center" colspan="2">胸墙的承载能力</td>
+
+		   </tr>
+
+
+         <tr>
+
+		      <td  align="center" colspan="2">整体稳定性</td>
+		        <!-- <td></td> -->
+               <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		         <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+		   </tr>
+
+
+	       <tr>
+           	  <td  width="40px" align="center" rowspan="4"> 直立式</td>
+		      <td  align="center" colspan="2">抗倾稳定性</td>
+		      <!-- <td></td> -->
+              <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+              <td  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+              <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		      <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+         </tr>    
+
+          <tr>
+           	  <!-- <td></td> -->
+		      <td  align="center" colspan="2">抗滑稳定性</td>
+		      <!-- <td></td> -->
+              <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+              <td  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+              <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		      <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+         </tr>
+
+         <tr>
+            	<!-- <td></td> -->
+
+              <td  width="40px" align="center" rowspan="2"> 构件的承载能力</td>
+		      <td  width="40px" align="center" rowspan="1" >上部<br/>结构</td>
+               <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td  align="center" >0.85≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90</td>
+		         <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.85 </td>
+		   </tr>
+
+           <tr>
+            	<!-- <td></td> -->
+                <!-- <td></td> -->
+
+		        <td width="60px" align="center" rowspan="1">沉箱、扶壁、方块、圆筒&emsp;</td>
+		         <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+                 <td  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+                 <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		         <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+		   </tr>
+
+           <tr>
+              <td align="center" rowspan="2"> 直立式 </td>
+              <td align="center" colspan="2"> 基床和地基承载能力</td>
+              <!-- <td></td> -->
+              <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+              <td  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+              <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		      <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+
+           </tr>
+
+           <tr>
+              <!-- <td></td> -->
+              <td align="center" colspan="2"> 整体稳定性</td>
+              <!-- <td></td> -->
+              <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+              <td  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+              <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		      <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+
+           </tr>
+
+     	 </table>
+
+      <p><font size="2"> 注：1. <i>R</i><sub>d</sub><i>S</i><sub>d</sub>分别为结构构件的抗力和作用效应组合设计值；<br/>
+      &emsp;&ensp;&nbsp; 2. <i>γ</i><sub>0</sub>为结构重要性系数，取值根据结构安全等级选取为；<br/>
+      &emsp;&ensp;&nbsp;&emsp;&ensp;一级：<i>γ</i><sub>0</sub>=1.1，<br/>
+      &emsp;&ensp;&nbsp;&emsp;&ensp;二级：<i>γ</i><sub>0</sub>=1.0，<br/>
+      &emsp;&ensp;&nbsp;&emsp;&ensp;三级：除整体稳定性验算取<i>γ</i><sub>0</sub>=1.0外，其它验算项目均取<i>γ</i><sub>0</sub>=0.9；<br/>
+      &emsp;&ensp;&nbsp; 3. 整体稳定性评定为B级的结构应及时采取措施。</font></p>
  
- <p><a href="#id8.2.3"> 8.2.3</a> <span id="id8.2.3"> 防波堤的适用性应根据检测结果按<a href="#B823">表8.2.3</a>的规定进行评估。</span></p>
+
+.. raw:: html
+
+ <p><a href="#id8.2.3"> 8.2.3</a> <span id="id8.2.3"> 防波堤的适用性应根据检测结果按<a href="#B8.2.3">表8.2.3</a>的规定进行评估。</span></p>
  
-  <html lang="en">
-    <head>
-        <style>
-            #B823{ 
-                text-align: center;
-                font-weight: bold;
-             }
-        </style>
-    </head>
-    <body>
-        <p> </p>
-        <div id="B823">表8.2.3 防波堤适用性评估分级标准</div>
-        <img id="fig823" src="./_static/tab8.2.3.jpg" alt="Picture">
-    </body>
+
+   <style>
+      #biaoge,td {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:5px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B8.2.3">表8.2.3 防波堤适用性评估分级标准</b></caption>	
+              
+	        <tr>
+                <td width="60px" align="center">等级</td>
+                <td width="200px" align="center">A</td>
+                <td width="200px" align="center">B</td>
+                <td width="200px" align="center">C</td>
+                <td width="200px" align="center">D</td>
+		    </tr>
+		   <tr>
+		        <td  align="center">分级标准</td>
+		        <td  align="center" >防波堤断面无变化或变化不大，对港内泊稳没影响</td>
+                <td  align="center" >防波堤断面略有变化，对港内泊稳略有影响</td>
+                <td  align="center" >防波堤断面变化较大，对港内泊稳影响较大</td>
+		        <td  align="center" >防波堤断面变化很大，对港内泊稳影响很大 </td>
+            </tr>
+     	 </table>
+
+:math:`\ `
+
+.. raw:: html
 
     <p><a href="#id8.2.4"> 8.2.4</a> <span id="id8.2.4"> 防波堤混凝土结构耐久性评估应按第4章的有关规定执行。</span></p>
