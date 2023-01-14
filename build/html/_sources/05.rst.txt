@@ -7,17 +7,17 @@
 -------------------------------------
 .. raw:: html
 
- <p><a href="#id5.1.1"> 5.1.1</a> <span id="id5.1.1">腐蚀介质调查内容宜包括潮汐、 温度、湿度、含盐量、pH值、电细率、水污染情况和其他侵蚀介质等,海水环境钢结构腐蚀介质调查内容还应包括海水中氯离子含量。</span></p>
+ <p><a href="#id5.1.1"> 5.1.1</a> <span id="id5.1.1">腐蚀介质调查内容宜包括潮汐、 温度、湿度、含盐量、pH值、电细率、水污染情况和其他侵蚀介质等，海水环境钢结构腐蚀介质调查内容还应包括海水中氯离子含量。</span></p>
 
- <p><a href="#id5.1.2"> 5.1.2</a> <span id="id5.1.2">工程情况的调查内容除应包括第3.0.2条规定的内容外，还应包括腐蚀情况的检查检测记录。</span></p>
+ <p><a href="#id5.1.2"> 5.1.2</a> <span id="id5.1.2">工程情况的调查内容除应包括第<a href="https://longyu8101.github.io/TEST/03.html#id3.0.2">3.0.2</a>条规定的内容外，还应包括腐蚀情况的检查检测记录。</span></p>
 
 5.2 检测
 ------------------------
 .. raw:: html
 
- <p><a href="#id5.2.1"> 5.2.1</a> <span id="id5.2.1">淡水环境钢结构外观检测应针对水上区和水下区等不同部位分别检测，海水环境钢结构外观检测应针对大气区、浪溅区、水位变动区和水下区等不同部位分别检测，检测应包括下列内容:</span></p>
+ <p><a href="#id5.2.1"> 5.2.1</a> <span id="id5.2.1">淡水环境钢结构外观检测应针对水上区和水下区等不同部位分别检测，海水环境钢结构外观检测应针对大气区、浪溅区、水位变动区和水下区等不同部位分别检测，检测应包括下列内容：</span></p>
 
-1. 锈蚀发生的位置 :math:`、` 面积和分布情况;
+1. 锈蚀发生的位置、面积和分布情况;
 #. 钢结构表面集中锈蚀、点蚀或穿孔情况;
 #. 外力作用引起的提伤情况等。
  
@@ -41,18 +41,46 @@
 
  <ol>
 
- <li>无防腐蚀措施的钢结构腐蚀速度按<a href="#ideq5.3.1-1">式(5.3.1-1)</a> <span id="ideq5.3.1-1">计算:</li>
+ <li>无防腐蚀措施的钢结构腐蚀速度按<a href="#ideq5.3.1-1">式(5.3.1-1)</a> <span id="ideq5.3.1-1">计算：</li>
 
   </ol>
 
 $$V_{0}=\\dfrac{D_{i}-D_{f}}{t_{s}}\\tag{5.3.1-1}$$
 
 .. raw:: html
-   :file: ./_static/Q531.1.html
+ 
+  <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left'  id="eqzs"><i>V</i><sub>0</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs"> 钢结构腐蚀速度(mm/a)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>D</i><sub>i</td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">钢结构原始厚度(mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>D</i><sub>f</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">检测时钢结构的平均厚度(mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>s</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">检测时钢结构已使用的时间(a)。</td>
+ </tr>
+ </table>
+
+
 
  <ol start='2'>
 
- <li>有防腐蚀措施的钢结构，腐蚀速度按<a href="#ideq5.3.1-2">式(5.3.1-2)</a> <span id="ideq5.3.1-2">计算:</li>
+ <li>有防腐蚀措施的钢结构，腐蚀速度按<a href="#ideq5.3.1-2">式(5.3.1-2)</a> <span id="ideq5.3.1-2">计算：</li>
 
   </ol>
 
@@ -60,7 +88,47 @@ $$V_{0}=\\dfrac{D_{i}-D_{f}}{t_{s}}\\tag{5.3.1-1}$$
 $$V_{1}=\\dfrac{D_{i}-D_{f}}{(1-\\beta)t_{s1}+t_{s2}}\\tag{5.3.1-2}$$
 
 .. raw:: html
-   :file: ./_static/Q531.2.html
+ 
+  <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left'  id="eqzs"><i>V</i><sub>1</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">钢结构腐蚀速度(mm/a)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>D</i><sub>i</td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">钢结构原始厚度(mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>D</i><sub>f</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">检测时钢结构的平均厚度(mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>β</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs" >防腐蚀措施防腐效率,对涂层防腐或涂层与阴极保护联合防腐取0.5~0.95，对阴极保护防腐按<a href="#B5.3.1">表5.3.1</a>选取；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>s1</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">防腐蚀措施有效工作时间(a)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>s2</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">防腐蚀措施失效后至调查时的时间(a)。</td>
+ </tr>
+ </table>
+
+ <p>  </p>
 
 .. raw:: html 
 
@@ -106,7 +174,41 @@ $$V_{1}=\\dfrac{D_{i}-D_{f}}{(1-\\beta)t_{s1}+t_{s2}}\\tag{5.3.1-2}$$
 $$t_{e}=t_{s}+\\dfrac{D_{f}-D_{i}}{V}\\tag{5.3.2}$$
 
 .. raw:: html
-   :file: ./_static/Q532.html
+  
+  <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left'  id="eqzs"><i>t</i><sub>e</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">钢结构使用年限(a)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>s</td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">检测时钢结构已使用的时间(a)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>D</i><sub>f</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">检测时钢结构的平均厚度(mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>D</i><sub>t</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">按承载能力极限状态计算出的钢结构厚度(mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>V</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">钢结构腐蚀速度(mm/a)。</td>
+ </tr>
+ </table>
+
+:math:`\ ` 
 
 .. raw:: html 
 
@@ -139,27 +241,27 @@ $$t_{e}=t_{s}+\\dfrac{D_{f}-D_{i}}{V}\\tag{5.3.2}$$
               
 		    <tr>
 		        <td width="70px" align="center">等级</td>
-                <td width="500px" align="center">分级标准</td>
-		        <td width="400px" align="center">处理要求</td>
+                <td width="550px" align="center">分级标准</td>
+		        <td width="350px" align="center">处理要求</td>
 		    </tr>
 		   <tr>
 		        <td  align="center">A</td>
-		        <td  align="left" >具有足够的承载能力,耐久性满足设计使用年限要求</td>
+		        <td  align="left" >具有足够的承载能力，耐久性满足设计使用年限要求</td>
                 <td  align="left" >不必采取措施</td>
 		    </tr>
             		   <tr>
 		        <td  align="center">B</td>
-		        <td  align="left" >腐蚀尚不显著影响承载能力,耐久性不满足设计使用年限要求</td>
+		        <td  align="left" >腐蚀尚不显著影响承载能力，耐久性不满足设计使用年限要求</td>
                 <td  align="left"  valign="top">及时采取修复措施</td>
 		    </tr>
              <tr>
 		        <td  align="center">C</td>
-		        <td  align="left" >腐蚀已显著影响承载能力,耐久性不满足设计使用年限要求</td>
+		        <td  align="left" >腐蚀已显著影响承载能力，耐久性不满足设计使用年限要求</td>
                 <td  align="left" valign="top">立即采取修复、补强措施</td>
 		    </tr>
             <tr>
 		        <td  align="center">D</td>
-		        <td  align="left" >腐蚀已严重影响承载能力,耐久性不满足设计使用年限要求</td>
+		        <td  align="left" >腐蚀已严重影响承载能力，耐久性不满足设计使用年限要求</td>
                 <td  align="left" valign="top">视情况采取修复、补强措施或报废</td>
 		    </tr>
 		</table>
