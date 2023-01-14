@@ -233,6 +233,9 @@ $$t_{e}=t_{s}+\\dfrac{D_{f}-D_{i}}{V}\\tag{5.3.2}$$
       #eqzs {
          border: 0px;
       }
+         #dhbg {
+        vertical-align: middle;
+      }
      </style>
 
 		<table id="biaoge" style="font-family:times new roman">
@@ -250,17 +253,17 @@ $$t_{e}=t_{s}+\\dfrac{D_{f}-D_{i}}{V}\\tag{5.3.2}$$
                 <td  align="left" >不必采取措施</td>
 		    </tr>
             		   <tr>
-		        <td  align="center">B</td>
+		        <td  align="center" id="dhbg">B</td>
 		        <td  align="left" >腐蚀尚不显著影响承载能力，耐久性不满足设计使用年限要求</td>
                 <td  align="left"  valign="top">及时采取修复措施</td>
 		    </tr>
              <tr>
-		        <td  align="center">C</td>
+		        <td  align="center"id="dhbg">C</td>
 		        <td  align="left" >腐蚀已显著影响承载能力，耐久性不满足设计使用年限要求</td>
                 <td  align="left" valign="top">立即采取修复、补强措施</td>
 		    </tr>
             <tr>
-		        <td  align="center">D</td>
+		        <td  align="center"id="dhbg">D</td>
 		        <td  align="left" >腐蚀已严重影响承载能力，耐久性不满足设计使用年限要求</td>
                 <td  align="left" valign="top">视情况采取修复、补强措施或报废</td>
 		    </tr>

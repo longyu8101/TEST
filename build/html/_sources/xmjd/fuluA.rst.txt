@@ -280,7 +280,9 @@ $$b_{e}=b-\\sum^{2}_{i=1}a_{cc}c_{i}\\tag{A.0.4-2}$$
       #eqzs {
          border: 0px;
       }
-    
+      #dhbg{
+         vertical-align: middle;
+      }
      </style>
 
 		<table id="biaoge" style="font-family:times new roman">
@@ -293,7 +295,7 @@ $$b_{e}=b-\\sum^{2}_{i=1}a_{cc}c_{i}\\tag{A.0.4-2}$$
             <td  align="center"  width="300px" >保护层损伤系数<i>α</i><sub>cc</sub></td>
 		    </tr>
 		    <tr>
-		        <td align="center" rowspan="3">轴心受压构件</td>
+		        <td align="center" rowspan="3"id="dhbg">轴心受压构件</td>
 		        <td  align="center" ><i>w</i>≤2</td>
 				    <td align="center"><i>α</i><sub>cc</sub>=0.3<i>w</i></td>
 		    </tr>
@@ -307,7 +309,7 @@ $$b_{e}=b-\\sum^{2}_{i=1}a_{cc}c_{i}\\tag{A.0.4-2}$$
 		    <td  align="center" ><i>w</i>>3</td>
 				<td align="center" ><i>α</i><sub>cc</sub>=1</td>
 		    <tr>
-		        <td align="center" rowspan="3">小偏心受压构件</td>
+		        <td align="center" rowspan="3"id="dhbg">小偏心受压构件</td>
 		        <td  align="center" ><i>w</i>≤2</td>
 				    <td align="center"><i>α</i><sub>cc</sub>=0.25<i>w</i></td>
 		    </tr>
@@ -322,7 +324,7 @@ $$b_{e}=b-\\sum^{2}_{i=1}a_{cc}c_{i}\\tag{A.0.4-2}$$
 				<td align="center" ><i>α</i><sub>cc</sub>=1</td>
 		    </tr>
          <tr>
-		        <td align="center" rowspan="2">大偏心受压构件</td>
+		        <td align="center" rowspan="2"id="dhbg">大偏心受压构件</td>
 		        <td  align="center" ><i>w</i>≤3</td>
 				    <td align="center"><i>α</i><sub>cc</sub>=0.15<i>w</i></td>
 		    </tr>

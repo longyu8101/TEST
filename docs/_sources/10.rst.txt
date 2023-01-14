@@ -49,6 +49,9 @@
       #eqzs {
          border: 0px;
       }
+      #dhbg{
+         vertical-align: middle;
+      }  
      </style>
 
 		<table id="biaoge" style="font-family:times new roman">
@@ -56,7 +59,7 @@
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B10.1.4">表10.1.4 通航建筑物结构构件适用性评估分级标准</b></caption>	
               
 		    <tr>
-		        <td width="400px" align="center" rowspan="2">项目</td>
+		        <td width="400px" align="center" rowspan="2"id="dhbg">项目</td>
                 <td align="center" colspan="4">等级</td>
 		        <!-- <td></td> -->
                 <!-- <td></td> -->
