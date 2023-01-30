@@ -55,6 +55,7 @@ JTS 304-2019
     xmjd/fuluE
     xmjd/fuluF
     xmjd/fuluG 
+    xmjd/yyml
 
 .. toctree::
     :caption: 条文说明
@@ -64,4 +65,16 @@ JTS 304-2019
     twsm/t01
     twsm/t03
     twsm/t04
- 
+    twsm/t05
+    twsm/t06
+    twsm/t07
+    twsm/t08
+    twsm/t09
+    twsm/t10
+    twsm/t11
+    twsm/t12
+    twsm/tfuluA
+    twsm/tfuluB
+    twsm/tfuluC
+    twsm/tfuluD
+    twsm/tfuluE
