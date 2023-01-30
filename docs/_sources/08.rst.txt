@@ -113,10 +113,10 @@
 		        <!-- <td></td> -->
                 <!-- <td></td> -->
                 <!-- <td></td> -->
-                <td align="center"width="100px">A</td>
-                <td align="center"width="150px">B</td>
-                <td  align="center"width="150px">C</td>
-                <td align="center"width="120px">D</td>
+                <td align="center"width="170px">A</td>
+                <td align="center"width="250px">B</td>
+                <td  align="center"width="250px">C</td>
+                <td align="center"width="170px">D</td>
 		    </tr>
 
 
@@ -183,7 +183,7 @@
             	<!-- <td></td> -->
                 <!-- <td></td> -->
 
-		        <td width="60px" align="center" rowspan="1"id="dhbg">沉箱、扶壁、方块、圆筒&emsp;</td>
+		        <td width="70px" align="center" rowspan="1"id="dhbg">沉箱、扶壁、方块、圆筒&emsp;</td>
 		         <td  align="center" id="dhbg"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
                  <td  align="center" id="dhbg">0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
                  <td  align="center" id="dhbg">0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
@@ -261,7 +261,7 @@
                 <td width="200px" align="center">D</td>
 		    </tr>
 		   <tr>
-		        <td  align="center" id="dhbg">分级标准</td>
+		        <td  align="center" id="dhbg">分级<br/>标准</td>
 		        <td  align="left" >防波堤断面无变化或变化不大，对港内泊稳没影响</td>
                 <td  align="left" >防波堤断面略有变化，对港内泊稳略有影响</td>
                 <td  align="left" >防波堤断面变化较大，对港内泊稳影响较大</td>

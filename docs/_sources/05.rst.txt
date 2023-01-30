@@ -156,8 +156,8 @@ $$V_{1}=\\dfrac{D_{i}-D_{f}}{(1-\\beta)t_{s1}+t_{s2}}\\tag{5.3.1-2}$$
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5.3.1">表5.3.1 阴极保护防腐蚀措施防腐效率</b></caption>	
               
 		    <tr>
-		        <td width="400px" align="center">水位变动区</td>
-		        <td width="400px" align="center">水下区</td>
+		        <td width="450px" align="center">水位变动区</td>
+		        <td width="450px" align="center">水下区</td>
 		    </tr>
 		   <tr>
 		        <td  align="center">0.2≤ <i>β</i>< 0.9 </td>

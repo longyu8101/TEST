@@ -150,7 +150,7 @@
 		        <td width="150px" align="center">处理要求</td>
 		    </tr>
 		   <tr>
-		        <td  align="center" id="dhgb">A</td>
+		        <td  align="center" id="dhbg">A</td>
 		        <td  align="left" >同时符合下列条件时：<br/>
                 1. 吸水率不大于0.01mm/<math xmlns='http://www.w3.org/1998/Math/MathML'> <msqrt><mi> min </mi></msqrt> </math><br/>
                 2. 普通混凝土浸渍深度不应小于3mm，高性能混凝土浸渍深度不应小于2mm
@@ -262,6 +262,9 @@
       #eqzs {
          border: 0px;
       }
+      #dhbg {
+        vertical-align: middle;
+      }
      </style>
 
 		<table id="biaoge" style="font-family:times new roman">
@@ -274,7 +277,7 @@
 		        <td width="300px" align="center">处理要求</td>
 		    </tr>
 		   <tr>
-		        <td  align="center">A</td>
+		        <td  align="center" id="dhbg">A</td>
 		        <td  align="left" >断开电源后0.1s~1s测得的瞬时断电电位在断电后24h内电位衰减不小于100mV </td>
                 <td  align="left" valign="top">不必采取措施</td>
 		    </tr>
@@ -284,7 +287,7 @@
                 <td  align="left"  valign="top">查明原因并及时采取措施</td>
 		    </tr>
              <tr>
-		        <td  align="center">C</td>
+		        <td  align="center" id="dhbg">C</td>
 		        <td  align="left" >普通混凝土中钢筋瞬时断电电位负于-1100mV ，预应力混凝土中钢筋瞬时断电电位负于-900mV</td>
                 <td  align="left" valign="top">查明原因并及时采取措施</td>
 		    </tr>
@@ -431,7 +434,7 @@
 		        <td width="400px" align="center">处理要求</td>
 		    </tr>
 		   <tr>
-		        <td  align="center">A</td>
+		        <td  align="center" id="dhbg">A</td>
 		        <td  align="left" >保护电位在-1.10V~-0.85V之间，阴极的剩余保护年限可满足设计使用年限要求 </td>
                 <td  align="left" valign="top">不必采取措施</td>
 		    </tr>

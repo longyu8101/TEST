@@ -16,6 +16,5 @@
 
  </ol>
 
-.. raw:: html
-   :file: ./_static/empty.html
+
    
