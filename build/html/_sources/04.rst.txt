@@ -140,7 +140,11 @@
 		    </tr>
            <tr>
 		        <!-- <td></td> -->
+<<<<<<< HEAD
 		        <td align="center" id="dhbg"><p >裂缝</p></td>
+=======
+		        <td align="center" id="dhbg">裂缝</td>
+>>>>>>> 8aa0c41 (update0130)
 				  <td align="center" id="dhbg" >无</td>
               <td valign="top">局部有微小锈蚀裂缝，裂缝宽度小于0.3mm</td>
               <td valign="top">锈蚀裂缝较多或呈网状，裂缝宽度在0.3mm~1.0mm之间</td>
@@ -346,8 +350,13 @@ $$D=D_{\\mathrm{t}}(\\dfrac{t}{10})^{\\mathrm{m}}\\tag{4.5.4-3}$$
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.5.4-1">表4.5.4-1 扩散系数衰减值</b></caption>	
               
 		    <tr>
+<<<<<<< HEAD
 		        <td width="400px" align="center">混凝土类型</td>
 		        <td width="400px" align="center">扩散系数衰减值<i>m</i></td>
+=======
+		        <td width="450px" align="center">混凝土类型</td>
+		        <td width="450px" align="center">扩散系数衰减值<i>m</i></td>
+>>>>>>> 8aa0c41 (update0130)
 		    </tr>
 		   <tr>
 		        <td  align="center">普通硅酸盐混凝土、掺加硅灰的混凝土</td>
@@ -408,10 +417,17 @@ $$D=D_{\\mathrm{t}}(\\dfrac{t}{10})^{\\mathrm{m}}\\tag{4.5.4-3}$$
 			 </tr>
           <tr>
 		        <td width="100px" align="center" >0.55</td> 
+<<<<<<< HEAD
               <td  align="center" width="190px">0.35</td>
 		        <td  align="center" width="190px">0.40</td>
               <td  align="center" width="190px">0.45</td>
               <td  align="center"  width="130px">0.55</td> 
+=======
+              <td  align="center" width="250px">0.35</td>
+		        <td  align="center" width="250px">0.40</td>
+              <td  align="center" width="250px">0.45</td>
+              <td  align="center"  width="150px">0.55</td> 
+>>>>>>> 8aa0c41 (update0130)
 			 </tr>
 		</table>
    <p> <font size="2">注：1. <i>W/B</i>为混凝土的水胶比;<br/>

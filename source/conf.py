@@ -21,7 +21,11 @@ html_static_path = ['_static']
 html_css_files = [
     'css/custom.css',
 ]
+<<<<<<< HEAD
 # html_style = 'css/custom.css'
+=======
+html_style = 'css/custom.css'
+>>>>>>> 8aa0c41 (update0130)
 exclude_patterns = []
 
 
