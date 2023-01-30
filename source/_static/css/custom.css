@@ -2,36 +2,6 @@
 
 /* This line is theme specific - it includes the base theme CSS */
 /*@import '../alabaster.css';  /* for Alabaster */
-<<<<<<< HEAD
-@import 'sphinx-book-theme.css';       /* for the Read the Docs theme */
-
-body {
-    background-color:#F0FFFF;
-}
-
-#site-navigation{
-    background-color:#F0FFFF;
-
-}
-#search-input{
-    background-color:#F0FFFF;
-
-}
-#bd-toc-nav{
-    background-color:#F0FFFF;
-
-}
-.header-article {
-    background-color:#F0FFFF;
-
-}
-.headerbtn{
-    background-color:#F0FFFF;
-}
-#shouqi,#zhankai,#openspeek,#umbsbtn,#umbs1,#collect,#dialogtext,#diacloses,#diacloses2,#btndel{
-    background-color:#F0FFFF;
-
-=======
 
 @import 'theme.css';       /* for the Read the Docs theme */
 @import 'badge_only.css'; 
@@ -74,7 +44,6 @@ body {
 
 .wy-nav-content-wrap{
     background-color:#f0ffff;
->>>>>>> 8aa0c41 (update0130)
 }
 
 

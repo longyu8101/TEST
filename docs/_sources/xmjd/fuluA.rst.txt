@@ -333,9 +333,4 @@ $$b_{e}=b-\\sum^{2}_{i=1}a_{cc}c_{i}\\tag{A.0.4-2}$$
 		        <td  align="center" ><i>w</i>>3</td>
 				    <td align="center"><i>α</i><sub>cc</sub>=1</td>
 		    </tr>
-<<<<<<< HEAD
 		</table>
-=======
-		</table>
-    <p></p>
->>>>>>> 8aa0c41 (update0130)

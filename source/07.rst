@@ -62,11 +62,7 @@
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.1.5">表7.1.5  码头结构构件适用性评估分级标准</b></caption>	
               
 		    <tr>
-<<<<<<< HEAD
-		        <td align="center" rowspan="2" width="280px"  id="dhbg">项目</td>
-=======
 		        <td align="center" rowspan="2" width="350px"  id="dhbg">项目</td>
->>>>>>> 8aa0c41 (update0130)
                 <td align="center" colspan="4">等级</td>
 		        <!-- <td></td> -->
                 <!-- <td></td> -->
@@ -74,17 +70,10 @@
 		    </tr>
             <tr>
 		        <!-- <td></td> -->
-<<<<<<< HEAD
-                <td width="100px" align="center">A</td>
-                <td width="130px" align="center">B</td>
-                <td width="130px" align="center">C</td>
-                <td width="100px" align="center">D</td>
-=======
                 <td width="150px" align="center">A</td>
                 <td width="250px" align="center">B</td>
                 <td width="250px" align="center">C</td>
                 <td width="150px" align="center">D</td>
->>>>>>> 8aa0c41 (update0130)
 		    </tr>
 		   <tr>
 		        <td  align="center">钢筋混凝土结构或钢结构最大挠度</td>
@@ -324,11 +313,7 @@
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.3.4">表7.3.4 板桩码头安全性评估分级标准</b></caption>	
               
 		    <tr>
-<<<<<<< HEAD
-		        <td align="center" width="140px" rowspan="2" id="dhbg">项目</td>
-=======
 		        <td align="center" width="160px" rowspan="2" id="dhbg">项目</td>
->>>>>>> 8aa0c41 (update0130)
                 <!-- <td></td> -->
                 <td align="center" colspan="4">等级</td>
 		        <!-- <td></td> -->
@@ -338,17 +323,10 @@
             <tr>
 		        <!-- <td></td> -->
                 <!-- <td></td> -->
-<<<<<<< HEAD
-                <td  align="center" width="120px" >A</td>
-                <td  align="center" width="180px" >B</td>
-                <td  align="center" width="180px" >C</td>
-                <td  align="center" width="120px" >D</td>
-=======
                 <td  align="center" width="180px" >A</td>
                 <td  align="center" width="250px" >B</td>
                 <td  align="center" width="250px" >C</td>
                 <td  align="center" width="180px" >D</td>
->>>>>>> 8aa0c41 (update0130)
 		    </tr>
 		   <tr>
            		<td align="center" >码头整体稳定性</td>
@@ -473,17 +451,10 @@
             <tr>
                 <!-- <td></td> -->
                 <!-- <td></td> -->
-<<<<<<< HEAD
-                <td align="center">A</td>
-                <td align="center">B</td>
-                <td  align="center">C</td>
-                <td align="center">D</td>
-=======
                 <td align="center"width="180px" >A</td>
                 <td align="center"width="250px" >B</td>
                 <td  align="center"width="250px" >C</td>
                 <td align="center"width="180px" >D</td>
->>>>>>> 8aa0c41 (update0130)
 		    </tr>
 
 
@@ -627,17 +598,10 @@
             <tr>
                 <!-- <td></td> -->
                 <!-- <td></td> -->
-<<<<<<< HEAD
-                <td align="center">A</td>
-                <td align="center">B</td>
-                <td  align="center">C</td>
-                <td align="center">D</td>
-=======
                 <td align="center" width="180px" >A</td>
                 <td align="center" width="250px" >B</td>
                 <td  align="center" width="250px" >C</td>
                 <td align="center" width="180px" >D</td>
->>>>>>> 8aa0c41 (update0130)
 		    </tr>
 
 

@@ -1,6 +1,6 @@
 .. _总则:
 
-1. 总则111
+1. 总则
 ========================
 
 
@@ -11,19 +11,7 @@
 
  
 .. raw:: html
-    
-    <style>
-        #abc{
-            height:500px;
-            background-color: #f0ffff;
-        }
-    </style>
-
-   <body>
-       <div id="abc"></div>
-   </body>
-
-  
+   :file: ./_static/empty.html
    
 .. raw:: html
    :file: ./_static/wellDone.html

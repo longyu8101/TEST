@@ -56,8 +56,6 @@ JTS 304-2019
     xmjd/fuluF
     xmjd/fuluG 
 
-<<<<<<< HEAD
-=======
 .. toctree::
     :caption: 条文说明
     :maxdepth: 3
@@ -66,5 +64,4 @@ JTS 304-2019
     twsm/t01
     twsm/t03
     twsm/t04
-
->>>>>>> 8aa0c41 (update0130)
+ 
