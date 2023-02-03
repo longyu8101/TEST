@@ -6,7 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '水运工程水工建筑物检测与评估技术规范'
+project ="水运工程水工建筑物<br /><br />检测与评估技术规范"
+
 copyright = '哈尔滨工业大学' 
 
 # -- General configuration ---------------------------------------------------
