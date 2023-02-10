@@ -133,7 +133,7 @@ $$V_{1}=\\dfrac{D_{i}-D_{f}}{(1-\\beta)t_{s1}+t_{s2}}\\tag{5.3.1-2}$$
 .. raw:: html 
 
    <style>
-      #biaoge,td {
+      #biaoge{
          border: 2px solid black;
          border-collapse: collapse;
          margin-bottom:40px;
@@ -144,7 +144,7 @@ $$V_{1}=\\dfrac{D_{i}-D_{f}}{(1-\\beta)t_{s1}+t_{s2}}\\tag{5.3.1-2}$$
          padding-bottom:5px;
          padding-left:5px;
          padding-right:5px;
-         
+         border: 1px solid black;
       }
       #eqzs {
          border: 0px;
@@ -216,28 +216,6 @@ $$t_{e}=t_{s}+\\dfrac{D_{f}-D_{i}}{V}\\tag{5.3.2}$$
 
 .. raw:: html 
    
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:40px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-         #dhbg {
-        vertical-align: middle;
-      }
-     </style>
-
 		<table id="biaoge" style="font-family:times new roman">
 
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5.3.3">表5.3.3 阴极保护防腐蚀措施防腐效率</b></caption>	

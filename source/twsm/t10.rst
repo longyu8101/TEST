@@ -22,9 +22,10 @@
  <p><a href="#idt10.3.6.4"> 10.3.6.4</a> <span id="idt10.3.6.4">有关规范主要指现行行业标准《船闸闸阀门设计规范》（JTJ 308）、《水运工程混凝土结构设计规范》（JTS 151）、《水运工程钢结构设计规范》（JTS 152）。</span></p>
   
  <p><a href="#idt10.3.7"> 10.3.7</a> <span id="idt10.3.7">承船厢室段主要包括承重结构、顶部机房、承船厢结构。</span></p>
-     <style>
+
+ <style>
         #abc{
-            height:200px;
+            height:280px;
             background-color: #f0ffff;
         }
     </style>

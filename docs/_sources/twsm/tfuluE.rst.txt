@@ -10,7 +10,7 @@ E.2 构件厚度检测
   <p><a href="#idtE.2.3"> E.2.3</a> <span id="idtE.2.3"> 钢板桩有凹面和凸面，钢板桩测厚所取的有代表性部位需要包括这两种表面。</span></p>
      <style>
         #abc{
-            height:550px;
+            height:620px;
             background-color: #f0ffff;
         }
     </style>

@@ -262,27 +262,27 @@ $$b_{e}=b-\\sum^{2}_{i=1}a_{cc}c_{i}\\tag{A.0.4-2}$$
  <p><a href="#idA.0.5"> A.0.5</a> <span id="idA.0.5">保护层损伤系数可按<a href="#BA.0.5">表A.0.5</a>确定。</span></p>
 
 .. raw:: html
-
-      <style>
-      #biaogea,td {
+  
+ <style>
+      #biaoge{
          border: 2px solid black;
          border-collapse: collapse;
-         margin-bottom:1px;
-        
+         margin-bottom:5px;
+
       }
       th, td {
          padding-top: 5px;
          padding-bottom:5px;
          padding-left:5px;
          padding-right:5px;
-         
+         border: 1px solid black;
       }
       #eqzs {
          border: 0px;
       }
       #dhbg{
          vertical-align: middle;
-      }
+      }  
      </style>
 
 		<table id="biaoge" style="font-family:times new roman">

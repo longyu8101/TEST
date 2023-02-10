@@ -89,7 +89,7 @@
 .. raw:: html
 
       <style>
-      #biaogea,td {
+     #biaoge {
          border: 2px solid black;
          border-collapse: collapse;
          margin-bottom:1px;
@@ -100,6 +100,7 @@
          padding-bottom:5px;
          padding-left:5px;
          padding-right:5px;
+         border: 1px solid black;
          
       }
       #eqzs {
@@ -238,14 +239,7 @@ $$k_{\\mathrm{C1}}=2\\sqrt{D}erf^{-1}(1-\\frac{C_{\\mathrm{t}}}{C_{s}\\cdot\\gam
  <td id="eqzs"> </td>
  <td id="eqzs"><i>k</i><sub>C1</td>
  <td id="eqzs">——</td>
- <td id="eqzs"> 
-    <p>氯离子侵蚀系数(mm/<math xmlns='http://www.w3.org/1998/Math/MathML'> 
-      <msqrt> 
-        <mi> a </mi> 
-      </msqrt> 
-    </math>)；
-    </p>
- </td>
+ <td id="eqzs"> 氯离子侵蚀系数(mm/<math xmlns='http://www.w3.org/1998/Math/MathML'>  <msqrt> <mi> a </mi> </msqrt> </math>)；</td>
  </tr>
  <tr>
  <td id="eqzs"> </td>
@@ -322,24 +316,6 @@ $$D=D_{\\mathrm{t}}(\\dfrac{t}{10})^{\\mathrm{m}}\\tag{4.5.4-3}$$
 
 .. raw:: html 
 
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:1px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-     </style>
 
 		<table id="biaoge" style="font-family:times new roman">
 
@@ -365,28 +341,6 @@ $$D=D_{\\mathrm{t}}(\\dfrac{t}{10})^{\\mathrm{m}}\\tag{4.5.4-3}$$
 
 
 .. raw:: html 
-
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:1px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-      #dhbg {
-        vertical-align: middle;
-      }
-     </style>
 
 		<table id="biaoge" style="font-family:times new roman">
 
@@ -424,25 +378,6 @@ $$D=D_{\\mathrm{t}}(\\dfrac{t}{10})^{\\mathrm{m}}\\tag{4.5.4-3}$$
      </ol>
 
 .. raw:: html 
-
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:1px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-     </style>
 
 		<table id=biaoge style="font-family:times new roman">
 
@@ -521,25 +456,6 @@ $$\\lambda_{1}=0.0116i\\tag{4.5.4-6}$$
  <p> </p>
 .. raw:: html 
 
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:1px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-     </style>
-
 		<table id="biaoge" style="font-family:times new roman">
 
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.5.4-4">表4.5.4-4 保护层开裂前钢筋的腐蚀电流密度(μc㎡)</b></caption>	
@@ -598,25 +514,6 @@ $$t_{\\mathrm{d}}=(1-\\dfrac{1}{\\sqrt{10}}\\dfrac{d}{2\\gamma_{2}})\\tag{4.5.4-
  <p> </p>
 
 .. raw:: html 
-
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:1px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-     </style>
 
 		<table id=biaoge style="font-family:times new roman">
 
@@ -953,28 +850,6 @@ $$D^{'}=k_{c}\\sqrt{t^{'}}\\tag{4.6.11-2}$$
  <p><a href="#id4.7.1"> 4.7.1</a> <span id="id4.7.1">混凝土冻融劣化耐久性苹果应根据混凝土冻融劣化外观检测结果进行，混凝土冻融劣化度评估分级标准应符合<a href="#B4.7.1">表4.7.1</a>的规定。</span></p>
    
 .. raw:: html 
-
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:1px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-        #dhbg {
-        vertical-align: middle;
-      }
-     </style>
 
 		<table id=biaoge style="font-family:times new roman">
 

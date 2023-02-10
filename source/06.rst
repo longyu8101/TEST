@@ -27,8 +27,8 @@
  
 .. raw:: html 
    
-   <style>
-      #biaoge,td {
+    <style>
+      #biaoge{
          border: 2px solid black;
          border-collapse: collapse;
          margin-bottom:40px;
@@ -39,7 +39,7 @@
          padding-bottom:5px;
          padding-left:5px;
          padding-right:5px;
-         
+         border: 1px solid black;
       }
       #eqzs {
          border: 0px;
@@ -113,28 +113,6 @@
  <p><a href="#id6.3.3"> 6.3.3</a> <span id="id6.3.3">混凝土表面硅烷浸渍劣化评估分级标准及处理要求应符合<a href="#B6.3.3">表6.3.3</a>的规定。</span></p> 
  
 .. raw:: html 
-   
-      <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:40px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-      #dhbg {
-        vertical-align: middle;
-      }
-     </style>
          
          <head>
 		  <meta charset="utf-8">
@@ -178,25 +156,6 @@
  <p><a href="#id6.4.3"> 6.4.3</a> <span id="id6.4.3">环氧涂层钢筋与不锈钢钢筋劣化评估分级标准及处理要求应符合<a href="#B6.4.3">表6.4.3</a>的规定</span></p> 
  
 .. raw:: html 
-   
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:5px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-     </style>
 
 		<table id="biaoge" style="font-family:times new roman">
 
@@ -244,28 +203,7 @@
  <p><a href="#id6.5.4"> 6.5.4</a> <span id="id6.5.4"> 混凝土外加电流阴极保护效果评估分级标准及处理要求应符合<a href="#B6.5.4">表6.5.4</a>的规定。</span></p> 
  
 .. raw:: html 
-   
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:5px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-      #dhbg {
-        vertical-align: middle;
-      }
-     </style>
+
 
 		<table id="biaoge" style="font-family:times new roman">
 
@@ -311,27 +249,6 @@
  
 .. raw:: html 
    
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:5px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-       #dhbg {
-        vertical-align: middle;
-      }
-     </style>
 
 		<table id="biaoge" style="font-family:times new roman">
 
@@ -402,27 +319,6 @@
   
 .. raw:: html 
    
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:5px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-      #dhbg{
-         vertical-align: middle;
-      }  
-     </style>
 
 		<table id="biaoge" style="font-family:times new roman">
 
@@ -482,25 +378,7 @@
 
  
 .. raw:: html 
-   
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:5px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-     </style>
+
 
 		<table id="biaoge" style="font-family:times new roman">
 

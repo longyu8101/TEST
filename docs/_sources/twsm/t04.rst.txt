@@ -76,8 +76,8 @@ $$D_{t}=D_{ref}({\\frac{t_{\\mathrm{ref}}}{t}})^{m}\\tag{4.5.4}$$
 
 .. raw:: html 
 
-   <style>
-      #biaoge,td {
+      <style>
+     #biaoge {
          border: 2px solid black;
          border-collapse: collapse;
          margin-bottom:1px;
@@ -88,10 +88,14 @@ $$D_{t}=D_{ref}({\\frac{t_{\\mathrm{ref}}}{t}})^{m}\\tag{4.5.4}$$
          padding-bottom:5px;
          padding-left:5px;
          padding-right:5px;
+         border: 1px solid black;
          
       }
       #eqzs {
          border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
       }
      </style>
 
@@ -126,30 +130,6 @@ $$D_{t}=D_{ref}({\\frac{t_{\\mathrm{ref}}}{t}})^{m}\\tag{4.5.4}$$
 		</table>
      <p> </p>  
 
-.. raw:: html 
-
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:1px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-      #dhbg {
-        vertical-align: middle;
-      }
-     </style>
-
 		<table id="biaoge" style="font-family:times new roman">
 
          <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="Bt4.2">表4.2 英国Bamforth用于设计的表面氯离子含量（按混凝土质量百分比计）</b></caption>	
@@ -175,26 +155,6 @@ $$D_{t}=D_{ref}({\\frac{t_{\\mathrm{ref}}}{t}})^{m}\\tag{4.5.4}$$
 		</table>
    <p> </p>  
 
-.. raw:: html 
-
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:1px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-     </style>
 
 		<table id=biaoge style="font-family:times new roman">
 
@@ -226,28 +186,6 @@ $$D_{t}=D_{ref}({\\frac{t_{\\mathrm{ref}}}{t}})^{m}\\tag{4.5.4}$$
           </tr>
 		</table>
    <p> </p>  
-
-
-.. raw:: html 
-
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:1px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-     </style>
 
 		<table id="biaoge" style="font-family:times new roman">
 
@@ -302,29 +240,7 @@ $$D_{t}=D_{ref}({\\frac{t_{\\mathrm{ref}}}{t}})^{m}\\tag{4.5.4}$$
  <br>&emsp; &emsp; 钢筋从开始腐蚀到使混凝土保护层胀裂的时间与混凝土的强度、保护层厚度与钢筋直径的比值有极大关系。由于混凝土中钢筋发生锈蚀时，其锈蚀产物会发生膨胀，体积一般可比钢材体积增大3倍～4倍，当体积膨胀产生的拉应力超过混凝土自身的抗拉强度时就会产生顺筋裂缝。因此，混凝土强度越高或水胶比越低的混凝土在相同条件下导致混凝土发生顺筋开裂的时间越长。当混凝土保护层相同时，钢筋越粗，混凝土保护层厚度c与钢筋直径d的比值越小，<i>t</i><sub>c</sub> 也就越短，国外一些研究强调，c/d值和混凝土立方体抗压强度标准值 <i>f</i><sub>cuk</sub> 是影响 <i>t</i><sub>c</sub> 的主要参数，<i>t</i><sub>c</sub> 值随着c/d值和 <i>f</i><sub>cuk</sub> 增大而增大。
  <br>&emsp; &emsp; 此外，钢筋从开始腐蚀到使混凝土保护层胀裂的时间与钢筋腐蚀速度有关，钢筋腐蚀速度可按照条文的<a href="https://longyu8101.github.io/TEST/04.html#ideq4.5.4-6">式(4.5.4-6)</a>由腐蚀电流密度得出，而钢筋腐蚀电流密度与环境温度、混凝土电阻率、钢筋周围氯离子含量等有关。条文的<a href="https://longyu8101.github.io/TEST/04.html#B4.5.4-4">表4.5.4-4</a>的腐蚀电流密度是根据Andrade室内试验和现场实际结构检测结果对钢筋腐蚀等级划分的建议，并结合海港工程环境条件和混凝土质量制定的。Andrade等对钢筋腐蚀等级划分建议见<a href="#Bt4.5">表4.5</a>。
 
-.. raw:: html 
-
-   <style>
-      #biaoge,td {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:1px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-           #dhbg {
-        vertical-align: middle;
-      }
-     </style>
+ <p></p>
 
 		<table id="biaoge" style="font-family:times new roman">
 
