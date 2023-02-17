@@ -59,7 +59,7 @@
 
 .. raw:: html
     
- <p><a href="#id9.2.1"> 9.2.1</a> <span id="id9.2.1">港口护岸结构评估内容包括安全性、适用性和耐久性评估,评估内容的确定应按第<a href="https://longyu8101.github.io/TEST/03.html#id3.0.4">3.0.4</a>条的规定执行。</span></p>
+ <p><a href="#id9.2.1"> 9.2.1</a> <span id="id9.2.1">港口护岸结构评估内容包括安全性、适用性和耐久性评估,评估内容的确定应按第<a href="https://jts304-2019.readthedocs.io/zh/latest/03.html#id3.0.4">3.0.4</a>条的规定执行。</span></p>
  <p><a href="#id9.2.2"> 9.2.2</a> <span id="id9.2.2">港口护岸评估应符合下列要求。</span></p>
  <p><a href="#id9.2.2.1"> 9.2.2.1</a> <span id="id9.2.2.1">护岸安全性评估的复核验算应包括下列内容：</span></p>
 
@@ -216,4 +216,4 @@
 
 .. raw:: html
 
-  <p><a href="#id9.2.4"> 9.2.4</a> <span id="id9.2.4">港口护岸混凝土结构耐久性评估应按<a href="https://longyu8101.github.io/TEST/04.html">第4章</a>的有关规定执行。</span></p>
+  <p><a href="#id9.2.4"> 9.2.4</a> <span id="id9.2.4">港口护岸混凝土结构耐久性评估应按<a href="https://jts304-2019.readthedocs.io/zh/latest/04.html">第4章</a>的有关规定执行。</span></p>

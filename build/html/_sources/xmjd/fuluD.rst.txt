@@ -12,7 +12,7 @@ D.2 冻融劣化专项检测
 --------------------
 .. raw:: html
 
- <p><a href="#idD.2.1"> D.2.1</a> <span id="idD.2.1"> 混凝土物理力学性能、保护层厚度和碳化深度的检测可参照<a href="https://longyu8101.github.io/TEST/xmjd/fuluC.html">附录C</a>的有关规定执行。</span></p>
+ <p><a href="#idD.2.1"> D.2.1</a> <span id="idD.2.1"> 混凝土物理力学性能、保护层厚度和碳化深度的检测可参照<a href="https://jts304-2019.readthedocs.io/zh/latest/xmjd/fuluC.html">附录C</a>的有关规定执行。</span></p>
  <p><a href="#idD.2.2"> D.2.2</a> <span id="idD.2.2"> 混凝土剩余冻融循环次数检测应符合下列规定。</span></p>
  <p><a href="#idD.2.2.1"> D.2.2.1</a> <span id="idD.2.2.1"> 混凝土剩余冻融循环次数可采取取样比对冻融试验的方法推定。</span></p>
  <p><a href="#idD.2.2.2"> D.2.2.2</a> <span id="idD.2.2.2"> 取样及试样的加工应符合下列要求：</span></p>

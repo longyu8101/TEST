@@ -8,7 +8,7 @@
 .. raw:: html
 
  <p><a href="#id6.1.1"> 6.1.1</a> <span id="id6.1.1">腐蚀介质调查内容宜包括潮汐、温度、湿度、含盐量、pH值、电阻率、水污染情况和其他侵蚀介质等，海水环境腐蚀介质调查内容还应包括海水中氯离子含量。</span></p>
- <p><a href="#id6.1.2"> 6.1.2</a> <span id="id6.1.2">工程情况调查内容除应包括第<a href="https://longyu8101.github.io/TEST/03.html#id3.0.2">3.0.2</a>条的内容外，还应包括腐蚀情况和防腐蚀措施的设计、施工情况与检测记录等。</span></p>
+ <p><a href="#id6.1.2"> 6.1.2</a> <span id="id6.1.2">工程情况调查内容除应包括第<a href="https://jts304-2019.readthedocs.io/zh/latest/03.html#id3.0.2">3.0.2</a>条的内容外，还应包括腐蚀情况和防腐蚀措施的设计、施工情况与检测记录等。</span></p>
 
 6.2 混凝土表面涂层劣化检测与评估
 -------------------------------------
@@ -152,7 +152,7 @@
 .. raw:: html
 
  <p><a href="#id6.4.1"> 6.4.1</a> <span id="id6.4.1">环氧涂层钢筋与不锈钢钢筋劣化检测应测量钢筋的自然腐蚀电位。</span></p> 
- <p><a href="#id6.4.2"> 6.4.2</a> <span id="id6.4.2">检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluC.html">附录C</a>的有关规定。</span></p> 
+ <p><a href="#id6.4.2"> 6.4.2</a> <span id="id6.4.2">检测方法应符合<a href="https://jts304-2019.readthedocs.io/zh/latest/xmjd/fuluC.html">附录C</a>的有关规定。</span></p> 
  <p><a href="#id6.4.3"> 6.4.3</a> <span id="id6.4.3">环氧涂层钢筋与不锈钢钢筋劣化评估分级标准及处理要求应符合<a href="#B6.4.3">表6.4.3</a>的规定</span></p> 
  
 .. raw:: html 
@@ -199,7 +199,7 @@
 .. raw:: html
  
  <p><a href="#id6.5.2"> 6.5.2</a> <span id="id6.5.2"> 混凝土外加电流阴极保护瞬时断电电位的测量和电位衰减的测量，每个保护单元应至少随机测试10个点。</span></p> 
- <p><a href="#id6.5.3"> 6.5.3</a> <span id="id6.5.3"> 直流电源装置的运行状况检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluF.html">附录F</a>的有关规定。</span></p> 
+ <p><a href="#id6.5.3"> 6.5.3</a> <span id="id6.5.3"> 直流电源装置的运行状况检测方法应符合<a href="https://jts304-2019.readthedocs.io/zh/latest/xmjd/fuluF.html">附录F</a>的有关规定。</span></p> 
  <p><a href="#id6.5.4"> 6.5.4</a> <span id="id6.5.4"> 混凝土外加电流阴极保护效果评估分级标准及处理要求应符合<a href="#B6.5.4">表6.5.4</a>的规定。</span></p> 
  
 .. raw:: html 
@@ -244,7 +244,7 @@
 
 .. raw:: html
 
- <p><a href="#id6.6.2"> 6.6.2</a> <span id="id6.6.2">检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluF.html">附录F</a>的有关规定。</span></p>
+ <p><a href="#id6.6.2"> 6.6.2</a> <span id="id6.6.2">检测方法应符合<a href="https://jts304-2019.readthedocs.io/zh/latest/xmjd/fuluF.html">附录F</a>的有关规定。</span></p>
  <p><a href="#id6.6.3"> 6.6.3</a> <span id="id6.6.3">钢结构水下区以上部位涂层劣化评估分级标准及处理要求应符合<a href="#B6.6.3">表6.6.3</a>的规定。</span></p>
  
 .. raw:: html 
@@ -311,7 +311,7 @@
 
 .. raw:: html
 
- <p><a href="#id6.7.2"> 6.7.2</a> <span id="id6.7.2">检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluF.html">附录F</a>的有关规定。</span></p>
+ <p><a href="#id6.7.2"> 6.7.2</a> <span id="id6.7.2">检测方法应符合<a href="https://jts304-2019.readthedocs.io/zh/latest/xmjd/fuluF.html">附录F</a>的有关规定。</span></p>
  <p><a href="#id6.7.3"> 6.7.3</a> <span id="id6.7.3">牺牲阳极阴极保护效果评估分级标准及处理要求应符合<a href="#B6.7.3">表6.7.3</a>的规定。</span></p>
 
 6.8 钢结构外加电流阴极保护效果检测与评估
@@ -373,7 +373,7 @@
 
 .. raw:: html
 
- <p><a href="#id6.8.2"> 6.8.2</a> <span id="id6.8.2">检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluF.html">附录F</a>的有关规定。</span></p>
+ <p><a href="#id6.8.2"> 6.8.2</a> <span id="id6.8.2">检测方法应符合<a href="https://jts304-2019.readthedocs.io/zh/latest/xmjd/fuluF.html">附录F</a>的有关规定。</span></p>
  <p><a href="#id6.8.3"> 6.8.3</a> <span id="id6.8.3"> 外加电流阴极保护效果评估分级标准及处理要求应符合<a href="#B6.8.3">表6.8.3</a>的规定。</span></p>
 
  

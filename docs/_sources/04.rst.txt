@@ -8,7 +8,7 @@
 
  <p><a href="#id4.1.1"> 4.1.1</a> <span id="id4.1.1">腐蚀介质调查内容宜包括潮汐、温度、湿度、pH值、水污染情况和其他侵蚀介质等，海水环境混凝土结构腐蚀介质调查内容还应包括海水中氯离子含量。</span></p>
 
- <p><a href="#id4.1.2"> 4.1.2</a>  <span id="id4.1.2">工程情况的调查内容除应包括第<a href="https://longyu8101.github.io/TEST/03.html#id3.0.2">3.0.2</a>条规定的内容外，还应包括耐久性检查检测记录。</span></p>
+ <p><a href="#id4.1.2"> 4.1.2</a>  <span id="id4.1.2">工程情况的调查内容除应包括第<a href="https://jts304-2019.readthedocs.io/zh/latest/03.html#id3.0.2">3.0.2</a>条规定的内容外，还应包括耐久性检查检测记录。</span></p>
 
 4.2 氯盐引起钢筋锈蚀劣化耐久性检测
 ----------------------------------
@@ -32,7 +32,7 @@
     <li>海水环境下钢筋腐蚀电位。</li>
  </ol>
 
- <p><a href="#id4.2.3"> 4.2.3</a> <span id="id4.2.3">氯盐引起钢筋锈蚀劣化耐久性检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluC.html">附录C</a>的有关规定。</span></p>
+ <p><a href="#id4.2.3"> 4.2.3</a> <span id="id4.2.3">氯盐引起钢筋锈蚀劣化耐久性检测方法应符合<a href="https://jts304-2019.readthedocs.io/zh/latest/xmjd/fuluC.html">附录C</a>的有关规定。</span></p>
 
 4.3 混凝土碳化引起钢筋锈蚀劣化耐久性检测
 ---------------------------------------------
@@ -55,7 +55,7 @@
     <li>钢筋腐蚀电位。</li>
  </ol>
 
- <p><a href="#id4.3.3"> 4.3.3</a> <span id="id4.3.3">混凝土碳化硬起钢筋锈蚀劣化耐久性检测方法应按<a href="https://longyu8101.github.io/TEST/xmjd/fuluC.html">附录C</a>的有关规定执行。</span></p>
+ <p><a href="#id4.3.3"> 4.3.3</a> <span id="id4.3.3">混凝土碳化硬起钢筋锈蚀劣化耐久性检测方法应按<a href="https://jts304-2019.readthedocs.io/zh/latest/xmjd/fuluC.html">附录C</a>的有关规定执行。</span></p>
 
 4.4 混凝土冻融劣化耐久性检测
 ----------------------------------
@@ -77,7 +77,7 @@
     <li>混凝土剩余冻融循环次数。</li>
  </ol>
 
- <p><a href="#id4.4.3"> 4.4.3</a> <span id="id4.4.3">冻融劣化耐久性检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluD.html">附录D</a>的有关规定。</span></p>
+ <p><a href="#id4.4.3"> 4.4.3</a> <span id="id4.4.3">冻融劣化耐久性检测方法应符合<a href="https://jts304-2019.readthedocs.io/zh/latest/xmjd/fuluD.html">附录D</a>的有关规定。</span></p>
 
 4.5 氯盐引起钢筋锈蚀劣化耐久性评估
 ----------------------------------
@@ -661,7 +661,7 @@ $$t_{\\mathrm{re}}=t_{\\mathrm{e}}+t_{0}\\tag{4.5.6}$$
     
 .. raw:: html
 
- <p><a href="#id4.5.7"> 4.5.7</a> <span id="id4.5.7">氯盐引起钢筋混凝土构件腐蚀劣化耐久性评估分级标准及处理要求应符合第<a href="https://longyu8101.github.io/TEST/03.html#id3.0.5">3.0.5</a>条的规定。</span></p>
+ <p><a href="#id4.5.7"> 4.5.7</a> <span id="id4.5.7">氯盐引起钢筋混凝土构件腐蚀劣化耐久性评估分级标准及处理要求应符合第<a href="https://jts304-2019.readthedocs.io/zh/latest/03.html#id3.0.5">3.0.5</a>条的规定。</span></p>
 
 4.6 混凝土碳化引起钢筋锈蚀劣化耐久性评估
 ------------------------------------------------
@@ -887,4 +887,4 @@ $$D^{'}=k_{c}\\sqrt{t^{'}}\\tag{4.6.11-2}$$
 
  <p><a href="#id4.7.4"> 4.7.4</a> <span id="id4.7.4">冻融劣化度为C级或D级的钢筋混凝土结构应进行安全性和适用性评估。</span></p>
 
- <p><a href="#id4.7.5"> 4.7.5</a> <span id="id4.7.5">混凝土构件冻融劣化耐久性评估分级标准及处理要求应符合第<a href="https://longyu8101.github.io/TEST/03.html#id3.0.5">3.0.5</a>条的规定。</span></p>
+ <p><a href="#id4.7.5"> 4.7.5</a> <span id="id4.7.5">混凝土构件冻融劣化耐久性评估分级标准及处理要求应符合第<a href="https://jts304-2019.readthedocs.io/zh/latest/03.html#id3.0.5">3.0.5</a>条的规定。</span></p>

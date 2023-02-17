@@ -26,7 +26,7 @@
 
 .. raw:: html
 
- <p><a href="#id11.1.3"> 11.1.3</a> <span id="id11.1.3">航道整治建筑物评估内容包括安全性、适用性和耐久性评估，评估内容的确定应按第<a href="https://longyu8101.github.io/TEST/03.html#id3.0.4">3.0.4</a>条的规定执行。</span></p>
+ <p><a href="#id11.1.3"> 11.1.3</a> <span id="id11.1.3">航道整治建筑物评估内容包括安全性、适用性和耐久性评估，评估内容的确定应按第<a href="https://jts304-2019.readthedocs.io/zh/latest/03.html#id3.0.4">3.0.4</a>条的规定执行。</span></p>
  <p><a href="#id11.1.4"> 11.1.4</a> <span id="id11.1.4">航道整治建筑物适用性评估等级及处理要求应符合<a href="#B11.1.4">表11.1.4</a>的规定。</span></p>
 
 .. raw:: html 
@@ -88,7 +88,7 @@
 
 .. raw:: html
 
- <p><a href="#id11.1.5"> 11.1.5</a> <span id="id11.1.5">航道整治建筑物混凝土结构耐久性评估应按<a href="https://longyu8101.github.io/TEST/04.html">第4章</a>的规定执行。</span></p>
+ <p><a href="#id11.1.5"> 11.1.5</a> <span id="id11.1.5">航道整治建筑物混凝土结构耐久性评估应按<a href="https://jts304-2019.readthedocs.io/zh/latest/04.html">第4章</a>的规定执行。</span></p>
 
 11.2 航道护岸检测与评估
 ---------------------------

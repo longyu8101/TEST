@@ -204,7 +204,7 @@
 
  <p><a href="#id3.0.8.5"> 3.0.8.5</a> <span id="id3.0.8.5">结构或构件几何参数应采用实测值，并应计入材料劣化、局部缺陷等影响。钢筋混凝土构件计算应考虑锈蚀钢筋截面面积减小、屈服强度降低及钢筋与混凝土间窝裹力减小等因素。</span></p>
 
- <p><a href="#id3.0.8.6"> 3.0.8.6</a> <span id="id3.0.8.6">锈蚀钢筋混凝土构件承载能力验算可按<a href="https://longyu8101.github.io/TEST/xmjd/fuluA.html">附录A</a>的规定进行。</span></p>
+ <p><a href="#id3.0.8.6"> 3.0.8.6</a> <span id="id3.0.8.6">锈蚀钢筋混凝土构件承载能力验算可按<a href="https://jts304-2019.readthedocs.io/zh/latest/xmjd/fuluA.html">附录A</a>的规定进行。</span></p>
 
  <p><a href="#id3.0.8.7"> 3.0.8.7</a> <span id="id3.0.8.7">通过荷载试验确定结构构件承载能力时，试验方法应符合国家现行有关标准的规定。</span></p>
 
@@ -216,5 +216,5 @@
 
  <p><a href="#id3.0.12"> 3.0.12</a> <span id="id3.0.12">通过荷载试验确定结构构件承载能力时，试验方法应符合国家现行有关标准的规定。 检测前，制定的检测方案应符合相关的要求。</span></p>
 
- <p><a href="#id3.0.13"> 3.0.13</a> <span id="id3.0.13">通过荷载试验确定结构构件承载能力时，试验方法应符合国家现行有关标准的规定。 检测与评估的报告各实际内容可参照<a href="https://longyu8101.github.io/TEST/xmjd/fuluB.html">附录B</a>。</span></p>
+ <p><a href="#id3.0.13"> 3.0.13</a> <span id="id3.0.13">通过荷载试验确定结构构件承载能力时，试验方法应符合国家现行有关标准的规定。 检测与评估的报告各实际内容可参照<a href="https://jts304-2019.readthedocs.io/zh/latest/xmjd/fuluB.html">附录B</a>。</span></p>
 

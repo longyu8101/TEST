@@ -31,8 +31,8 @@
     <li>荷载情况。</li>
  </ol>
 
- <p><a href="#id7.1.3"> 7.1.3</a> <span id="id7.1.3">检测方法应符合<a href="https://longyu8101.github.io/TEST/xmjd/fuluC.html">附录C</a>~<a href="https://longyu8101.github.io/TEST/xmjd/fuluE.html">附录E</a>和现行行业有关标准的规定。</span></p>
- <p><a href="#id7.1.4"> 7.1.4</a> <span id="id7.1.4">码头评估内容包括安全性、适用性和耐久性评估,评估内容应符合第<a href="https://longyu8101.github.io/TEST/03.html#id3.0.4">3.0.4</a>条的规定。</span></p>
+ <p><a href="#id7.1.3"> 7.1.3</a> <span id="id7.1.3">检测方法应符合<a href="https://jts304-2019.readthedocs.io/zh/latest/xmjd/fuluC.html">附录C</a>~<a href="https://jts304-2019.readthedocs.io/zh/latest/xmjd/fuluE.html">附录E</a>和现行行业有关标准的规定。</span></p>
+ <p><a href="#id7.1.4"> 7.1.4</a> <span id="id7.1.4">码头评估内容包括安全性、适用性和耐久性评估,评估内容应符合第<a href="https://jts304-2019.readthedocs.io/zh/latest/03.html#id3.0.4">3.0.4</a>条的规定。</span></p>
  <p><a href="#id7.1.5"> 7.1.5</a> <span id="id7.1.5">码头的结构构件适用性评估应符合<a href="#B7.1.5">表7.1.5</a>的规定，取最低一级作为该构件适用性评估等级。</span></p>
 
     <style>
@@ -104,7 +104,7 @@
 
 .. raw:: html
 
- <p><a href="#id7.1.6"> 7.1.6</a> <span id="id7.1.6">码头的适用性评估应以现场调查和检测结果为基本依据，当检测只能取得部分数据或改变建筑物使用条件时，尚应按正常使用极限状态进行验算，并应符合第<a href="https://longyu8101.github.io/TEST/03.html#id3.0.8">3.0.8</a>条和现行行业有关标准的规定。</span></p>
+ <p><a href="#id7.1.6"> 7.1.6</a> <span id="id7.1.6">码头的适用性评估应以现场调查和检测结果为基本依据，当检测只能取得部分数据或改变建筑物使用条件时，尚应按正常使用极限状态进行验算，并应符合第<a href="https://jts304-2019.readthedocs.io/zh/latest/03.html#id3.0.8">3.0.8</a>条和现行行业有关标准的规定。</span></p>
  <p><a href="#id7.1.7"> 7.1.7</a> <span id="id7.1.7">码头耐久性评估应按第4章~第6章的规定执行。</span></p>
 
 7.2 重力式码头检测与评估
