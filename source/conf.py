@@ -8,7 +8,7 @@
 
 project ="水运工程水工建筑物<br /><br />检测与评估技术规范<br /><br />JTS 304-2019"
 
-copyright = '哈尔滨工业大学' 
+copyright = ' ' 
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
