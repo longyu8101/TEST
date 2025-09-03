@@ -1,0 +1,248 @@
+.. _5. 钢结构耐久性检测与评估:
+
+
+5. 钢结构耐久性检测与评估
+===============================
+5.1 腐蚀介质及工程情况的调查
+-------------------------------------
+.. raw:: html
+
+ <p><a href="#id5.1.1"> 5.1.1</a> <span id="id5.1.1">腐蚀介质调查内容宜包括潮汐、 温度、湿度、含盐量、pH值、电细率、水污染情况和其他侵蚀介质等，海水环境钢结构腐蚀介质调查内容还应包括海水中氯离子含量。</span></p>
+
+ <p><a href="#id5.1.2"> 5.1.2</a> <span id="id5.1.2">工程情况的调查内容除应包括第<a href="https://jts304-2019.readthedocs.io/zh/latest/03.html#id3.0.2">3.0.2</a>条规定的内容外，还应包括腐蚀情况的检查检测记录。</span></p>
+
+5.2 检测
+------------------------
+.. raw:: html
+
+ <p><a href="#id5.2.1"> 5.2.1</a> <span id="id5.2.1">淡水环境钢结构外观检测应针对水上区和水下区等不同部位分别检测，海水环境钢结构外观检测应针对大气区、浪溅区、水位变动区和水下区等不同部位分别检测，检测应包括下列内容：</span></p>
+
+1. 锈蚀发生的位置、面积和分布情况;
+#. 钢结构表面集中锈蚀、点蚀或穿孔情况;
+#. 外力作用引起的提伤情况等。
+ 
+.. raw:: html
+
+ <p><a href="#id5.2.2"> 5.2.2</a> <span id="id5.2.2">钢结构构件厚度检测应根据外观检测结果选择腐蚀严重和应力大的部位。</span></p>
+
+ <p><a href="#id5.2.3"> 5.2.3</a> <span id="id5.2.3">钢结构的锈蚀检测方法应符合附录E的规定。</span></p>
+
+5.3 评估
+------------------------
+.. raw:: html
+
+ <p><a href="#id5.3.1"> 5.3.1</a> <span id="id5.3.1">钢结构耐久性评估验算应符合下列规定。</span></p>
+
+ <p><a href="#id5.3.1.1"> 5.3.1.1</a> <span id="id5.3.1.1">验算断面的选取应综合考虑钢材腐蚀状况和结构应力分布状况等不利因素。</span></p>
+
+ <p><a href="#id5.3.1.2"> 5.3.1.2</a> <span id="id5.3.1.2">验算断面尺寸宜采用调查结果的平均值，并应考虑坑蚀程度的影响。</span></p>
+
+ <p><a href="#id5.3.1.3"> 5.3.1.3</a> <span id="id5.3.1.3">腐蚀速度的计算应按下列情况分别进行:</span></p>
+
+ <ol>
+
+ <li>无防腐蚀措施的钢结构腐蚀速度按<a href="#ideq5.3.1-1">式(5.3.1-1)</a> <span id="ideq5.3.1-1">计算：</li>
+
+  </ol>
+
+$$V_{0}=\\dfrac{D_{i}-D_{f}}{t_{s}}\\tag{5.3.1-1}$$
+
+.. raw:: html
+ 
+  <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left'  id="eqzs"><i>V</i><sub>0</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs"> 钢结构腐蚀速度(mm/a)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>D</i><sub>i</td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">钢结构原始厚度(mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>D</i><sub>f</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">检测时钢结构的平均厚度(mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>s</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">检测时钢结构已使用的时间(a)。</td>
+ </tr>
+ </table>
+
+
+
+ <ol start='2'>
+
+ <li>有防腐蚀措施的钢结构，腐蚀速度按<a href="#ideq5.3.1-2">式(5.3.1-2)</a> <span id="ideq5.3.1-2">计算：</li>
+
+  </ol>
+
+
+$$V_{1}=\\dfrac{D_{i}-D_{f}}{(1-\\beta)t_{s1}+t_{s2}}\\tag{5.3.1-2}$$
+
+.. raw:: html
+ 
+  <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left'  id="eqzs"><i>V</i><sub>1</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">钢结构腐蚀速度(mm/a)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>D</i><sub>i</td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">钢结构原始厚度(mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>D</i><sub>f</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">检测时钢结构的平均厚度(mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>β</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs" >防腐蚀措施防腐效率,对涂层防腐或涂层与阴极保护联合防腐取0.5~0.95，对阴极保护防腐按<a href="#B5.3.1">表5.3.1</a>选取；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>s1</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">防腐蚀措施有效工作时间(a)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>s2</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">防腐蚀措施失效后至调查时的时间(a)。</td>
+ </tr>
+ </table>
+
+ <p>  </p>
+
+.. raw:: html 
+
+   <style>
+      #biaoge{
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:40px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+      }
+      #eqzs {
+         border: 0px;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5.3.1">表5.3.1 阴极保护防腐蚀措施防腐效率</b></caption>	
+              
+		    <tr>
+		        <td width="450px" align="center">水位变动区</td>
+		        <td width="450px" align="center">水下区</td>
+		    </tr>
+		   <tr>
+		        <td  align="center">0.2≤ <i>β</i>< 0.9 </td>
+		        <td  align="center"><i>β</i>≥ 0.9 </td>
+		    </tr>
+		</table>
+
+ <p line-height:80PX>  </p>
+
+.. raw:: html
+
+ <p><a href="#id5.3.2"> 5.3.2</a> <span id="id5.3.2">钢结构使用年限应根据腐蚀情况检测结果按<a href="#ideq5.3.2">式(5.3.2)</a> <span id="ideq5.3.2">计算：</span></p>
+
+$$t_{e}=t_{s}+\\dfrac{D_{f}-D_{i}}{V}\\tag{5.3.2}$$
+
+.. raw:: html
+  
+  <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left'  id="eqzs"><i>t</i><sub>e</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">钢结构使用年限(a)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>s</td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">检测时钢结构已使用的时间(a)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>D</i><sub>f</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">检测时钢结构的平均厚度(mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>D</i><sub>t</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">按承载能力极限状态计算出的钢结构厚度(mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>V</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">钢结构腐蚀速度(mm/a)。</td>
+ </tr>
+ </table>
+
+:math:`\ ` 
+
+.. raw:: html 
+
+ <p><a href="#id5.3.3"> 5.3.3</a> <span id="id5.3.3">钢结构耐久性评估分级标准应符合<a href="#B5.3.3">表5.3.3</a>的规定。</span></p>
+
+.. raw:: html 
+   
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5.3.3">表5.3.3 阴极保护防腐蚀措施防腐效率</b></caption>	
+              
+		    <tr>
+		        <td width="70px" align="center">等级</td>
+                <td width="550px" align="center">分级标准</td>
+		        <td width="350px" align="center">处理要求</td>
+		    </tr>
+		   <tr>
+		        <td  align="center">A</td>
+		        <td  align="left" >具有足够的承载能力，耐久性满足设计使用年限要求</td>
+                <td  align="left" >不必采取措施</td>
+		    </tr>
+            		   <tr>
+		        <td  align="center" id="dhbg">B</td>
+		        <td  align="left" >腐蚀尚不显著影响承载能力，耐久性不满足设计使用年限要求</td>
+                <td  align="left"  valign="top">及时采取修复措施</td>
+		    </tr>
+             <tr>
+		        <td  align="center"id="dhbg">C</td>
+		        <td  align="left" >腐蚀已显著影响承载能力，耐久性不满足设计使用年限要求</td>
+                <td  align="left" valign="top">立即采取修复、补强措施</td>
+		    </tr>
+            <tr>
+		        <td  align="center"id="dhbg">D</td>
+		        <td  align="left" >腐蚀已严重影响承载能力，耐久性不满足设计使用年限要求</td>
+                <td  align="left" valign="top">视情况采取修复、补强措施或报废</td>
+		    </tr>
+		</table>

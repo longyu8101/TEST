@@ -1,0 +1,294 @@
+
+4. 混凝土结构耐久性检测与评估
+==================================
+
+4.2 氯盐引起钢筋锈蚀劣化耐久性检测
+----------------------------------
+.. raw:: html
+
+ <p><a href="#idt4.2.2"> 4.2.2</a> <span id="idt4.2.2">氯离子是极强的去钝化剂。当钢筋混凝土结构处于氯盐环境下，氯离子会通过液相扩散或毛细管结构深入混凝土中，游离的氯离子与水形成盐酸，并与混凝土中的氢氧化钙发生反应，使水泥石水化产物发生分解，降低混凝土的密实性。当氯离子渗透至钢筋表面时，会对钢筋表面的钝化膜产生完全或部分的破坏，造成预埋钢筋的严重腐蚀和开裂。钢筋锈蚀的氧化物体积会膨胀4倍，会在混凝土内部产生内应力，导致混凝土进一步开裂，使钢筋与混凝土的握裹力降低，从而影响混凝土结构的承载能力和使用寿命。海洋环境下的钢筋混凝土结构腐蚀多为这种情况。故此在海水环境条件下，需要对混凝土中氯离子渗透扩散情况和钢筋腐蚀电位进行检测。</span></p>
+
+4.5 氯盐引起钢筋锈蚀劣化耐久性评估
+----------------------------------
+.. raw:: html
+
+ <p><a href="#idt4.5.3"> 4.5.3</a> <span id="idt4.5.3">当混凝土结构外观劣化度评估为C、D级时，由于混凝土保护层出现了许多较宽的锈胀裂缝或剥离剥落，对构件的承载能力和适用性将产生较大的影响，因此要按承载能力极限状态和正常使用极限状态进行安全性或适用性评估。</span></p>
+
+ <p><a href="#idt4.5.4"> 4.5.4</a> <span id="idt4.5.4">国家标准《港口工程结构可靠性设计统一标准》（GB 50158—2010）未对耐久性极限状态给出明确的定义，本规范参照行业协会标准《混凝土结构耐久性评定标准》（CECS 220：2007）中对耐久性极限状态的定义，按海水环境下混凝土结构钢筋腐蚀破坏过程，将耐久性划分为钢筋开始锈蚀、保护层锈涨开裂和功能明显退化三阶段分段进行评估。</span></p>
+ 
+ <ol>
+
+ <li>钢筋开始锈蚀 <i>t</i><sub>i</sub> 是指混凝土结构暴露于海水环境至氯离子渗入到钢筋周围达到引起钢筋腐蚀的临界含量所经历的时间。<i>t</i><sub>i</sub> 的计算模型采用国内外学者基本公认的费克第二定律为基础的计算模式。由于一些参数，如：混凝土有效扩散系数 <i>D</i><sub>t</sub> 、混凝土表面氯离子含量 <i>C</i><sub>s</sub> 、引起混凝土中钢筋发生腐蚀的氯离子临界含量 <i>C</i><sub>t</sub> ，等受到暴露环境、暴露时间等各种极为复杂因素的影响，存在着较大的不确定性，为了尽可能准确，原则上都以对实际混凝土构件上检测的数据为主。</li>
+
+ </ol>
+ <p> &emsp; &emsp;①混凝土有效扩散系数<i>D</i>的确定：</p>
+ <p>&emsp; &emsp;混凝土有效扩散系数 <i>D</i> 是随时间不断衰减的，美国Life—365预测暴露于氯离子环境下钢筋混凝土的使用年限和生命周期费用预测软件建议按<a href="#ideqt4.5.4">式(4.5.4)</a><span id="ideqt4.5.4">确定：</p>
+
+
+
+$$D_{t}=D_{ref}({\\frac{t_{\\mathrm{ref}}}{t}})^{m}\\tag{4.5.4}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>D</i><sub>t</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">结构使用时间t时的扩散系数(mm<sup>2</sup>/a)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>D</i><sub>ref</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">在某一参考时间的扩散系数(mm<sup>2</sup>/a)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>ref</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs"> 
+  在某一参考时间(a)，在Life-365软件中使用28天作为参考时间；
+ </td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">建筑物使用时间(a);</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>m</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">与混凝土配合比有关的常量，其取值与水胶比、掺合料的品种及掺量有关。</td>
+ </tr>
+  </table>
+  <p></p>
+ <p>&emsp;&emsp;Life—365建立的扩散系数随时间衰减的关系式，其基本思路是可行的，但未考虑实际暴露环境的影响，用该式来估算时可能误差很大。因此，本规范考虑到已建工程的耐久性评估一般都有10年以上的历史，10年以后 <i>D</i><sub>t</sub> 的衰减幅度已比较小，故此规定当建筑物使用时间t≥10年时，<i>D</i> 按实际测值选取，今后 <i>D</i> 随时间进一步地衰减作为安全储备；若调查评估时建筑物使用时间t＜10年，则按Life—365建议的公式及 <i>m</i> 值按10年使用期计算有效扩散系数 <i>D</i> 。无条件实测时，参照美国Life—365对氯离子扩散系数衰减系数的计算式 <i>m</i>=0.2+0.4（<i>FA</i>/0.5+<i>SG</i>/0.7），并用我国实测数据验证，对普通硅酸盐混凝土可取 <i>m</i> =0.2 ，对有掺合料的混凝土我国尚缺乏足够的数据，参考国外资料，<i>m</i> 值多在0.4～0.6范围内变化。因此，按本规范规定检测评估的 <i>t</i><sub>0</sub> 。值一般偏小，也就是偏保守或安全。</p>
+
+ <p> &emsp; &emsp;②混凝土表面氯离子含量 <i>C</i><sub>s</sub> 取值：</p>
+ <p>&emsp;&emsp;<i>C</i><sub>s</sub> 值的大小与暴露条件、混凝土结构物所处的暴露位置（高程）及时间长短有关，通常 <i>C</i><sub>s</sub> 随混凝土暴露于海水环境的时间的增加而增大。国外一些资料认为，当暴露年限超过10年后认为基本恒定。因此本规范规定，当结构物使用时间 <i>t</i> ≥10年时，<i>C</i><sub>s</sub> 按实测值选取，当结构物使用时间 <i>t</i> ＜10年时按条文中的<a href="https://jts304-2019.readthedocs.io/zh/latest/04.html#B4.5.4-3">表4.5.4-3</a>取值。
+ <br>&emsp;&emsp;由于我国缺乏海港工程混凝土表面氯离子含量 <i>C</i><sub>s</sub> 值的统计分析资料，条文的<a href="https://jts304-2019.readthedocs.io/zh/latest/04.html#B4.5.4-3">表4.5.4-3</a>中 <i>C</i><sub>s</sub> 规定值是借鉴美国混凝土学会Life—365（<a href="#Bt4.1">表4.1</a>）、英国Bamforth建议用于设计的混凝土表面氯离子含量（<a href="#Bt4.2">表4.2</a>）、日本土木学会标准（<a href="#Bt4.3">表4.3</a>）和欧洲Duracrete关于 <i>C</i><sub>s</sub> 取值的规定（<a href="#Bt4.4">表4.4</a>）综合分析确定。</p>
+
+
+
+.. raw:: html 
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="Bt4.1">表4.1 美国Life—365近海大气区混凝土表面的氯离子含量（按混凝土质量百分比计）</b></caption>	
+              
+		    <tr>
+		        <td width="150px" align="center">环境</td>
+		        <td width="150px" align="center">每年增加速度</td>
+              <td width="150px" align="center">最终定值</td>
+		        <td width="150px" align="center">环境</td>
+              <td width="150px" align="center">每年增加速度</td>
+		        <td width="150px" align="center">最终定值</td>
+		    </tr>
+		   <tr>
+		        <td  align="center">潮汐浪溅区</td>
+		        <td  align="center">瞬时到定值得</td>
+              <td  align="center">0.8%</td>
+		        <td  align="center">离海岸800 m内</td>
+              <td  align="center">0.04%</td>
+		        <td  align="center">0.6%</td>
+		    </tr>
+      	<tr>
+		        <td  align="center">海上盐雾区</td>
+		        <td  align="center">0.10%</td>
+              <td  align="center">1.0%</td>
+		        <td  align="center">离海岸1.5 km内</td>
+              <td  align="center">0.02%</td>
+		        <td  align="center">0.6%</td>
+		    </tr>
+		</table>
+     <p> </p>  
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="Bt4.2">表4.2 英国Bamforth用于设计的表面氯离子含量（按混凝土质量百分比计）</b></caption>	
+              
+		    <tr>
+		        <td  width="225px" align="center"  >环境</td>
+		        <td  width="225px" align="center" >海洋浪溅区</td>
+               <td  width="225px" align="center" >海洋浪雾区</td>
+               <td  width="225px" align="center" >海洋大气区</td>
+			 </tr>
+          <tr>
+		        <td  align="center">硅酸盐水泥混凝土</td>
+              <td  align="center">0.75%(4.5%)</td>
+		        <td  align="center" >0.5%(3%)</td>
+              <td  align="center">0.25%(1.5%)</td>
+          </tr>
+          <tr>
+		        <td  align="center">加有掺合料的水泥混凝土</td>
+              <td  align="center">0.9%(5.4%)</td>
+		        <td  align="center" >0.6%(3.6%)</td>
+              <td  align="center">0.3%(1.8%)</td> 
+			 </tr>
+		</table>
+   <p> </p>  
+
+
+		<table id=biaoge style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="Bt4.3">表4.3 日本土木学会近海大气区混凝土表面的氯离子含量（按混凝土质量百分比计）</b></caption>	
+      	
+          <tr>
+		        <td  align="center" rowspan="2" width="150px">浪溅区</td>
+		        <td  align="center" colspan="5" >离海岸距离</td>
+              <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->
+          </tr>
+          <tr>
+		       <!-- <td></td> -->
+		        <td  align="center" width="150px" >岸线附近</td>
+              <td  align="center" width="150px" >0.1 km</td>
+              <td  align="center" width="150px" >0.25 km</td>
+              <td  align="center" width="150px" >0.5 km</td>
+              <td  align="center" width="150px" >1.0 km</td>
+          </tr>
+          <tr>
+		        <td  align="center" width="150px" >0.65%</td>
+		        <td  align="center" width="150px" >0.45%</td>
+              <td  align="center" width="150px" >0.225%</td>
+              <td  align="center" width="150px" >0.15%</td>
+              <td  align="center" width="150px" >0.1%</td>
+              <td  align="center" width="150px" >0.075%</td>
+          </tr>
+		</table>
+   <p> </p>  
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="Bt4.4">表4.4 欧洲Duracrete混凝土表面氯离子含量（按混凝土质量百分比计）</b></caption>	
+      	
+          <tr>
+		        <td  align="center" > </td>
+		        <td  align="center"  colspan="2">大气区</td>
+              <!-- <td></td> -->
+               <td  align="center"  colspan="3">浪溅区</td>
+               <!-- <td></td> -->
+               <!-- <td></td> -->
+              <td  align="center"  colspan="2">水位变动区</td>
+          </tr>
+          <tr>
+		        <td  align="center" width="115px">水胶比</td>
+		        <td  align="center" width="115px">0.55</td>
+              <td  align="center" width="115px">0.50</td>
+              <td  align="center" width="115px">0.50</td>
+              <td  align="center" width="115px">0.40</td>
+              <td  align="center" width="115px">0.45</td>
+              <td  align="center" width="115px">0.45</td>
+              <td  align="center" width="115px">0.50</td>
+          </tr>
+           <tr>
+		        <td  align="center" ><i>C</i><sub>s</sub></td>
+		        <td  align="center" >0.18%</td>
+              <td  align="center" >0.20%</td>
+              <td  align="center" >0.61%</td>
+              <td  align="center" >0.54%</td>
+              <td  align="center" >0.51%</td>
+              <td  align="center" >0.60%</td>
+              <td  align="center" >0.61%</td>
+          </tr>
+		</table>
+ <p></p>
+
+.. raw:: html 
+
+ <p> &emsp; &emsp;③关于钢筋腐蚀氯离子临界含量 <i>C</i><sub>t</sub> 取值：</p>
+ &emsp;&emsp;引起混凝土中开始腐蚀的氯离子含量临界值受到混凝土孔隙液中 [C1<sup>-</sup>]/[OH<sup>-</sup>] 比值大小、环境条件等许多因素的影响，综合有关资料，氯离子含量临界值变动范围在0.17% ～2.5% 之间（以全部氯离子占胶凝材料质量百分数计），目前比较公认的范围为0.2% ～0.6% ，本规范对处于浪溅区的混凝土构件取氯离子含量临界值 <i>C</i><sub>t</sub>为0.35% ～0.45% 。基于位于水位变动区的混凝土常处于饱水状态，由于缺氧，氯离子含量临界值大大提高，甚至可达胶凝材料质量的1.0% ，位于大气区的混凝土结构相对干燥，电阻率会大大提高，阳极与阴极间的离子传导相对困难，因此将水位变动区、大气区氯离子含量临界浓度定为0.55% 。<br>
+
+ &emsp;&emsp;各国标准对 <i>C</i><sub>t</sub> 的取值规定差异很大，以浪溅区为例，欧洲Durecrete规定为0.5% ～0.9% （与水灰比有关），英国Bamforth为0.4% ～1.5% （与保水程度和水灰比有关），美国life—365为0.3% ，日本土木学会规定为0.3% ，本标准c，取值与美、日标准接近。
+
+ <ol start='2'>
+ <li>关于混凝土结构从钢筋开始锈蚀至保护层开裂时间 <i>t</i><sub>c</sub> 的确定：</li>
+ <ol>
+
+.. raw:: html 
+
+ &emsp; &emsp; 本规范计算 <i>t</i><sub>c</sub> 的公式引自行业协会标准《混凝土结构耐久性评定标准》（CECS220：2007）附录C。按该式计算，处于浪溅区的钢筋混凝土构件，对于普通混凝土 <i>t</i><sub>i</sub> 为5年～7年，高性能混凝土为13年～16年，基本与实际情况相符。
+ <br>&emsp; &emsp; 钢筋从开始腐蚀到使混凝土保护层胀裂的时间与混凝土的强度、保护层厚度与钢筋直径的比值有极大关系。由于混凝土中钢筋发生锈蚀时，其锈蚀产物会发生膨胀，体积一般可比钢材体积增大3倍～4倍，当体积膨胀产生的拉应力超过混凝土自身的抗拉强度时就会产生顺筋裂缝。因此，混凝土强度越高或水胶比越低的混凝土在相同条件下导致混凝土发生顺筋开裂的时间越长。当混凝土保护层相同时，钢筋越粗，混凝土保护层厚度c与钢筋直径d的比值越小，<i>t</i><sub>c</sub> 也就越短，国外一些研究强调，c/d值和混凝土立方体抗压强度标准值 <i>f</i><sub>cuk</sub> 是影响 <i>t</i><sub>c</sub> 的主要参数，<i>t</i><sub>c</sub> 值随着c/d值和 <i>f</i><sub>cuk</sub> 增大而增大。
+ <br>&emsp; &emsp; 此外，钢筋从开始腐蚀到使混凝土保护层胀裂的时间与钢筋腐蚀速度有关，钢筋腐蚀速度可按照条文的<a href="https://jts304-2019.readthedocs.io/zh/latest/04.html#ideq4.5.4-6">式(4.5.4-6)</a>由腐蚀电流密度得出，而钢筋腐蚀电流密度与环境温度、混凝土电阻率、钢筋周围氯离子含量等有关。条文的<a href="https://jts304-2019.readthedocs.io/zh/latest/04.html#B4.5.4-4">表4.5.4-4</a>的腐蚀电流密度是根据Andrade室内试验和现场实际结构检测结果对钢筋腐蚀等级划分的建议，并结合海港工程环境条件和混凝土质量制定的。Andrade等对钢筋腐蚀等级划分建议见<a href="#Bt4.5">表4.5</a>。
+
+ <p></p>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="Bt4.5">表4.5 Andrade等对钢筋腐蚀等级划分建议</b></caption>	
+      	
+          <tr>
+		        <td  align="center" id="dhbg"> 钢筋的腐蚀电流密度<br>(μA/cm<sup>2</sup>)</td>
+		        <td  align="center" valign="middle" id="dhbg">钢筋腐蚀等级</td>
+              <!-- <td></td> -->
+               <td  align="center"  id="dhbg">混凝土电阻率<br>(kΩ·cm)</td>   
+          </tr>
+          <tr>
+		        <td  align="center" width="300px">< 1.0 </td>
+		        <td  align="center" width="300px">可忽略不计</td>
+              <td  align="center" rowspan="2" width="300px" id="dhbg">> 100~200</td>
+          </tr>
+          <tr>
+		        <td  align="center" width="300px">0.1~0.5</td>
+		        <td  align="center" width="300px">低</td>
+             <!-- <td></td> -->
+          </tr>
+          <tr>
+		        <td  align="center" width="300px">0.5~1.0</td>
+		        <td  align="center" width="300px">中</td>
+              <td  align="center" rowspan="2" width="300px" id="dhbg"> 10~100</td>
+          </tr>
+          <tr>
+		        <td  align="center" width="300px">> 1.0</td>
+		        <td  align="center" width="300px">高</td>
+             <!-- <td></td> -->
+          </tr>
+		</table>
+      <p></p>
+
+ <ol start='3'>
+ <li>关于混凝土结构功能明显退化时间 <i>t</i><sub>d</sub> 的确定：</li>
+ <ol>
+
+  &emsp;&emsp; 国内外大量试验结果表明：当混凝土中钢筋发生顺筋锈胀开裂，在截面损失率小于5%的范围内，只要结构细部设计考虑了箍筋长度和抗剪切性能，一般不会发生钢筋/混凝土的粘结破坏，对钢筋延伸率、钢筋屈服强度和抗拉极限强度都无明显影响，按极限承载力计算时仅考虑截面的折减。当截面损失率在5%～10%的范围内，由于腐蚀不均匀，钢筋屈服强度、抗拉强度及延伸率开始降低，但锈胀后钢筋混凝土受弯构件截面的平均应变分布仍基本符合平截面假定。因此，计算模型与未锈胀构件相同，但计算时需考虑钢筋截面面积减小、钢筋屈服强度降低以及钢筋与混凝土间粘结性能退化引起钢筋混凝土协同工作能力降低对承载能力的影响。当截面损失率在10%～60%范围内时，钢筋屈服点已不明显，钢筋的各项力学性能严重下降。因此，将钢筋混凝土结构自构件出现顺筋开裂至钢筋截面因锈蚀减少至原截面的90%的时间作为功能明显退化时间 <i>t</i><sub>d</sub> 。<br>
+  &emsp;&emsp;影响钢筋腐蚀速度的因素十分复杂，条文中的<a href="https://jts304-2019.readthedocs.io/zh/latest/04.html#B4.5.4-5">表4.5.4-5</a>是按裸露于海水环境中钢筋腐蚀平均速度的下限取值，这是基于 <i>t</i><sub>d</sub> 这段时间并不都处于裸露状态，对处于浪溅区的钢筋混凝土板，基于板一般不会出现顺筋开裂，<i>t</i><sub>d2</sub> 这段时间钢筋腐蚀的通氧条件比顺筋开裂的要差很多，故钢筋腐蚀速度取值为 0.05mm/a。按上述原则计算，处于浪溅区发生顺筋开裂的构件 <i>t</i><sub>d</sub> 为2年～4年，板为8年～10年，计算值与实际调查结果较为接近。
+  
+ <p><a href="#idt4.5.5"> 4.5.5</a> <span id="idt4.5.5"> 对于普通钢筋混凝土结构，一般设计使用寿命取 <i>t</i><sub>e</sub>=<i>t</i><sub>i</sub>+<i>t</i><sub>c</sub>+<i>t</i><sub>d</sub> 。对于预应力混凝土结构，当采用高强钢丝或钢绞线作为预应力筋时，因预应力筋应力高、较脆，即使腐蚀轻微，由于本身断面小，断面损失率已较大，而且对应力腐蚀和预应力腐蚀疲劳很敏感，因此对采用高强钢丝或钢绞线作为预力筋的预应力构件，规定其设计使用寿命为 <i>t</i><sub>e</sub>=<i>t</i><sub>i</sub> ，当采用粗钢筋作为预应力筋时，腐蚀对预应力筋断面损失较小，应力腐蚀及预应力腐蚀疲劳敏感相对较小，一旦出现开裂对承载能力影响不大，因此规定采用粗钢筋作为预应力筋时，其设计使用寿命为 <i>t</i><sub>e</sub>=<i>t</i><sub>i</sub>+<i>t</i><sub>c</sub> 。</span></p>
+
+
+4.6 混凝土碳化引起钢筋锈蚀劣化耐久性评估
+---------------------------------------------
+.. raw:: html 
+
+ <p><a href="#idt4.6.4"> 4.6.4</a> <span id="idt4.6.4">～<a href="#idt4.6.12"> 4.6.12</a> <span id="idt4.6.12"> 引用自国家标准《混凝土结构现场检测技术标准》（GB/T 50784—2013）第11.2节的规定。</span></p>
+  
+:math:`\ `

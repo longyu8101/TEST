@@ -1,0 +1,219 @@
+.. _9. 港口护岸检测与评估:
+
+
+9. 港口护岸检测与评估
+===============================
+9.1 检测
+-----------------------------
+
+.. raw:: html
+  
+ <p><a href="#id9.1.1"> 9.1.1</a> <span id="id9.1.1">港口护岸结构检测应包括下列内容：</span></p>
+
+(1) 环境条件调查；
+(2) 结构基本情况调查；
+(3) 结构构件破损检测；
+(4) 结构位移与变形检测；
+(5) 混凝土结构耐久性检测；
+(6) 结构防腐蚀措施检测。
+
+.. raw:: html
+
+ <p><a href="#id9.1.2"> 9.1.2</a> <span id="id9.1.2">港口护岸环境条件调查应包含下列内容：</span></p>
+
+(1) 波浪、潮流、冰情等水文条件；
+(2) 工程地质条件；
+(3) 堤前冲淤变化情况。
+
+.. raw:: html
+
+ <p><a href="#id9.1.3"> 9.1.3</a> <span id="id9.1.3">斜坡式护岸结构构件破损检测的内容应包括胸墙、护面块体等主要结构构件的裂缝、露石、露筋、冻融等破损和缺失情况。</span></p>
+ <p><a href="#id9.1.4"> 9.1.4</a> <span id="id9.1.4">直立式护岸结构构件破损检测的内容应包括胸墙、堤身等主要结构构件的裂缝、露石、露筋、冻融等破损。</span></p>
+ <p><a href="#id9.1.5"> 9.1.5</a> <span id="id9.1.5">斜坡式护岸的位移与变形检测应包括下列内容：</span></p>
+
+(1) 胸墙的水平位移、沉降和倾斜；
+(2) 护面块体的散乱、水平位移和下沉；
+(3) 坡顶沉降情况；
+(4) 临水面坡度、肩台宽度和沉降情况；
+(5) 护脚块体和抛石棱体的水平位移、下沉，棱体宽度的变化；
+(6) 护底结构层的变化情况。
+
+.. raw:: html
+
+ <p><a href="#id9.1.6"> 9.1.6</a> <span id="id9.1.6">直立式护岸的位移与变形检测应包括下列内容：</span></p>
+
+(1) 上部结构的位移和倾斜；
+(2) 堤身的水平位移、沉降和倾斜；
+(3) 护面块体的散乱、沉降和水平位移情况；
+(4) 护脚块体及抛石的散乱、水平位移、下沉和范围；
+(5) 抛石基床的散乱和下沉；
+(6) 脚结构的变化情况。
+
+.. raw:: html
+
+ <p><a href="#id9.1.7"> 9.1.7</a> <span id="id9.1.7">护岸混凝土结构耐久性检测应按第4章的有关规定执行。</span></p>
+ <p><a href="#id9.1.8"> 9.1.8</a> <span id="id9.1.8">港口护岸变形及冲淤变化检测方法应符合现行行业标准《水运工程测量规范》(JTS 131)等的有关规定。</span></p>
+
+9.2 评估
+-----------------------------
+
+.. raw:: html
+    
+ <p><a href="#id9.2.1"> 9.2.1</a> <span id="id9.2.1">港口护岸结构评估内容包括安全性、适用性和耐久性评估,评估内容的确定应按第<a href="https://jts304-2019.readthedocs.io/zh/latest/03.html#id3.0.4">3.0.4</a>条的规定执行。</span></p>
+ <p><a href="#id9.2.2"> 9.2.2</a> <span id="id9.2.2">港口护岸评估应符合下列要求。</span></p>
+ <p><a href="#id9.2.2.1"> 9.2.2.1</a> <span id="id9.2.2.1">护岸安全性评估的复核验算应包括下列内容：</span></p>
+
+(1) 斜坡式护岸栅栏板的承载能力、胸墙的承载能力和整体稳定性；
+(2) 直立式护岸沿堤底和堤身各水平缝的抗滑稳定性、沿堤底和堤身各水平缝及齿缝的抗倾稳定性、沿基床底面的抗滑稳定性、构件承载能力、基床和地基的承载能力和整体稳定性。
+
+.. raw:: html
+
+ <p><a href="#id9.2.2.2"> 9.2.2.2</a> <span id="id9.2.2.2">复核验算的断面应按实际情况选择控制性断面，计算方法应符合现行行业标准《防波堤与护岸设计规范》(JTS154)等的有关规定。</span></p>
+ <p><a href="#id9.2.2.3"> 9.2.2.3</a> <span id="id9.2.2.3">护岸安全性评估应符合<a href="#B9.2.2">表9.2.2</a>的规定，取最低一级作为护岸的安全性评估等级。</span></p>
+ 
+ <style>
+      #biaoge{
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:5px;
+
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg{
+         vertical-align: middle;
+      }  
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B9.2.2">表9.2.2 港口护岸安全性评估分级标准</b></caption>	
+
+		    <tr>
+		        <td align="center" colspan="3" rowspan="2"id="dhbg">项目</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <td align="center" colspan="4">等级</td>
+		        <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+		    </tr>
+
+            <tr>
+		        <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <td align="center" width="180px">A</td>
+                <td align="center"width="250px" >B</td>
+                <td  align="center"width="250px" >C</td>
+                <td align="center" width="180px">D</td>
+		    </tr>
+
+
+		   <tr>
+           	<td width="40px"  align="center" rowspan="3"id="dhbg"> 斜坡式</td>
+		      <td align="left" colspan="2">栅栏般的承载能力</td>
+		        <!-- <td></td> -->
+               <td width="120px"  align="center" rowspan="2"id="dhbg"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td width="150px"  align="center" rowspan="2"id="dhbg">0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td width="150px"  align="center" rowspan="2"id="dhbg">0.85≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90</td>
+		         <td width="120px"  align="center" rowspan="2"id="dhbg"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.85 </td>
+         </tr>
+
+         <tr>
+
+		      <td  align="left" colspan="2">胸墙的承载能力</td>
+
+		   </tr>
+
+
+         <tr>
+
+		      <td  align="center" colspan="2">整体稳定性</td>
+		        <!-- <td></td> -->
+               <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td  align="center" >0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		         <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+		   </tr>
+
+
+	       <tr>
+           	<td  width="40px" align="center" rowspan="3"id="dhbg"> 直立式</td>
+		      <td  align="left" colspan="2">抗倾斜、抗滑和整体稳定性</td>
+		        <!-- <td></td> -->
+                <td  align="center" id="dhbg"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+                <td  align="center" id="dhbg">0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+                <td  align="center" id="dhbg">0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		          <td  align="center" id="dhbg"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+         </tr>    
+
+         <tr>
+            	<!-- <td></td> -->
+
+            <td  width="40px" align="center" rowspan="3"id="dhbg"> 承载能力</td>
+		      <td  width="40px" align="center" rowspan="1" >上部<br/>结构</td>
+               <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td  align="center" >0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td  align="center" >0.85≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90</td>
+		         <td  align="center" ><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.85 </td>
+		   </tr>
+
+        <tr>
+            	<!-- <td></td> -->
+                <!-- <td></td> -->
+
+		        <td width="70px" align="left" rowspan="1">沉箱、扶壁、方块、圆筒、基床和地基</td>
+		         <td  align="center" id="dhbg"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)≥1.00</td>
+               <td  align="center" id="dhbg">0.95≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 1.00</td>
+               <td  align="center" id="dhbg">0.90≤<i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.95</td>
+		         <td  align="center" id="dhbg"><i>R</i><sub>d</sub>/(<i>γ</i><sub>0</sub><i>S</i><sub>d</sub>)< 0.90 </td>
+		   </tr>
+     	 </table>
+
+      <p><font size="2"> 注：1. <i>R</i><sub>d</sub><i>S</i><sub>d</sub>分别为结构构件的抗力和作用效应组合设计值；<br/>
+      &emsp;&ensp;&nbsp; 2. <i>γ</i><sub>0</sub>为结构重要性系数，取值根据结构安全等级选取为；<br/>
+      &emsp;&ensp;&nbsp;&emsp;&ensp;一级：<i>γ</i><sub>0</sub>=1.1，<br/>
+      &emsp;&ensp;&nbsp;&emsp;&ensp;二级：<i>γ</i><sub>0</sub>=1.0，<br/>
+      &emsp;&ensp;&nbsp;&emsp;&ensp;三级：除整体稳定性验算取<i>γ</i><sub>0</sub>=1.0外，其它验算项目均取<i>γ</i><sub>0</sub>=0.9；<br/>
+      &emsp;&ensp;&nbsp; 3. 整体稳定性评定为B级的结构应及时采取措施。</font></p>
+
+
+.. raw:: html
+
+ <p><a href="#id9.2.3"> 9.2.3</a> <span id="id9.2.3">港口护岸的适用性应根据检测结果按<a href="#B9.2.3">表9.2.3</a>的规定进行评估。</span></p>
+
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B9.2.3">表9.2.3 港口护岸适用性评估分级标准</b></caption>	
+              
+	        <tr>
+                <td width="60px" align="center">等级</td>
+                <td width="210px" align="center">A</td>
+                <td width="210px" align="center">B</td>
+                <td width="210px" align="center">C</td>
+                <td width="210px" align="center">D</td>
+		    </tr>
+		   <tr>
+		        <td  align="center" id="dhbg">分级<br/>标准</td>
+		        <td  align="left" >护岸断面无变化或变化不大，对使用没影响</td>
+                <td  align="left" >护岸断面略有变化或变化不大，对使用略有影响</td>
+                <td  align="left" >护岸断面变化较大，对使用影响较大</td>
+		        <td  align="left" >护岸断面变化很大，对使用影响很大 </td>
+            </tr>
+     	 </table>
+
+:math:`\ `
+
+.. raw:: html
+
+  <p><a href="#id9.2.4"> 9.2.4</a> <span id="id9.2.4">港口护岸混凝土结构耐久性评估应按<a href="https://jts304-2019.readthedocs.io/zh/latest/04.html">第4章</a>的有关规定执行。</span></p>
